@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Select your Operating System"
 layout: categories
-permalink: /categories/
-author_profile: true
+permalink: /os/
+author_profile: false
 ---
