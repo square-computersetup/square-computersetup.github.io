@@ -1,2 +1,4 @@
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes@4.20.2" 
 permalink: pretty
+plugins:
+  - jekyll-include-cache
