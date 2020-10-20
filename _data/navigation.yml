@@ -1,5 +1,5 @@
 main:
   - title: "Operating System"
     url: /os/
-  - title: "About"
-    url: /about/
+  - title: "Help"
+    url: /help/
