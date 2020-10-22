@@ -4,9 +4,6 @@
 
 @charset "utf-8";
 
-footer { background: #a00; }
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-footer { margin-top: 0.2em; padding 0 1em 0.5em; }
