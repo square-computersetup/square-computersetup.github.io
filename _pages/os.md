@@ -17,7 +17,7 @@ feature_row:
 - url: /windows/
     image_page: /assets/images/winbook.jpg
     alt: "Windows"
-    btn_label: "<img src='/assets/images/windows.png' width='50' height='50'> Windows"
+    btn_label: "Windows"
     btn_class: "btn--primary"
 ---
 
