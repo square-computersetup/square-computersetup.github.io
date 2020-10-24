@@ -2,7 +2,8 @@
 title: "ChromeOS"
 permalink: /chrome/
 categories: ChromeOS
-tags: ChromeOS
+tags: chromeOS
+tags_label: ChromeOS
 author_profile: true
 author: chrome
 ---
