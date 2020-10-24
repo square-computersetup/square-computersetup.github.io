@@ -12,7 +12,6 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 logo: "/assets/images/logo.png"
-breadcrumbs: true
 
 # Build settings
 markdown: kramdown
