@@ -1,7 +1,7 @@
 ---
-title: "Select your Operating System"
+title: "Posts by Operating System"
 layout: categories
-permalink: /os/
+permalink: /all/
 author_profile: true
 author: os
 ---
