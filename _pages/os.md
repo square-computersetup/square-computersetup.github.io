@@ -1,7 +1,7 @@
 ---
 title: "Select your Operating System"
-author_profile: true
 permalink: /os/
+author_profile: true
 feature_row:
   - url: /mac/
     image_page: /assets/images/macbook.jpg
@@ -20,4 +20,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+asdflkjadslfkasjdf
+
 {% include feature_row %} 
+
+lkjasdlkfjasdf
