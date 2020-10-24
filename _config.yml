@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Square Computer Setup
+title: New Computer Setup
 email: ithelp@squareup.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website to self-service initial computer setup
@@ -11,6 +11,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/logo.png"
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
