@@ -1,6 +1,8 @@
 ---
-title: "+ Windows"
+title: "Windows"
+permalink: /win/
 categories: Windows
+tags: Windows
 author_profile: true
 author: windows
 ---
