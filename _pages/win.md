@@ -1,7 +1,7 @@
 ---
 title: "Windows"
 categories: "Windows"
-author: Billy
+author: os
 ---
 
 kjlasdkjfl;kasjdfl;kajsdf
