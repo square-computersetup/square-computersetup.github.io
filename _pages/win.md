@@ -1,6 +1,7 @@
 ---
 title: "Windows"
 categories: "Windows"
+author_profile: true
 author: windows
 ---
 
