@@ -16,4 +16,4 @@ You just received a new computer from Square! Let's get you setup so you can get
 
 <br /><br />
 
-[👍 I understand the rules](/os){: .btn .btn--success .btn--large}
+[🆗 I understand the rules](/os){: .btn .btn--success .btn--large}
