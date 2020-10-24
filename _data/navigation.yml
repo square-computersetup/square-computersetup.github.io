@@ -1,9 +1,9 @@
 main:
-  - title: "<img src='/assets/images/apple.png' width='50' height='50' title='MacOS' />"
+  - title: "<img src='/assets/images/apple2.png' width='25' height='25' title='MacOS' />"
     url: /mac/
-  - title: "<img src='/assets/images/chrome.png' width='50' height='50' title='ChromeOS' />"
+  - title: "<img src='/assets/images/chrome.png' width='25' height='25' title='ChromeOS' />"
     url: /chrome/
-  - title: "<img src='/assets/images/windows.png' width='50' height='50' title='Windows' />"
+  - title: "<img src='/assets/images/windows.png' width='25' height='25' title='Windows' />"
     url: /windows/
   - title: "Help"
     url: /help/
