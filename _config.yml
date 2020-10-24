@@ -48,8 +48,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Square IT"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Square IT Support"
+  avatar : "/assets/images/square_laptop.png"
   bio    : ""
   links:
     - label: "Slack #itsupport"
