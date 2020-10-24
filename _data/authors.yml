@@ -1,3 +1,20 @@
+os:
+  name: ""
+  avatar: "/assets/images/os.jpg"
+  
+windows:
+  name: "Windows"
+  avatar: "/assets/images/win.jpg"
+
+mac:
+  name: "MacOS"
+  avatar: "/assets/images/mac.jpg"
+
+chrome:
+  name: "ChromeOS"
+  avatar: "/assets/images/chrome.jpg"
+
+
 Billy:
   name        : "Billy Rick"
   bio         : "What do you want, jewels? I am a very extravagant man."
