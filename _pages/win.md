@@ -1,6 +1,6 @@
 ---
-title: "Windows: Start"
-category: "Windows"
+title: "Windows"
+categories: "Windows"
 author: Billy
 ---
 
