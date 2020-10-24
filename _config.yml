@@ -48,7 +48,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Square IT Support"
+  name   : "IT Support"
   avatar : "/assets/images/square_laptop.png"
   bio    : ""
   links:
