@@ -4,11 +4,11 @@ os:
   
 windows:
   name: "Windows"
-  avatar: "/assets/images/win.jpg"
+  avatar: "/assets/images/windows.jpg"
 
 mac:
   name: "MacOS"
-  avatar: "/assets/images/mac.jpg"
+  avatar: "/assets/images/apple.jpg"
 
 chrome:
   name: "ChromeOS"
