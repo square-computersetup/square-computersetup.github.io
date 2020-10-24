@@ -12,4 +12,4 @@ You just received a new computer from Square! Let's get you setup so you can get
 * If at any time you need to go back, use the back button within your web browser
 * If you need further assistance, click the [Help](/help) link in the top navigation
 
-[I understand the rules](/os){: .btn .btn--success .btn--large}
+[I understand the rules](/os){: .btn .btn--success .btn--large .text-center}
