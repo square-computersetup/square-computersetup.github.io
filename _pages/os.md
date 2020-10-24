@@ -1,5 +1,6 @@
 ---
 title: "Select your Operating System"
+permalink: /os/
 author_profile: true
 author: os
 feature_row:
