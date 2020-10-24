@@ -1,6 +1,8 @@
 ---
-title: "+ Mac"
+title: "Mac"
+permalink: /mac/
 categories: Mac
+tags: Mac
 author_profile: true
 author: mac
 ---
