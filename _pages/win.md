@@ -1,7 +1,7 @@
 ---
 title: "Windows"
 categories: "Windows"
-author: os
+author: windows
 ---
 
 kjlasdkjfl;kasjdfl;kajsdf
