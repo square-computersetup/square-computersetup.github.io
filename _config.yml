@@ -50,7 +50,7 @@ plugins:
 author:
   name   : "IT Support"
   avatar : "/assets/images/square_laptop.png"
-  bio    : ""
+  bio    : "Need help?"
   links:
     - label: "Slack #itsupport"
       icon: "fas fa-fw fa-link"
