@@ -2,7 +2,6 @@
 title: "Select your Operating System"
 author_profile: true
 author: os
-
 feature_row:
   - url: /mac/
     image_page: /assets/images/macbook.jpg
@@ -16,7 +15,6 @@ feature_row:
     image_page: /assets/images/winbook.jpg
     alt: "Windows"
     title: "Windows"
-
 ---
 
 {% include feature_row %} 
