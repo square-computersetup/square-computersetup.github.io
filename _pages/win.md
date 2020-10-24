@@ -1,8 +1,8 @@
 ---
-title: "Windows"
-categories: "Windows"
+title: "+ Windows"
+categories: Windows
 author_profile: true
 author: windows
 ---
 
-kjlasdkjfl;kasjdfl;kajsdf
+Let's get your Windows laptop setup!
