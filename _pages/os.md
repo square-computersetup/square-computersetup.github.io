@@ -1,7 +1,7 @@
 ---
 title: "Select your Operating System"
-permalink: /select/
 author_profile: true
+permalink: /os/
 feature_row:
   - url: /mac/
     image_page: /assets/images/macbook.jpg
