@@ -1,6 +1,8 @@
 ---
-title: "+ ChromeOS"
+title: "ChromeOS"
+permalink: /chrome/
 categories: ChromeOS
+tags: ChromeOS
 author_profile: true
 author: chrome
 ---
