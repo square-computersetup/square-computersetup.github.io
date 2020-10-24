@@ -1,5 +1,5 @@
 main:
-  - title: "Index"
-    url: /all/
+  - title: "<img src='/assets/images/apple.png'>Apple"
+    url: /mac/
   - title: "Help"
     url: /help/
