@@ -1,5 +1,9 @@
 main:
-  - title: "<img src='/assets/images/apple.png'>Apple"
+  - title: "<img src='/assets/images/apple.png' width='50' height='50' title='MacOS' />"
     url: /mac/
+  - title: "<img src='/assets/images/chrome.png' width='50' height='50' title='ChromeOS' />"
+    url: /chrome/
+  - title: "<img src='/assets/images/windows.png' width='50' height='50' title='Windows' />"
+    url: /windows/
   - title: "Help"
     url: /help/
