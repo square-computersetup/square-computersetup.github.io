@@ -1,7 +1,6 @@
 
 <div class="page__footer-copyright">Copyright &copy; {{ site.time | date: '%Y' }} Square
   <span class="text-right">
-{%- assign date_format = site.minima.date_format | default:  -%}
 
 {%- if page.modified_at -%}
     <em>Updated: {%- page.modified_at | date: '%b %-d, %Y' -%}</em>
