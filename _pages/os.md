@@ -9,19 +9,19 @@ feature_row:
     alt: "MacOS"
     excerpt: "&nbsp;<br />"
     btn_label: "MacOS"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - url: /chrome/
     image_path: /assets/images/pixelbook.jpg
     alt: "ChromeOS"
     excerpt: "&nbsp;<br />"
     btn_label: "ChromeOS"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - url: /windows/
     image_path: /assets/images/winbook.jpg
     alt: "Windows"
     excerpt: "&nbsp;<br />"
     btn_label: "Windows"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 header:
   overlay_image: /assets/images/splash_confroom.jpg
 ---
