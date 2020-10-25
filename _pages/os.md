@@ -1,5 +1,5 @@
 ---
-permalink: /test
+permalink: /os/
 title: "Test"
 author_profile: true
 layout: splash
