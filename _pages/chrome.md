@@ -9,4 +9,13 @@ header:
   overlay_image: /assets/images/splash_chrome.png
 ---
 
-Let's get your ChromeOS device setup!
+_Let's get your ChromeOS device setup!_
+
+Press the __power__ button at the top-right corner of the keyboard: 
+
+{% include figure image_path="/assets/images/pixelbookgo-power.jpg" caption="(if you have a ChromeBox the &#x23FB; power button is on the device and not the keyboard)" %}
+
+
+
+
+
