@@ -8,7 +8,7 @@ feature_row:
     image_path: /assets/images/macbook.jpg
     alt: "MacOS"
     btn_label: "MacOS"
-    btn_class: "btn--primary"
+    excerpt: "&nbsp;<br />"
   - url: /chrome/
     image_path: /assets/images/pixelbook.jpg
     alt: "ChromeOS"
