@@ -10,7 +10,7 @@ feature_row:
     btn_label: "MacOS"
     btn_class: "btn--primary"
   - url: /chrome/
-    image_path: /assets/images/chromebook.jpg
+    image_path: /assets/images/pixelbook.jpg
     alt: "ChromeOS"
     btn_label: "ChromeOS"
     btn_class: "btn--primary"
