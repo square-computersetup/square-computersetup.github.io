@@ -7,16 +7,19 @@ feature_row:
   - url: /mac/
     image_path: /assets/images/macbook.jpg
     alt: "MacOS"
-    btn_label: "MacOS"
     excerpt: "&nbsp;<br />"
+    btn_label: "MacOS"
+    btn_class: "btn--primary"
   - url: /chrome/
     image_path: /assets/images/pixelbook.jpg
     alt: "ChromeOS"
+    excerpt: "&nbsp;<br />"
     btn_label: "ChromeOS"
     btn_class: "btn--primary"
   - url: /windows/
     image_path: /assets/images/winbook.jpg
     alt: "Windows"
+    excerpt: "&nbsp;<br />"
     btn_label: "Windows"
     btn_class: "btn--primary"
 header:
