@@ -3,15 +3,15 @@ os:
   avatar: "/assets/images/os.jpg"
   
 windows:
-  name: "Windows"
+  name: "&nbsp;"
   avatar: "/assets/images/windows.png"
 
 mac:
-  name: "MacOS"
+  name: "&nbsp;"
   avatar: "/assets/images/apple.png"
 
 chrome:
-  name: "ChromeOS"
+  name: "&nbsp;"
   avatar: "/assets/images/chrome.png"
 
 
