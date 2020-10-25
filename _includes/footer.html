@@ -1,9 +1,6 @@
 
 <div class="page__footer-copyright">Copyright &copy; {{ site.time | date: '%Y' }} Square
   <span class="text-right">
-
-{%- if page.modified_at -%}
-    <em>Updated: {%- page.modified_at | date: '%b %-d, %Y' -%}</em>
-{%- endif -%}
+    <em>Updated {{ site.time | date: '%Y-%m-%d' }}</em>
   </span>
 </div>
