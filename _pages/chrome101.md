@@ -1,5 +1,5 @@
 ---
-title: "ChromeOS 101"
+title: "Chrome 101"
 permalink: /chrome101/
 author_profile: true
 author: chrome
