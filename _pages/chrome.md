@@ -35,8 +35,8 @@ Choose one of the authentication methods, such as sending a push notice to your 
 
 Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may hear the _Google Assistant_ announce verbally that it has been disabled. You can press the mute button (above the 0 in the top row on your keyboard) to silence the device audio. 
 
-<a name="ready"></a> When you see the __Ready!__ display, you can click [Get Started](/chrome-desktop){: .btn .btn--inverse .btn--small}:
+<a name="ready"></a> {% include figure url="/assets/images/chrome-03-ready.jpg" image_path="/assets/images/chrome-03-ready.jpg"  %}
 
-{% include figure url="/assets/images/chrome-03-ready.jpg" image_path="/assets/images/chrome-03-ready.jpg"  %}
+When you see the __Ready!__ display, you can click [Get Started](/chrome-desktop){: .btn .btn--inverse .btn--small}
 
 [Next Step &rarr;](/chrome-desktop){: .btn .btn--success .btn--large}
