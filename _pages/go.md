@@ -21,4 +21,4 @@ __NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check th
 If things worked properly, you should see our internal __Wiki__ site (our intranet). This is a great resource for all Squares, but especially for new Squares. If instead you landed at the Google search results for the popular all-female rock band [The Go-Go's](https://en.wikipedia.org/wiki/The_Go-Go%27s) something went wrong. 
 
 
-[Next Step &rarr;](/chrome-vpn){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/slack){: .btn .btn--success .btn--large}
