@@ -45,7 +45,7 @@
     &--#{$buttoncolor} {
       @include yiq-contrasted($color);
       @if ($buttoncolor == inverse) {
-        border: 1px solid $border-color;
+        border: 1px solid #999;
       }
       @if ($buttoncolor == light-outline) {
         border: 1px solid #fff;
