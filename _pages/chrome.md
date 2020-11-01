@@ -23,11 +23,11 @@ Your device should indicate that it is __Managed by squareup.com__:
 
 Enter your full email address (jsmith@squareupcom) and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+<a name="duo"></a> {% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
 Enter just your username (jsmith) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+<a name="push"></a> {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this success message:
 
@@ -35,7 +35,7 @@ Choose one of the authentication methods, such as sending a push notice to your 
 
 Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may hear the _Google Assistant_ announce verbally that it has been disabled. You can press the mute button (above the 0 in the top row on your keyboard) to silence the device audio. 
 
-When you see the __Ready!__ display, you can click [Get Started](/chrome-desktop){: .btn .btn--inverse .btn--small}:
+<a name="ready"></a> When you see the __Ready!__ display, you can click [Get Started](/chrome-desktop){: .btn .btn--inverse .btn--small}:
 
 {% include figure url="/assets/images/chrome-03-ready.jpg" image_path="/assets/images/chrome-03-ready.jpg"  %}
 
