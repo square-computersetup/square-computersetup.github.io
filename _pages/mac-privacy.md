@@ -1,6 +1,6 @@
 ---
-title: "Mac Mgmt"
-permalink: /mac-mgmt/
+title: "Mac Privacy"
+permalink: /mac-privacy/
 author_profile: true
 sidebar:
   nav: "nav-shared"
