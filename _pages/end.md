@@ -5,7 +5,7 @@ author_profile: false
 sidebar:
   nav: "nav-go"
 header:
-  overlay_image: /assets/images/splash_square.png
+  overlay_image: /assets/images/splash_confroom.png
 ---
 
 You did it! You've finished setting up your new computer. 
