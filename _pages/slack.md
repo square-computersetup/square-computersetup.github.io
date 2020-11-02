@@ -24,7 +24,7 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 {% include figure url="/assets/images/pin-tab-chrome.gif" image_path="/assets/images/pin-tab-chrome.gif" %}
 
-Some people like having Slack in a separate application window instead of in their browsers. You can install a separate Slack app for [MacOS](https://slack.com/downloads/mac){: target="_blank" }, [Windows](https://slack.com/downloads/windows){: target="_blank" }, or [ChromeOS](https://chrome.google.com/webstore/detail/slack/jeogkiiogjbmhklcnbgkdcjoioegiknm?hl=en-US){: target="_blank" } -- but fair warning that it is just another mini-web browser in its own window. You will not have any additional functionality.
+Some people like having Slack in a separate application window instead of in their browsers. You can install a separate Slack app for [MacOS](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12){: target="_blank" }, [Windows](https://slack.com/downloads/windows){: target="_blank" }, or [ChromeOS](https://chrome.google.com/webstore/detail/slack/jeogkiiogjbmhklcnbgkdcjoioegiknm?hl=en-US){: target="_blank" } -- but fair warning that it is just another mini-web browser in its own window. You will not have any additional functionality.
 
 [Next Step &rarr;](/end){: .btn .btn--success .btn--large}
 
