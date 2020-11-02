@@ -17,4 +17,4 @@ Now that you're familiar, you may be interested in some optional [Tips &amp; Tri
 If you have a specific question, consult the comprehensive [ChromeOS User Guide](https://support.google.com/chrome/).
 
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-vpn/){: .btn .btn--success .btn--large}
