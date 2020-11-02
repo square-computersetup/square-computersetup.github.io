@@ -48,6 +48,9 @@ Choose one of the authentication methods, such as sending a push notice to your 
 
 Your __Full Name__ and __Account Name__ will be pre-filled (the latter should match the username of your Square email address).
 
+__NOTE:__ Account Name __MUST__ match your Square username for proper configuration!
+{: .notice--warning}
+
 Select a strong password to unlock your Macbook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your SSO password.
 
 {% include figure url="/assets/images/mac-touch.jpg" image_path="/assets/images/mac-touch.jpg" %}
