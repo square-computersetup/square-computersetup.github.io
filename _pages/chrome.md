@@ -25,7 +25,7 @@ Enter your full email address (jsmith@squareupcom) and click [Next](#duo){: .btn
 <a name="duo"></a> 
 {% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
-Enter just your username (jsmith) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
+Enter just your username (jsmith not jsmith@squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
 <a name="push"></a> 
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
