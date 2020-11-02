@@ -67,7 +67,7 @@ Once the installer has completed, it will thank you for your patience. Click [Qu
 <a name="logout"></a> 
 {% include figure url="/assets/images/mac-logout.jpg" image_path="/assets/images/mac-logout.jpg"  %}
 
-Click the <img src='/assets/images/apple.png' width='20' height='20'> symbol in the very top-left cover of your Macbook, and then click [Logout](#login){: .btn .btn--inverse .btn--small}.
+Click <img src='/assets/images/apple.png' width='20' height='20'> in the top-left corner of the desktop, and then click [Logout](#login){: .btn .btn--inverse .btn--small}.
 
 <a name="login"></a> 
 You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be differen than your Duo SSO password).
