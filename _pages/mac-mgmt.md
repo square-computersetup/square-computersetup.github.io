@@ -8,6 +8,18 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
+Click __Continue__ on the Remote Management screen to receive a Duo SSO login screen:
+
+{% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+
+Enter just your username (jsmith not jsmith@squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
+
+<a name="push"></a> 
+{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+
+Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this success message:
+
+{% include figure url="/assets/images/chrome-02-signin.jpg" image_path="/assets/images/chrome-02-signin.jpg" caption="(you may review the sync options after setup)" %}
 
 
 {% include figure url="/assets/images/mac-03-wifi.jpg" image_path="/assets/images/mac-03-wifi.jpg"  %}
