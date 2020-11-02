@@ -5,7 +5,7 @@ author_profile: false
 sidebar:
   nav: "nav-go"
 header:
-  overlay_image: /assets/images/splash_confroom.png
+  overlay_image: /assets/images/splash_confroom.jpg
 ---
 
 ## 🏁 You did it! 
