@@ -10,7 +10,9 @@ Squares make use of __Slack__ for instant messaging (chat) to enable quick commu
 
 {% include figure url="/assets/images/slack-login.jpg" image_path="/assets/images/slack-login.jpg" %}
 
-Click on __Sign in with Google__ which should redirect you to Duo SSO and then immediately redirect you to Slack. You may be prompted to __Enable Desktop Notifications__:
+Click on __Sign in with Google__ which should redirect you to Duo SSO and then immediately redirect you to Slack. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
+
+You may be prompted to __Enable Desktop Notifications__:
 
 {% include figure url="/assets/images/slack-notify-ask.jpg" image_path="/assets/images/slack-notify-ask.jpg" %}
 
