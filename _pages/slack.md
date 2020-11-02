@@ -24,4 +24,4 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 
 
-[<img src='/assets/images/chrome.png'> Next Step &rarr;](/vpn){: .btn .btn--success .btn--large}
+[<img src='/assets/images/chrome.png' width='20' height='20'> Next Step &rarr;](/vpn){: .btn .btn--primary .btn--large}
