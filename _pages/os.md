@@ -9,19 +9,19 @@ feature_row:
     alt: "ChromeOS"
     excerpt: "&nbsp;<br />"
     btn_label: "ChromeOS"
-    btn_class: "btn--inverse btn--large"
+    btn_class: "btn--primary btn--large"
   - url: /mac/
     image_path: /assets/images/macbook.jpg
     alt: "MacOS"
     excerpt: "&nbsp;<br />"
     btn_label: "MacOS"
-    btn_class: "btn--inverse btn--large"
+    btn_class: "btn--primary btn--large"
   - url: /windows/
     image_path: /assets/images/winbook.jpg
     alt: "Windows"
     excerpt: "&nbsp;<br />"
     btn_label: "Windows"
-    btn_class: "btn--inverse btn--large"
+    btn_class: "btn--primary btn--large"
 header:
   overlay_image: /assets/images/splash_confroom.jpg
 ---
