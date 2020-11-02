@@ -26,19 +26,11 @@ Next, some Mac devices will display a __Data &amp; Privacy__ screen:
 
 {% include figure url="/assets/images/mac-05-privacy.jpg" image_path="/assets/images/mac-05-privacy.jpg" %}
 
-If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--inverse .btn--small} for the next set of instructions.
+If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--inverse .btn--small} for the next page of instructions and stop reading here. 
 
-show a __Remote Management__ screen indicating it is managed by __Square Inc.__:
-
-
+If instead you see a __Remote Management__ screen indicating it is managed by __Square Inc.__:
 
 {% include figure url="/assets/images/mac-04-remote.jpg" image_path="/assets/images/mac-04-remote.jpg" %}
-
-Other Mac devices will show a 
-
-
-Click [Remote Management](/mac-mgmt){: .btn .btn--inverse .btn--small} or 
-
 
 Click [Continue](#duo){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive a Duo SSO login screen:
 
@@ -52,17 +44,20 @@ Enter just your username (jsmith not jsmith@squareup.com) and your password and 
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this prompt to create a computer account:
 
-{% include figure url="/assets/images/mac-.jpg" image_path="/assets/images/chrome-02-signin.jpg" caption="(you may review the sync options after setup)" %}
+{% include figure url="/assets/images/mac-06-account.jpg" image_path="/assets/images/mac-06-account.jpg" %}
 
+Your __Full Name__ and __Account Name__ will be pre-filled (the latter should match the username of your Square email address).
 
-{% include figure url="/assets/images/mac-03-wifi.jpg" image_path="/assets/images/mac-03-wifi.jpg"  %}
+Select a strong password to unlock your Macbook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your SSO password.
 
-Next, some Mac devices will show a __Remote Management__ screen indicating it is managed by __Square Inc.__:
+{% include figure url="/assets/images/mac-07-touch.jpg" image_path="/assets/images/mac-07-touch.jpg" %}
 
-{% include figure url="/assets/images/mac-04-remote.jpg" image_path="/assets/images/mac-04-remote.jpg" %}
+If your Macbook has a fingerprint sensor, you will be prompted to setup __Touch ID__ (optional). This allows you to quickly unlock your laptop without entering your __Laptop password__. Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 
-Other Mac devices will show a __Data &amp; Privacy__ screen instead:
+You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in the System Preferences control panel. 
 
-{% include figure url="/assets/images/mac-05-privacy.jpg" image_path="/assets/images/mac-05-privacy.jpg" %}
+{% include figure url="/assets/images/mac-desktop.jpg" image_path="/assets/images/mac-desktop.jpg"  %}
 
-Click [Remote Management](/mac-mgmt){: .btn .btn--inverse .btn--small} or [Data &amp; Privacy](/mac-privacy){: .btn .btn--inverse .btn--small} for the next set of instructions.
+After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper). 
+
+[Next Step &rarr;](/mac-tips){: .btn .btn--success .btn--large}
