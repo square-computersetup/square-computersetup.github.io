@@ -2,6 +2,8 @@
 title: "Mac"
 permalink: /mac/
 author_profile: true
+sidebar:
+  nav: "nav-shared"
 header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
