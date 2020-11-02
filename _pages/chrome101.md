@@ -2,7 +2,6 @@
 title: "Chrome 101"
 permalink: /chrome101/
 author_profile: true
-author: chrome
 sidebar:
   nav: "nav-shared"
 header:
