@@ -45,3 +45,5 @@ Choose one of the authentication methods, such as sending a push notice to your 
 {% include figure url="/assets/images/mac-device.jpg" image_path="/assets/images/mac-device.jpg" %}
 
 After several seconds, you should see a __Device Manager__ display showing that your device has been verified. 
+
+[Next Step &rarr;](/mac-mgmt){: .btn .btn--success .btn--large}
