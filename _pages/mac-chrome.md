@@ -14,7 +14,7 @@ Now, some extra steps to get Google Chrome properly setup for use as your primar
 
 {% include figure url="/assets/images/mac-chrome-search.jpg" image_path="/assets/images/mac-chrome-search.jpg" %}
 
-Type in __Chrome__ and then click on the top hit, which is the application itself:
+Type in __Chrome__ and then click on the top hit, which is the application itself.
 
 {% include figure url="/assets/images/mac-chrome-firewall.jpg" image_path="/assets/images/mac-chrome-firewall.jpg" %}
 
@@ -43,7 +43,7 @@ Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (
 Click on the person icon in the top-right corner of the Chrome browser, then click [Turn on sync...](#synced){: .btn .btn--inverse .btn--small}
 
 <a name="synced"></a> 
-Login to Google using your full Square email address (jsmith@squareup.com).
+First, login to Google using your full Square email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
 
 <a name="duo"></a> 
 {% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" %}
@@ -76,4 +76,4 @@ Within a minute, you will see some mandatory Chrome extensions installed in the 
 Once you see the Square logo, your Chrome web browser is properly configured and ready for use.  
 
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large}
