@@ -1,6 +1,6 @@
 ---
 permalink: /os/
-title: "Test"
+title: "Select Device"
 author_profile: true
 layout: splash
 feature_row:
