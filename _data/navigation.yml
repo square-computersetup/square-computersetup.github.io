@@ -11,15 +11,22 @@ main:
 nav-shared:
   - title: ChromeOS
     children:
-      - title: "Getting Started"
-        url: /chrome101/
+      - title: "Setup"
+        url: /chrome/
+      - title: "Tips"
+        url: /chrome-tips/
+      - title: "VPN"
+        url: /chrome-vpn/
 
-  - title: Services
+  - title: Setup Services
     children:
       - title: "Go Links"
         url: /go/
-      - title: "Go Links"
-        url: /go/
+      - title: "Slack"
+        url: /slack/
+      - title: "Finish"
+        url: /end/
+
 
 nav-go:
   - title: Workplace Tools
