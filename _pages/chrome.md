@@ -1,8 +1,6 @@
 ---
 title: "ChromeOS"
 permalink: /chrome/
-author_profile: true
-author: chrome
 sidebar:
   nav: "nav-shared"
 header:
