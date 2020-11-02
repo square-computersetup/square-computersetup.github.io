@@ -8,29 +8,42 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
-We have to do some extra steps to get your Macbook enrolled with our Mobile Device Management (MDM) system. Open the Safari web browser (look for the _compass_ icon in the bottom system tray) and in the address bar at the top, enter __go.sqprod.co/mdmfix__ 
+Now, some extra steps to get Google Chrome properly setup for use as your primary web browser. Let's start with accessing __Spotlight__ by clicking on the magnifying glass icon in the extreme top-right corner of the desktop:
 
-{% include figure url="/assets/images/go-mdmfix.jpg" image_path="/assets/images/go-mdmfix.jpg" caption="(in a future setup, we will configure even shorter __go/__ links)" %}
+{% include figure url="/assets/images/mac-spotlight.jpg" image_path="/assets/images/mac-spotlight.jpg" caption="(Spotlight is the built-in search tool for MacOS)" %}
 
-__NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
-{: .notice--warning}
+{% include figure url="/assets/images/mac-chrome-search.jpg" image_path="/assets/images/mac-chrome-search.jpg" %}
 
-Click [Download](#mdmfix){: .btn .btn--inverse .btn--small} and once the download completes, click on the package name (in the bottom-left of your web browser) to start the package installation:
+Type in __Chrome__ and then click on the top hit, which is the application itself:
 
-<a name="mdmfix"></a> 
-{% include figure url="/assets/images/mdm-fix.gif" image_path="/assets/images/mdm-fix.gif"  %}
+{% include figure url="/assets/images/mac-chrome-firewall.jpg" image_path="/assets/images/mac-chrome-firewall.jpg" %}
 
-Click on [Continue](#enrol){: .btn .btn--inverse .btn--small} a few times and then [Install](#enrol1){: .btn .btn--inverse .btn--small} in the package installation display. You may be prompted for your __Laptop Password__ to allow the installation to continue (remember this may be different from your Duo SSO password). 
+Click [Allow](#install){: .btn .btn--inverse .btn--small} when you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected.
 
-<a name="enrol1"></a> 
-{% include figure url="/assets/images/mac-enrol1.jpg" image_path="/assets/images/mac-enrol1.jpg"  %}
+<a name="install"></a> 
+{% include figure url="/assets/images/mac-chrome-install.jpg" image_path="/assets/images/mac-chrome-install.jpg"  %}
 
-If there are no errors during installaation, you will see a notification appear in the top-right corner of your screen, near the clock. Click [Details](#enrol2){: .btn .btn--inverse .btn--small} on the notification pop-up to open the __System Preferences__ control panel. 
+On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](#default){: .btn .btn--inverse .btn--small}.
 
-<a name="enrol2"></a> 
-{% include figure url="/assets/images/mac-enrol2.jpg" image_path="/assets/images/mac-enrol2.jpg"  %}
+<a name="default"></a> 
+{% include figure url="/assets/images/mac-chrome-default.jpg" image_path="/assets/images/mac-chrome-default.jpg"  %}
 
-Click [Allow](#duo){: .btn .btn--inverse .btn--small} to authorize the device enrollment. You will be prompted to login with Duo once again:
+Click on [Use Chrome](#notify){: .btn .btn--inverse .btn--small} to set the default web browser. 
+
+<a name="notify"></a> 
+{% include figure url="/assets/images/mac-chrome-notify.jpg" image_path="/assets/images/mac-chrome-notify.jpg"  %}
+
+Click on [Allow](#sync){: .btn .btn--inverse .btn--small} to permit website notifications.
+
+<a name="sync"></a> 
+Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
+
+{% include figure url="/assets/images/mac-chrome-login.jpg" image_path="/assets/images/mac-chrome-login.jpg"  %}
+
+Click on the person icon in the top-right corner of the Chrome browser, then click [Turn on sync...](#synced){: .btn .btn--inverse .btn--small}
+
+<a name="synced"></a> 
+Login to Google using your full Square email address (jsmith@squareup.com).
 
 <a name="duo"></a> 
 {% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" %}
@@ -42,35 +55,25 @@ Enter just your username (jsmith not jsmith@squareup.com) and your password and 
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app. 
 
-{% include figure url="/assets/images/mac-device.jpg" image_path="/assets/images/mac-device.jpg" %}
+{% include figure url="/assets/images/mac-chrome-password.jpg" image_path="/assets/images/mac-chrome-password.jpg"  %}
 
-After several seconds, you should see a __Device Manager__ display showing that your device has been verified. 
+Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small __X__ to decline this action. 
 
-You will have to wait 4-5 minutes for the next step to launch on its own. This delay is normal and expected. 
+{% include figure url="/assets/images/mac-chrome-link.jpg" image_path="/assets/images/mac-chrome-link.jpg"  %}
 
-{% include figure url="/assets/images/mac-mgmt.jpg" image_path="/assets/images/mac-mgmt.jpg" caption="(if you do not see this after five minutes, restart your Macbook and wait another five minutes)" %}
+When prompted to sync your browser with Square's Google services, click on [Link Data](#link){: .btn .btn--inverse .btn--small}.
 
-This installer will spend 10-45 minutes (depending on your Internet speed) retrieving and installing tools.
+<a name="link"></a> 
+{% include figure url="/assets/images/mac-chrome-sync.jpg" image_path="/assets/images/mac-chrome-sync.jpg"  %}
 
-{% include figure url="/assets/images/mac-git.jpg" image_path="/assets/images/mac-git.jpg" caption="(you may or may not see this prompt)" %}
+Click on [Yes I'm in](#yes){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
 
-If prompted to install __Developer Tools__, click [Install](#updates){: .btn .btn--inverse .btn--small}
+<a name="yes"></a> 
+Within a minute, you will see some mandatory Chrome extensions installed in the top-right corner of Google Chrome.
 
-<a name="updates"></a> 
-{% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates.jpg" caption="(you may or may not see this prompt)" %}
+{% include figure url="/assets/images/chrome-extensions.jpg" image_path="/assets/images/chrome-extensions.jpg" caption="(if no Square logo appears within two minutes, enter __chrome://restart__ in the address bar, press enter, and wait a few more minutes)" %}
 
-If you see the __Updates Available__ notification, click [Later](#installer){: .btn .btn--inverse .btn--small} to defer the installation.
-
-<a name="installer"></a> 
-Once the installer has completed, it will thank you for your patience. Click [Quit](#logout){: .btn .btn--inverse .btn--small} to exit the installer.
-
-<a name="logout"></a> 
-{% include figure url="/assets/images/mac-logout.jpg" image_path="/assets/images/mac-logout.jpg"  %}
-
-Click the <img src='/assets/images/apple.png' width='15' height='15'> symbol in the very top-left cover of your Macbook, and then click [Logout](#login){: .btn .btn--inverse .btn--small}.
-
-<a name="login"></a> 
-You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be differen than your Duo SSO password).
+Once you see the Square logo, your Chrome web browser is properly configured and ready for use.  
 
 
-[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
