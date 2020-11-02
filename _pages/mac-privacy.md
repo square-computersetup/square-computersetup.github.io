@@ -61,5 +61,5 @@ At the __True Tone__ screen, make a selection accordingn to your preferences, th
 
 After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper). 
 
-[Next Step &rarr;](/mac-mgmt){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-mdm){: .btn .btn--success .btn--large}
 
