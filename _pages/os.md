@@ -4,17 +4,17 @@ title: "Test"
 author_profile: true
 layout: splash
 feature_row:
-  - url: /mac/
-    image_path: /assets/images/macbook.jpg
-    alt: "MacOS"
-    excerpt: "&nbsp;<br />"
-    btn_label: "MacOS"
-    btn_class: "btn--inverse btn--large"
   - url: /chrome/
     image_path: /assets/images/pixelbook.jpg
     alt: "ChromeOS"
     excerpt: "&nbsp;<br />"
     btn_label: "ChromeOS"
+    btn_class: "btn--inverse btn--large"
+  - url: /mac/
+    image_path: /assets/images/macbook.jpg
+    alt: "MacOS"
+    excerpt: "&nbsp;<br />"
+    btn_label: "MacOS"
     btn_class: "btn--inverse btn--large"
   - url: /windows/
     image_path: /assets/images/winbook.jpg
