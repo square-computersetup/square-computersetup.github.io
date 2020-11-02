@@ -22,6 +22,6 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 {% include figure url="/assets/images/pin-tab-chrome.gif" image_path="/assets/images/pin-tab-chrome.gif" %}
 
-
+When you're ready, choose the corresponding next step button below:
 
 [<img src='/assets/images/windows.png' width='20' height='20'> Next Step (Windows) &rarr;](/vpn){: .btn .btn--primary .btn--large} [<img src='/assets/images/chrome.png' width='20' height='20'> Next Step (ChromeOS) &rarr;](/vpn){: .btn .btn--primary .btn--large}
