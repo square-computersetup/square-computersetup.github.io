@@ -24,4 +24,4 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 When you're ready, choose the corresponding next step button below:
 
-[<img src='/assets/images/windows.png' width='20' height='20'> Next Step (Windows) &rarr;](/vpn){: .btn .btn--primary .btn--large} [<img src='/assets/images/chrome.png' width='20' height='20'> Next Step (ChromeOS) &rarr;](/vpn){: .btn .btn--primary .btn--large}
+[Next Step <img src='/assets/images/windows.png' width='20' height='20'> &rarr;](/windows-vpn){: .btn .btn--primary .btn--large} [Next Step <img src='/assets/images/chrome.png' width='20' height='20'> &rarr;](/chrome-vpn){: .btn .btn--primary .btn--large}
