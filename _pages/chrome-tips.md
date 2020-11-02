@@ -1,6 +1,6 @@
 ---
-title: "Chrome 101"
-permalink: /chrome101/
+title: "Chrome Tips"
+permalink: /chrome-tips/
 author_profile: true
 sidebar:
   nav: "nav-shared"
