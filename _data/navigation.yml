@@ -21,3 +21,18 @@ nav-shared:
       - title: "Go Links"
         url: /go/
 
+nav-go:
+  - title: Workplace Tools
+    children:
+      - title: "GMail"
+        url: https://mail.google.com
+      - title: "Calendar"
+        url: https://calendar.google.com
+      - title: "Drive"
+        url: https://drive.google.com
+
+  - title: Technology
+    children:
+      - title: "Ask for Help"
+        url: http://go/ithelp
+
