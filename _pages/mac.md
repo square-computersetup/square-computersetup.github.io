@@ -50,9 +50,11 @@ Your __Full Name__ and __Account Name__ will be pre-filled (the latter should ma
 
 Select a strong password to unlock your Macbook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your SSO password.
 
-{% include figure url="/assets/images/mac-07-touch.jpg" image_path="/assets/images/mac-07-touch.jpg" %}
+{% include figure url="/assets/images/mac-touch.jpg" image_path="/assets/images/mac-touch.jpg" %}
 
 If your Macbook has a fingerprint sensor, you will be prompted to setup __Touch ID__ (optional). This allows you to quickly unlock your laptop without entering your __Laptop password__. Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
+
+{% include figure url="/assets/images/mac-dark.jpg" image_path="/assets/images/mac-dark.jpg" %}
 
 You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in the System Preferences control panel. 
 
