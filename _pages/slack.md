@@ -24,4 +24,4 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 When you're ready, choose the corresponding next step button below:
 
-[Next Step <img src='/assets/images/chrome.png' width='20' height='20'> &rarr;](/chrome-vpn){: .btn .btn--inverse .btn--large} [Next Step <img src='/assets/images/apple.png' width='20' height='20'> &rarr;](/mac-vpn){: .btn .btn--inverse .btn--large} [Next Step <img src='/assets/images/windows.png' width='20' height='20'> &rarr;](/windows-vpn){: .btn .btn--inverse .btn--large}
+[<img src='/assets/images/chrome.png' width='20' height='20'> Next Step &rarr;](/chrome-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/apple.png' width='20' height='20'> Next Step &rarr;](/mac-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/windows.png' width='20' height='20'> Next Step &rarr;](/windows-vpn){: .btn .btn--inverse .btn--large}
