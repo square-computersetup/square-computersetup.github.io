@@ -9,15 +9,6 @@ main:
     url: /help/
 
 nav-shared:
-  - title: ChromeOS
-    children:
-      - title: "Setup"
-        url: /chrome/
-      - title: "Tips"
-        url: /chrome-tips/
-      - title: "VPN"
-        url: /chrome-vpn/
-
   - title: Setup Services
     children:
       - title: "Go Links"
@@ -26,6 +17,28 @@ nav-shared:
         url: /slack/
       - title: "Finish"
         url: /end/
+
+  - title: Chrome OS
+    children:
+      - title: "Setup"
+        url: /chrome/
+      - title: "Tips"
+        url: /chrome-tips/
+      - title: "VPN"
+        url: /chrome-vpn/
+
+  - title: Mac OS
+    children:
+      - title: "Setup"
+        url: /mac/
+      - title: "Tips"
+        url: /mac-tips/
+      - title: "Privacy"
+        url: /mac-privacy/
+      - title: "MDM"
+        url: /mac-mgmt/
+      - title: "Browser"
+        url: /mac-chrome/
 
 
 nav-go:
