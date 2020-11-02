@@ -2,8 +2,8 @@
 title: "Windows"
 permalink: /windows/
 author_profile: true
-author: windows
-modified_at: 2020-10-25
+sidebar:
+  nav: "nav-shared"
 header:
   overlay_image: /assets/images/splash_windows.png
 ---
