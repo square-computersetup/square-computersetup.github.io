@@ -36,6 +36,8 @@ nav-shared:
       - title: "Privacy"
         url: /mac-privacy/
       - title: "MDM"
+        url: /mac-mdm/
+      - title: "Mgmt"
         url: /mac-mgmt/
       - title: "Browser"
         url: /mac-chrome/
