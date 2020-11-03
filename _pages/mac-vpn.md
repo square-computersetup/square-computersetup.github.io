@@ -8,7 +8,9 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
-You will have to wait 4-5 minutes for the next step to launch on its own. This delay is normal and expected. 
+Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Square. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
+
+
 
 {% include figure url="/assets/images/mac-mgmt.jpg" image_path="/assets/images/mac-mgmt.jpg" caption="(if you do not see this after five minutes, restart your Macbook and wait another five minutes)" %}
 
