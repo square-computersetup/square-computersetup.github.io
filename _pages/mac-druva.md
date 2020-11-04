@@ -8,12 +8,6 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
-druva-activate.jpg
-druva-login.jpg
-druva-mac1.jpg
-druva-mac2.jpg
-druva-sso.jpg
-
 We use __Druva__ to continuously backup your Macbook to the cloud, just to be safe. Let's activate it now.
 
 Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your Macbook desktop.
@@ -22,87 +16,37 @@ Start by clicking on the Druva icon near the Pulse Secure icon in the top-right 
 
 Click on __Activate Backup__
 
+{% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
+Enter your full email address (jsmith@squareup.com) and click [Continue](#login){: .btn .btn--inverse .btn--small} 
 
-_ [Continue](#profile){: .btn .btn--inverse .btn--small} 
+<a name="login"></a> 
+{% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
-<a name="profile"></a> 
+Chrome will open automatically to __cloud.druva.com__ and automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
+When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .btn--inverse .btn--small} 
 
-{% include figure url="/assets/images/vpn-onboard-login.jpg" image_path="/assets/images/vpn-onboard-login.jpg" %}
+<a name="insync"></a> 
+{% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
 
-Enter just your username (jsmith not jsmith@squareup.com) and your password.  This is __NOT__ your Laptop Password, but rather the password you have used with Duo SSO. 
+The Druva window will come back to the foreground. __DO NOT__ click on the button.
 
-{% include figure url="/assets/images/vpn-tray.jpg" image_path="/assets/images/vpn-tray.jpg" %}
+If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
 
-After a few seconds, the Pulse Secure icon will change to have a green arrow superimposed, to indicate you are currently connected to a VPN.
+<a name="replace"></a> 
+{% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}
 
-Open up the Chrome web browser and in the address bar at the top, enter __go.sqprod.co/vpnsetup__ 
+If this is your first Square laptop, [skip this section](#done). If you are replacing an existing Square laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
 
-{% include figure url="/assets/images/go-vpnsetup.jpg" image_path="/assets/images/go-vpnsetup.jpg" caption="(in a future setup, we will configure even shorter __go/__ links)" %}
+<a name="restore"></a>
+{% include figure url="/assets/images/druva-mac2.jpg" image_path="/assets/images/druva-mac2.jpg" %}
 
-__NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
-{: .notice--warning}
+Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click [Restore](#done){: .btn .btn--inverse .btn--small}.
 
-{% include figure url="/assets/images/wifi1.jpg" image_path="/assets/images/wifi1.jpg" caption="(if this page does not appear after a minute, reload the page)" %}
+<a name="done"></a>
+That wasn't so hard, right? Now your Macbook is protected against any accidental data corruption or physical theft.
 
-Enter just your username (jsmith not jsmith@squareup.com) and your password. Then, click __Let's Go__
-
-{% include figure url="/assets/images/wifi5.jpg" image_path="/assets/images/wifi5.jpg" %}
-
-Click on the large __Root Certificate__ button to download (although we will ignore this file)
-
-{% include figure url="/assets/images/wifi6.jpg" image_path="/assets/images/wifi6.jpg" %}
-
-Click the large __Square WiFi Profile__ button to download (click __Keep__ if prompted by the browser)
-
-{% include figure url="/assets/images/wifi7.jpg" image_path="/assets/images/wifi7.jpg" %}
-
-Click on __Square.mobileconfig__ in the bottom-left of your browser window to start the process
-
-{% include figure url="/assets/images/profiles1.jpg" image_path="/assets/images/profiles1.jpg" %}
-
-At the warning prompt, click [Continue](#profile){: .btn .btn--inverse .btn--small} 
-
-<a name="profile"></a> 
-{% include figure url="/assets/images/profiles2.jpg" image_path="/assets/images/profiles2.jpg" %}
-
-At the second warning, click [Install](#changes){: .btn .btn--inverse .btn--small} to install the profile
-
-<a name="changes"></a> 
-{% include figure url="/assets/images/profiles3.jpg" image_path="/assets/images/profiles3.jpg" %}
-
-At the prompt, enter your __Laptop Password__ (which may not match your Duo SSO) and click [OK](#installed){: .btn .btn--inverse .btn--small} to allow the changes
-
-<a name="changes"></a> 
-{% include figure url="/assets/images/profiles4.jpg" image_path="/assets/images/profiles4.jpg" %}
-
-Confirm that you have a profile called __Square Wifi__ installed (it is normal and expected for it to show as _unverified_)
-
-{% include figure url="/assets/images/vpn-disco.jpg" image_path="/assets/images/vpn-disco.jpg" %}
-
-Return to the Pulse Secure icon near the clock, click on __Onboard__ and then click __Disconnect__
-
-{% include figure url="/assets/images/vpn-west.jpg" image_path="/assets/images/vpn-west.jpg" %}
-
-Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, select the __Square West Coast VPN__ (or any other).
-
-{% include figure url="/assets/images/vpn-allow.jpg" image_path="/assets/images/vpn-allow.jpg" %}
-
-Enter your __Laptop Password__ (which may not match your Duo SSO) and click [Always Allow](#always){: .btn .btn--inverse .btn--small} to authorize _Keychain_ access (this is a __one-time__ prompt).
-
-{% include figure url="/assets/images/vpn-login.jpg" image_path="/assets/images/vpn-login.jpg" %}
-
-Each time you connect to the VPN, you will be asked to enter your password into the __Secondary Password__ field. This is the password that you use for Duo SSO (and __NOT__ your Laptop Password).
-
-{% include figure url="/assets/images/vpn-tray.jpg" image_path="/assets/images/vpn-tray.jpg" %}
-
-If the Pulse Secure icon shows the green arrow superimposed again, you have successfully authenticated to the VPN and provisioned a certificate for in-office WiFi. Hey, you're pretty good at this! 
-
-{% include figure url="/assets/images/vpn-disco-west.jpg" image_path="/assets/images/vpn-disco-west.jpg" %}
-
-Return to the Pulse Secure icon near the clock, click on the active VPN, and then click __Disconnect__
-
-[Next Step &rarr;](/mac-druva/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
 
 
