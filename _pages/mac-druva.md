@@ -8,6 +8,14 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
+druva-activate.jpg
+druva-login.jpg
+druva-mac-tray.jpg
+druva-mac1.jpg
+druva-mac2.jpg
+druva-sso.jpg
+
+
 Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Square. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
 
 Let's start by clicking on the Pulse Secure icon <img src="/assets/images/pulse.png" width='25' height='25' /> near the clock in the top-right corner of your Macbook desktop.
