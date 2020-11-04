@@ -18,12 +18,12 @@ Click on __Activate Backup__
 
 {% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
-Enter your full email address (jsmith@squareup.com) and click [Continue](#login){: .btn .btn--inverse .btn--small} 
+Enter your full email address and click [Continue](#login){: .btn .btn--inverse .btn--small} 
 
 <a name="login"></a> 
 {% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
-Chrome will open automatically to __cloud.druva.com__ and automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
+Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
 When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .btn--inverse .btn--small} 
 
