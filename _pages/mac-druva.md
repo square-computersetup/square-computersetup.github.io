@@ -30,7 +30,7 @@ When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .b
 <a name="insync"></a> 
 {% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
 
-The Druva window will come back to the foreground. __DO NOT__ click on the button.
+The Druva window will come back to the foreground. __DO NOT__ click any buttons.
 
 If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
 
