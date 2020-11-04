@@ -9,7 +9,7 @@ main:
     url: /help/
 
 nav-shared:
-  - title: Setup Services
+  - title: Shared
     children:
       - title: "Go Links"
         url: /go/
@@ -41,6 +41,10 @@ nav-shared:
         url: /mac-mgmt/
       - title: "Browser"
         url: /mac-chrome/
+      - title: "VPN"
+        url: /mac-vpn/
+      - title: "Druva"
+        url: /mac-druva/
 
 
 nav-go:
