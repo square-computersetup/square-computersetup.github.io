@@ -44,7 +44,11 @@ If this is your first Square laptop, [skip this section](#done). If you are repl
 
 Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click [Restore](#done){: .btn .btn--inverse .btn--small}.
 
+
+
 <a name="done"></a>
+You may close the Druva window and the restore process (if any) will continue in the background. 
+
 That wasn't so hard, right? Now your Macbook is protected against any accidental data corruption or physical theft.
 
 [Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
