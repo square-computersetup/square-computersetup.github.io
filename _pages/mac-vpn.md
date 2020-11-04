@@ -61,7 +61,7 @@ At the second warning, click [Install](#changes){: .btn .btn--inverse .btn--smal
 
 At the prompt, enter your __Laptop Password__ (which may not match your Duo SSO) and click [OK](#installed){: .btn .btn--inverse .btn--small} to allow the changes
 
-<a name="changes"></a> 
+<a name="installed"></a> 
 {% include figure url="/assets/images/profiles4.jpg" image_path="/assets/images/profiles4.jpg" %}
 
 Confirm that you have a profile called __Square Wifi__ installed (it is normal and expected for it to show as _unverified_)
@@ -78,6 +78,7 @@ Now to test that your provisioning works on an _actual_ VPN and not just the spe
 
 Enter your __Laptop Password__ (which may not match your Duo SSO) and click [Always Allow](#always){: .btn .btn--inverse .btn--small} to authorize _Keychain_ access (this is a __one-time__ prompt).
 
+<a name="always"></a> 
 {% include figure url="/assets/images/vpn-login.jpg" image_path="/assets/images/vpn-login.jpg" %}
 
 Each time you connect to the VPN, you will be asked to enter your password into the __Secondary Password__ field. This is the password that you use for Duo SSO (and __NOT__ your Laptop Password).
