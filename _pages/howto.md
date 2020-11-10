@@ -16,4 +16,4 @@ This is the directory with all of the pages. Filenames are not indicative of the
 
 This contains the left-side navigation
 
-
+`NOTE:` changes will take between 3-5 minutes to regenerated and visible on the GitHub hosting
