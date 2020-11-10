@@ -35,7 +35,9 @@ This contains the left-side navigation
 | ` > quote `   | Block-quote |
 
 ```markdown
-[Link Text to Google](https://www.google.com){: target='_blank'}
+[Link Text to Google](https://www.google.com)
+[Link Text to Google on new tab](https://www.google.com){: target='_blank'}
+
 ```
 
 ### Backticks `` ` ``
