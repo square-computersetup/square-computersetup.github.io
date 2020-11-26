@@ -76,4 +76,4 @@ Within a minute, you will see some mandatory Chrome extensions installed in the 
 Once you see the Square logo, your Chrome web browser is properly configured and ready for use.  
 
 
-[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
