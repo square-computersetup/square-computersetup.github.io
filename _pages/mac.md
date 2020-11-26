@@ -26,7 +26,7 @@ Next, some Mac devices will display a __Data &amp; Privacy__ screen:
 
 {% include figure url="/assets/images/mac-05-privacy.jpg" image_path="/assets/images/mac-05-privacy.jpg" %}
 
-If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--inverse .btn--small} for the next page of instructions and stop reading here. 
+If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--success} for the next page of instructions and stop reading here. 
 
 If instead you see a __Remote Management__ screen indicating it is managed by __Square Inc.__:
 
@@ -65,4 +65,4 @@ You may also be asked if you wish to use a Light or Dark visual theme to your de
 
 After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper). 
 
-[Next Step &rarr;](/mac-tips){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-mgmt){: .btn .btn--success .btn--large}
