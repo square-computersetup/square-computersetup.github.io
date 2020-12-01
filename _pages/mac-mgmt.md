@@ -3,7 +3,7 @@ title: "Mac Mgmt"
 permalink: /mac-mgmt/
 author_profile: true
 sidebar:
-  nav: "nav-shared"
+  nav: "nav-mac"
 header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
