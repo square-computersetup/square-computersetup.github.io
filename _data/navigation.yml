@@ -8,6 +8,7 @@ main:
   - title: "Help"
     url: /help/
 
+nav-shared:
   - title: Chrome OS
     children:
       - title: "Setup"
