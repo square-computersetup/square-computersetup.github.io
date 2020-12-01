@@ -35,4 +35,4 @@ Click <img src='/assets/images/apple.png' width='20' height='20'> in the top-lef
 You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be differen than your Duo SSO password).
 
 
-[Next Step &rarr;](/mac-tips){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
