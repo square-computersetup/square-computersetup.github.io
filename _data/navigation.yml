@@ -8,16 +8,6 @@ main:
   - title: "Help"
     url: /help/
 
-nav-shared:
-  - title: Shared
-    children:
-      - title: "Go Links"
-        url: /go/
-      - title: "Slack"
-        url: /slack/
-      - title: "Finish"
-        url: /end/
-
   - title: Chrome OS
     children:
       - title: "Setup"
