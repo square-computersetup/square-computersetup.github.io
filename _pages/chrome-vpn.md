@@ -57,4 +57,4 @@ Next, enter just your password for a __Secondary Credential__ (the username will
 
 If all goes according to plan, you have now confirmed that you have provisioned a certificate for VPN and in-office WiFi. Hey, you're pretty good at this! Click __Disconnect__ before continuing to the next step.
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-tips/){: .btn .btn--success .btn--large}
