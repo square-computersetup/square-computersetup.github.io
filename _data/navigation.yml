@@ -9,43 +9,87 @@ main:
     url: /help/
 
 nav-shared:
-  - title: Shared
-    children:
-      - title: "Go Links"
-        url: /go/
-      - title: "Slack"
-        url: /slack/
-      - title: "Finish"
-        url: /end/
-
   - title: Chrome OS
     children:
       - title: "Setup"
         url: /chrome/
+      - title: "Go Links"
+        url: /go/
+      - title: "Slack"
+        url: /slack/
       - title: "Tips"
         url: /chrome-tips/
       - title: "VPN"
         url: /chrome-vpn/
+      - title: "Finish"
+        url: /end/
 
   - title: Mac OS
     children:
       - title: "Setup"
         url: /mac/
-      - title: "Tips"
-        url: /mac-tips/
-      - title: "Privacy"
+      - title: "Data & Privacy"
         url: /mac-privacy/
       - title: "MDM"
         url: /mac-mdm/
-      - title: "Mgmt"
+      - title: "Management"
         url: /mac-mgmt/
-      - title: "Browser"
+      - title: "Tips"
+        url: /mac-tips/
+      - title: "Chrome"
         url: /mac-chrome/
+      - title: "Go Links"
+        url: /go/
+      - title: "Slack"
+        url: /slack/
       - title: "VPN"
         url: /mac-vpn/
       - title: "Druva"
         url: /mac-druva/
+      - title: "Finish"
+        url: /end/
 
+nav-mac:
+  - title: Mac OS
+    children:
+      - title: "Setup"
+        url: /mac/
+      - title: "Data & Privacy"
+        url: /mac-privacy/
+      - title: "MDM"
+        url: /mac-mdm/
+      - title: "Management"
+        url: /mac-mgmt/
+      - title: "Tips"
+        url: /mac-tips/
+      - title: "Chrome"
+        url: /mac-chrome/
+      - title: "Go Links"
+        url: /go/
+      - title: "Slack"
+        url: /slack/
+      - title: "VPN"
+        url: /mac-vpn/
+      - title: "Druva"
+        url: /mac-druva/
+      - title: "Finish"
+        url: /end/
+        
+nav-chrome:
+  - title: Chrome OS
+    children:
+      - title: "Setup"
+        url: /chrome/
+      - title: "Go Links"
+        url: /go/
+      - title: "Slack"
+        url: /slack/
+      - title: "Tips"
+        url: /chrome-tips/
+      - title: "VPN"
+        url: /chrome-vpn/
+      - title: "Finish"
+        url: /end/
 
 nav-go:
   - title: Workplace Tools
