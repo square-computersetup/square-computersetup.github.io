@@ -17,4 +17,4 @@ Now that you're familiar, you may be interested in some [Trackpad Tips](https://
 If you have a specific question, consult the comprehensive [Macbook Essentials](https://support.apple.com/guide/macbook-pro/welcome/2020/mac) guide.
 
 
-[Next Step &rarr;](/mac-chrome/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/end/){: .btn .btn--success .btn--large}
