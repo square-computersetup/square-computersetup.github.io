@@ -3,7 +3,7 @@ title: "Chrome VPN"
 permalink: /chrome-vpn/
 author_profile: true
 sidebar:
-  nav: "nav-shared"
+  nav: "nav-chrome"
 header:
   overlay_image: /assets/images/splash_chrome.png
 ---
