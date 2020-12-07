@@ -12,6 +12,8 @@ Virtual Private Network (VPN) is a tunnel that creates a private connection betw
 
 Let's start by clicking on the Pulse Secure icon <img src="/assets/images/pulse.png" width='25' height='25' /> near the clock in the top-right corner of your Macbook desktop.
 
+{::comment}
+
 {% include figure url="/assets/images/vpn-onboard.jpg" image_path="/assets/images/vpn-onboard.jpg" %}
 
 Select the __Onboard__ network, and then select __Connect__
@@ -70,9 +72,13 @@ Confirm that you have a profile called __Square Wifi__ installed (it is normal a
 
 Return to the Pulse Secure icon near the clock, click on __Onboard__ and then click __Disconnect__
 
+
+Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, 
+{:/comment}
+
 {% include figure url="/assets/images/vpn-west.jpg" image_path="/assets/images/vpn-west.jpg" %}
 
-Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, select the __Square West Coast VPN__ (or any other).
+Select the __Square West Coast VPN__ (or any other).
 
 {% include figure url="/assets/images/vpn-allow.jpg" image_path="/assets/images/vpn-allow.jpg" %}
 
