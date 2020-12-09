@@ -8,11 +8,13 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
+First turn on your new laptop with the power button.
+
 Once it starts up you will eventually get to a screen that asks you to select your country.
 
 Then you will need to choose your keyboard layout.
 
-And then you will need to connect to your Wifi network. Find your home network, enter your password and click Next.
+And then you will need to connect to your Wifi network. Find your home network, enter your password and click __Next__.
 
 If you are in a Square office, select Square Guest. The password is: fieldinternet 
 
@@ -20,11 +22,11 @@ After connecting to your network the computer may restart, once it comes back it
 
 Before continuing you will need to have been provisioned a Microsoft account by IT. If you haven't got the details for this please reach out to us on slack at #itsupport.
 
-Next you will see a Welcome to Square, Inc. screen.
+Next you will see a __Welcome to Square, Inc.__ screen.
 
 Here you will need to put in your Square email address. 
 
-If you have never signed in you will need to enter your temporary password and set a phone number for future verification, you will also be asked to set a new password for your Microsoft account.
+If you have never signed in to your Microsoft account you will need to enter your temporary password and set a phone number for future verification, you will also be asked to set a new password for your Microsoft account.
 
 If you have signed into your microsoft account previously you will then need to put in your password and enter the verification code that will be sent via SMS.
 
@@ -32,12 +34,16 @@ Note: This password may be different than your Square password.
 
 After logging in the computer will continue setting up and may restart again and eventually you will see a screen that says Setting up your device for work
 
-You will want to wait on this screen until Device Preparation and Device Setup both have a green check and say Complete.
-
-The computer will then restart.
-
-After logging in the computer will continue setting up and may restart again and eventually you will see a screen that says Setting up your device for work
-
 You will want to wait on this screen until __Device Preparation__ and __Device Setup__ both have a green check and say Complete.
 
 The computer will then restart.
+
+Once the computer has restarted you will be prompted to again sign in with your Microsoft account.
+
+You will need need to wait for __Account Setup__ to Complete.
+
+Next you will be asked to __Use Windows Hello__ with your account. Press __Okay__ and then enter the verification code that will be sent via SMS to your phone.
+
+After a few moments you will be able to __Set up a PIN__. The PIN will be the password you use to log into the computer; it must be at least 8 characters long.
+
+You can then click __OK__ on the next screen to be taken to the desktop!
