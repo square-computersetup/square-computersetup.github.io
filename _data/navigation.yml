@@ -60,6 +60,22 @@ nav-chrome:
         url: /chrome-tips/
       - title: "Finish"
         url: /end/
+        
+nav-win:
+  - title: Windows
+    children:
+      - title: "Setup"
+        url: /win/
+      - title: "Go Links"
+        url: /go/
+      - title: "Slack"
+        url: /slack/
+      - title: "VPN"
+        url: /win-vpn/
+      - title: "Tips"
+        url: /win-tips/
+      - title: "Finish"
+        url: /end/
 
 nav-go:
   - title: Workplace Tools
