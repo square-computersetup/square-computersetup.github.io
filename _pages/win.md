@@ -8,15 +8,13 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
-First turn on your new laptop with the power button.
+First turn on your new laptop with the __power__ button.
 
 Once it starts up you will eventually get to a screen that asks you to select your country.
 
 Then you will need to choose your keyboard layout.
 
-And then you will need to connect to your Wifi network. Find your home network, enter your password and click __Next__.
-
-If you are in a Square office, select Square Guest. The password is: fieldinternet 
+Connect your device to a wireless network (either your home WiFi or the Square office) with Internet access.
 
 After connecting to your network the computer may restart, once it comes back its time to log in.
 
@@ -47,3 +45,5 @@ Next you will be asked to __Use Windows Hello__ with your account. Press __Okay_
 After a few moments you will be able to __Set up a PIN__. The PIN will be the password you use to log into the computer; it must be at least 8 characters long.
 
 You can then click __OK__ on the next screen to be taken to the desktop!
+
+[Next Step &rarr;](/win-chrome){: .btn .btn--success .btn--large}
