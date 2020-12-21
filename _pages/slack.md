@@ -8,7 +8,7 @@ sidebar:
 
 Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. Start the Chrome web browser (usually located in the system tray at the bottom). Type __go/slack__ in the address bar at the top.
 
-{% include figure url="/assets/images/slack-login.jpg" image_path="/assets/images/slack-login.jpg" %}
+{% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
 Click on __Sign in with Duo Access Gateway__ which should redirect you to Duo SSO where you can sign in with your Square username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
 
@@ -16,7 +16,7 @@ You may be prompted to __Enable Desktop Notifications__:
 
 {% include figure url="/assets/images/slack-notify-ask.jpg" image_path="/assets/images/slack-notify-ask.jpg" %}
 
-These notifications will take the form of brief pop-ups in the corner of your screen. Click to allow notifications so that you don't miss any incoming messages. 
+These notifications will take the form of brief pop-ups in the corner of your screen. Click to allow notifications so that you don't miss any incoming messages.
 
 {% include video id="wuyWwzazef8" provider="youtube" %}
 

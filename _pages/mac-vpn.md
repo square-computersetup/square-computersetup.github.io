@@ -20,13 +20,13 @@ Select the __Onboard__ network, and then select __Connect__
 
 {% include figure url="/assets/images/vpn-onboard-login.jpg" image_path="/assets/images/vpn-onboard-login.jpg" %}
 
-Enter just your username (jsmith not jsmith@squareup.com) and your password.  This is __NOT__ your Laptop Password, but rather the password you have used with Duo SSO. 
+Enter just your username (jsmith not jsmith@squareup.com) and your password.  This is __NOT__ your Laptop Password, but rather the password you have used with Duo SSO.
 
 {% include figure url="/assets/images/vpn-tray.jpg" image_path="/assets/images/vpn-tray.jpg" %}
 
 After a few seconds, the Pulse Secure icon will change to have a green arrow superimposed, to indicate you are currently connected to a VPN.
 
-Open up the Chrome web browser and in the address bar at the top, enter __go.sqprod.co/vpnsetup__ 
+Open up the Chrome web browser and in the address bar at the top, enter __go.sqprod.co/vpnsetup__
 
 {% include figure url="/assets/images/go-vpnsetup.jpg" image_path="/assets/images/go-vpnsetup.jpg" caption="(in a future setup, we will configure even shorter __go/__ links)" %}
 
@@ -51,19 +51,19 @@ Click on __Square.mobileconfig__ in the bottom-left of your browser window to st
 
 {% include figure url="/assets/images/profiles1.jpg" image_path="/assets/images/profiles1.jpg" %}
 
-At the warning prompt, click [Continue](#profile){: .btn .btn--inverse .btn--small} 
+At the warning prompt, click [Continue](#profile){: .btn .btn--inverse .btn--small}
 
-<a name="profile"></a> 
+<a name="profile"></a>
 {% include figure url="/assets/images/profiles2.jpg" image_path="/assets/images/profiles2.jpg" %}
 
 At the second warning, click [Install](#changes){: .btn .btn--inverse .btn--small} to install the profile
 
-<a name="changes"></a> 
+<a name="changes"></a>
 {% include figure url="/assets/images/profiles3.jpg" image_path="/assets/images/profiles3.jpg" %}
 
 At the prompt, enter your __Laptop Password__ (which may not match your Duo SSO) and click [OK](#installed){: .btn .btn--inverse .btn--small} to allow the changes
 
-<a name="installed"></a> 
+<a name="installed"></a>
 {% include figure url="/assets/images/profiles4.jpg" image_path="/assets/images/profiles4.jpg" %}
 
 Confirm that you have a profile called __Square Wifi__ installed (it is normal and expected for it to show as _unverified_)
@@ -73,10 +73,10 @@ Confirm that you have a profile called __Square Wifi__ installed (it is normal a
 Return to the Pulse Secure icon near the clock, click on __Onboard__ and then click __Disconnect__
 
 
-Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, 
+Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN,
 {:/comment}
 
-{% include figure url="/assets/images/vpn-west.jpg" image_path="/assets/images/vpn-west.jpg" %}
+{% include figure url="/assets/images/vpn-aws.jpg" image_path="/assets/images/vpn-aws.jpg" %}
 
 Select the __Square VPN AWS__ (or any other).
 
@@ -84,16 +84,16 @@ Select the __Square VPN AWS__ (or any other).
 
 Enter your __Laptop Password__ (which may not match your Duo SSO) and click [Always Allow](#always){: .btn .btn--inverse .btn--small} to authorize _Keychain_ access (this is a __one-time__ prompt).
 
-<a name="always"></a> 
-{% include figure url="/assets/images/vpn-login.jpg" image_path="/assets/images/vpn-login.jpg" %}
+<a name="always"></a>
+{% include figure url="assets/images/vpn-aws-login.jpg" image_path="assets/images/vpn-aws-login.jpg" %}
 
 Each time you connect to the VPN, you will be asked to enter your password into the __Secondary Password__ field. This is the password that you use for Duo SSO (and __NOT__ your Laptop Password).
 
-{% include figure url="/assets/images/vpn-tray.jpg" image_path="/assets/images/vpn-tray.jpg" %}
+{% include figure url="assets/images/aws-green.jpg" image_path="assets/images/aws-green.jpg" %}
 
-If the Pulse Secure icon shows the green arrow superimposed again, you have successfully authenticated to the VPN and provisioned a certificate for in-office WiFi. Hey, you're pretty good at this! 
+If the Pulse Secure icon shows the green arrow superimposed again, you have successfully authenticated to the VPN and provisioned a certificate for in-office WiFi. Hey, you're pretty good at this!
 
-{% include figure url="/assets/images/vpn-disco-west.jpg" image_path="/assets/images/vpn-disco-west.jpg" %}
+{% include figure url="assets/images/aws-disconnect.jpg" image_path="assets/images/aws-disconnect.jpg" %}
 
 Return to the Pulse Secure icon near the clock, click on the active VPN, and then click __Disconnect__
 
