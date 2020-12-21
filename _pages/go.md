@@ -38,6 +38,6 @@ If you see __Looks like your device needs some maintenance__, it means your devi
 
 <a name="done"></a>
 ## Done
-Fantastic! Now that you have __go/__ links working, keep an eye out for a list of handy __go/__ links at the end of this setup guide.
+Fantastic! Now that you have __go/__ links working, let's reset your Square password.
 
-[Next Step &rarr;](/slack){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/password){: .btn .btn--success .btn--large}
