@@ -10,7 +10,7 @@ header:
 
 Let's get your Macbook setup!
 
-Press the __power__ button at the top-right corner of the keyboard: 
+Press the __power__ button at the top-right corner of the keyboard:
 
 {% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" caption="(if you have a Mac Mini, the power button is in the rear)" %}
 
@@ -26,7 +26,7 @@ Next, some Mac devices will display a __Data &amp; Privacy__ screen:
 
 {% include figure url="/assets/images/mac-05-privacy.jpg" image_path="/assets/images/mac-05-privacy.jpg" %}
 
-If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--success} for the next page of instructions and stop reading here. 
+If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--success} for the next page of instructions and stop reading here.
 
 If instead you see a __Remote Management__ screen indicating it is managed by __Square Inc.__:
 
@@ -34,12 +34,27 @@ If instead you see a __Remote Management__ screen indicating it is managed by __
 
 Click [Continue](#duo){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive a Duo SSO login screen:
 
-<a name="duo"></a> 
-{% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+<a name="duo"></a>
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
-Enter just your username (jsmith not jsmith@squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
+Enter just your username (**without the** @squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
-<a name="push"></a> 
+<a name="push"></a>
+{% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+
+Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the whole process.
+
+* Choose **Mobile phone**
+* Enter​ **Phone Number**
+* Choose​ **phone type**
+* Select​ **I have Duo Mobile installed**
+* Open​ **Duo Mobile app on your phone and Click the +**
+* Scan **QR Code**
+* Select​ **Continue to Login**
+* Click on [S​end Me a Push](#push){: .btn .btn--inverse .btn--small}
+* Approve​ **Push notification on your phone**
+
+<a name="push"></a>
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this prompt to create a computer account:
@@ -59,10 +74,10 @@ If your Macbook has a fingerprint sensor, you will be prompted to setup __Touch 
 
 {% include figure url="/assets/images/mac-dark.jpg" image_path="/assets/images/mac-dark.jpg" %}
 
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in the System Preferences control panel. 
+You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in the System Preferences control panel.
 
 {% include figure url="/assets/images/mac-desktop.jpg" image_path="/assets/images/mac-desktop.jpg"  %}
 
-After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper). 
+After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper).
 
 [Next Step &rarr;](/mac-mgmt){: .btn .btn--success .btn--large}
