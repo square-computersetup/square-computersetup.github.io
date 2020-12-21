@@ -78,7 +78,7 @@ Now to test that your provisioning works on an _actual_ VPN and not just the spe
 
 {% include figure url="/assets/images/vpn-west.jpg" image_path="/assets/images/vpn-west.jpg" %}
 
-Select the __Square VPN AWS__ .
+Select the __Square VPN AWS__ (or any other).
 
 {% include figure url="/assets/images/vpn-allow.jpg" image_path="/assets/images/vpn-allow.jpg" %}
 
