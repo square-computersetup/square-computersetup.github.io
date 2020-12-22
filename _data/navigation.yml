@@ -4,7 +4,7 @@ main:
   - title: "<img src='/assets/images/chrome.png' width='25' height='25' title='ChromeOS' />"
     url: /chrome/
   - title: "<img src='/assets/images/windows.png' width='25' height='25' title='Windows' />"
-    url: /windows/
+    url: /win/
   - title: "Help"
     url: /help/
 
