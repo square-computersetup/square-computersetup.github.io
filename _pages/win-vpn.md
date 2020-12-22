@@ -25,3 +25,5 @@ Open the Aruba Quick Connect software, making sure to click Allow when prompted 
 Click Next in the app and allow it to install
 
 Now open pulse secure again and disconnect from the Remote Onboard VPN and click connect on the Square VPN AWS. You will be prompted for a Secondary Password, which is just your Square password.
+
+[Next Step &rarr;](/win-druva/){: .btn .btn--success .btn--large}
