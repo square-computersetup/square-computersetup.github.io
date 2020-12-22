@@ -5,24 +5,16 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/splash_mac.jpg
+  overlay_image: /assets/images/splash_win.jpg
 ---
 
 Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Square. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
 
 Click the Pulse Secure (White S logo) icon in the taskbar. (You may need to click the ^ arrow to expand the list)
 
-Open Pulse Secure, hit the + to the top right to add a new VPN.
+Connect to Remote Onboard VPN, your username and password is your Square username and password.
 
-Enter the following:
-- Name: Remote Onboard
-- Server URL: https://vpn.east.squareup.com/onboard
-
-If the Remote Onboard VPN is already there, skip this step
-
-Connect to Remote Onboard VPN, your user/pass is your square username and password. (make sure all other VPN connections are disconnected)
-
-Once connected go to https://clearpass01.corp.squareup.com/guest/laptop_provisioning.php?_browser=1 in Chrome
+Once connected go to __go/vpnsetup__ in Chrome
 
 Sign in with your Square username and password
 
@@ -32,4 +24,4 @@ Open the Aruba Quick Connect software, making sure to click Allow when prompted 
 
 Click Next in the app and allow it to install
 
-Now disocnnect from the remote onboard VPN connect to the Square VPN AWS
+Now open pulse secure again and disconnect from the Remote Onboard VPN and click connect on the Square VPN AWS. You will be prompted for a Secondary Password, which is just your Square password.
