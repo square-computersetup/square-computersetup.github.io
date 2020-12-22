@@ -45,6 +45,6 @@ You may close the Druva window and the restore process (if any) will continue in
 
 That wasn't so hard, right? Now your computer is protected against any accidental data corruption or physical theft.
 
-[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-tips/){: .btn .btn--success .btn--large}
 
 
