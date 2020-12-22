@@ -8,13 +8,33 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
+Now lets open Chrome, the icon will be on your Windows Desktop.
 
+We will first sign into your Square email address. Enter __gmail.com__ in the address bar.
 
+Now sign into Gmail using the email provided on your Welcome Sheet. 
 
+You will then be prompted for a username and password.
 
+Enter just your username (**without the** @squareup.com) and your temporary password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
+<a name="push"></a>
+{% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
+Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the whole process.
 
+* Choose **Mobile phone**
+* Enter​ **Phone Number**
+* Choose​ **phone type**
+* Select​ **I have Duo Mobile installed**
+* Open​ **Duo Mobile app on your phone and Click the +**
+* Scan **QR Code**
+* Select​ **Continue to Login**
+* Click on [S​end Me a Push](#push){: .btn .btn--inverse .btn--small}
+* Approve​ **Push notification on your phone**
+
+<a name="push"></a>
+{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
 Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
 
