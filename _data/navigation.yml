@@ -80,6 +80,8 @@ nav-win:
         url: /slack/
       - title: "VPN"
         url: /win-vpn/
+      - title: "Druva"
+        url: /win-druva/
       - title: "Tips"
         url: /win-tips/
       - title: "Finish"
