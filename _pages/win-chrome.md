@@ -18,6 +18,8 @@ You will then be prompted for a username and password.
 
 Enter just your username (**without the** @squareup.com) and your temporary password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
+If you have set up Duo previously, skip forward to the send a push section below.
+
 <a name="push"></a>
 {% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
@@ -35,6 +37,8 @@ Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the 
 
 <a name="push"></a>
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+
+Now you should be logged in and Google may ask you to accept the terms and conditions as well as set up the look for your Gmail inbox.
 
 Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
 
