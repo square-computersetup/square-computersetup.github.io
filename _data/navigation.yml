@@ -13,12 +13,10 @@ nav-shared:
     children:
       - title: "Go Links"
         url: /go/
-      - title: "Slack"
-        url: /slack/
       - title: "Password"
         url: /password/
-      - title: "Finish"
-        url: /end/
+      - title: "Slack"
+        url: /slack/
 
 
 nav-mac:
