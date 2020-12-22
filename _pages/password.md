@@ -5,7 +5,9 @@ author_profile: true
 sidebar:
   nav: "nav-shared"
 ---
-Since we have go/ links working, let's reset your Square password. In your browser navigate to go/password
+Since we have go/ links working, let's reset your Square password. If today isn't your first day at Square, you can skip this page. 
+
+In your browser navigate to go/password
 
 {% include figure url="/assets/images/password.jpg" image_path="/assets/images/password.jpg" %}
 
