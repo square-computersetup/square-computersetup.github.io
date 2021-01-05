@@ -10,7 +10,7 @@ header:
 
 We use __Druva__ to continuously backup your computer to the cloud, just to be safe. Let's activate it now.
 
-Start by clicking on the Druva icon on the desktop.
+Start by clicking on the __Druva inSync__ icon on the desktop.
 
 {% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
