@@ -4,7 +4,7 @@ main:
   - title: "<img src='/assets/images/chrome.png' width='25' height='25' title='ChromeOS' />"
     url: /chrome/
   - title: "<img src='/assets/images/windows.png' width='25' height='25' title='Windows' />"
-    url: /windows/
+    url: /win/
   - title: "Help"
     url: /help/
 
@@ -13,10 +13,10 @@ nav-shared:
     children:
       - title: "Go Links"
         url: /go/
+      - title: "Password"
+        url: /password/
       - title: "Slack"
         url: /slack/
-      - title: "Finish"
-        url: /end/
 
 
 nav-mac:
@@ -34,6 +34,8 @@ nav-mac:
         url: /mac-chrome/
       - title: "Go Links"
         url: /go/
+      - title: "Password"
+        url: /password/
       - title: "Slack"
         url: /slack/
       - title: "VPN"
@@ -52,12 +54,36 @@ nav-chrome:
         url: /chrome/
       - title: "Go Links"
         url: /go/
+      - title: "Password"
+        url: /password/
       - title: "Slack"
         url: /slack/
       - title: "VPN"
         url: /chrome-vpn/
       - title: "Tips"
         url: /chrome-tips/
+      - title: "Finish"
+        url: /end/
+        
+nav-win:
+  - title: Windows
+    children:
+      - title: "Setup"
+        url: /win/
+      - title: "Go Chrome"
+        url: /win-chrome/
+      - title: "Go Links"
+        url: /go/
+      - title: "Password"
+        url: /password/
+      - title: "Slack"
+        url: /slack/
+      - title: "VPN"
+        url: /win-vpn/
+      - title: "Druva"
+        url: /win-druva/
+      - title: "Tips"
+        url: /win-tips/
       - title: "Finish"
         url: /end/
 

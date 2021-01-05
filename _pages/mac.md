@@ -39,6 +39,8 @@ Click [Continue](#duo){: .btn .btn--inverse .btn--small} on the Remote Managemen
 
 Enter just your username (**without the** @squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
+If you have set up Duo previously, skip forward to the send a push section below.
+
 <a name="push"></a>
 {% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
