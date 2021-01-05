@@ -20,7 +20,7 @@ Connect your device to a wireless network (either your home WiFi or the Square o
 
 After connecting to your network the computer may restart, once it comes back its time to log in.
 
-Before continuing you will need to have been provisioned a Microsoft account by IT. If you haven't got the details for this please reach out to us on slack at #itsupport.
+Before continuing you will need to have been provisioned a Microsoft account by IT. If you haven't got the details for this please reach out to us on slack at #itsupport or reply to the IT setup email you were sent if it's your first day.
 
 Next you will see a __Welcome to Square, Inc.__ screen.
 
@@ -42,11 +42,11 @@ You will also be asked to set a new password for your Microsoft account.
 
 {% include figure url="/assets/images/win-account3.png" image_path="/assets/images/win-account3.png" %}
 
-If you have signed into your microsoft account previously you will then need to put in your password and enter the verification code that will be sent via SMS.
+If you have signed into your microsoft account previously you will istead need to put in your password and enter the verification code that will be sent via SMS.
 
 Note: This password may be different than your Square password.
 
-After logging in the computer will continue setting up and may restart again and eventually you will see a screen that says Setting up your device for work
+After logging in, you will need to accept some terms and condtions, then computer will continue setting up and may restart again and eventually you will see a screen that says Setting up your device for work
 
 {% include figure url="/assets/images/win-setup.png" image_path="/assets/images/win-setup.png" %}
 
@@ -54,13 +54,13 @@ You will want to wait on this screen until __Device Preparation__ and __Device S
 
 The computer will then restart.
 
-Once the computer has restarted you will be prompted to again sign in with your Microsoft account.
+Once the computer has restarted you may see a background photo which you can just click anywhere to continue and be prompted to again sign in with your Microsoft account.
 
-You will need need to wait for __Account Setup__ to Complete.
+You will then need need to wait for __Account Setup__ to Complete.
 
 Next you will be asked to __Use Windows Hello__ with your account. Press __Okay__ and then enter the verification code that will be sent via SMS to your phone.
 
-After a few moments you will be able to __Set up a PIN__. The PIN will be the password you use to log into the computer; it must be at least 8 characters long.
+After a few moments you will be able to __Set up a PIN__. The PIN will be the password you use to log into the computer; it must be at least 8 characters long and if you want to use letters you will need to check the box to allow it!
 
 You can then click __OK__ on the next screen to be taken to the desktop!
 
