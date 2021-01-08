@@ -14,6 +14,9 @@ We will first sign into your Square email address. Enter __gmail.com__ in the ad
 
 Now sign into Gmail using the email provided on your Welcome Sheet. 
 
+<a name="gmail"></a> 
+{% include figure url="/assets/images/win-chrome-gmail.png" image_path="/assets/images/win-chrome-gmail.png" %}
+
 You will then be prompted for a username and password.
 
 Enter just your username (**without the** @squareup.com) and your temporary password and click [Login](#push){: .btn .btn--inverse .btn--small}
@@ -21,8 +24,8 @@ Note: Click the small x if asked to save your password, we can save it later aft
 
 If you have set up Duo previously, skip forward to the send a push section below.
 
-<a name="push"></a>
-{% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+<a name="duo"></a> 
+{% include figure url="/assets/images/win-chrome-duo.png" image_path="/assets/images/win-chrome-duo.png" %}
 
 Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the whole process.
 
@@ -43,23 +46,23 @@ Now you should be logged in and Google may ask you to accept the terms and condi
 
 Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
 
-{% include figure url="/assets/images/mac-chrome-login.jpg" image_path="/assets/images/mac-chrome-login.jpg"  %}
+{% include figure url="/assets/images/win-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
 
 Click on the person icon in the top-right corner of the Chrome browser, then click [Turn on sync...](#synced){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/mac-chrome-link.jpg" image_path="/assets/images/mac-chrome-link.jpg"  %}
+{% include figure url="/assets/images/win-chrome-link.png" image_path="/assets/images/win-chrome-link.png"  %}
 
 When prompted to sync your browser with Square's Google services, click on [Link Data](#link){: .btn .btn--inverse .btn--small}.
 
 <a name="link"></a> 
-{% include figure url="/assets/images/mac-chrome-sync.jpg" image_path="/assets/images/mac-chrome-sync.jpg"  %}
+{% include figure url="/assets/images/win-chrome-yes.png" image_path="/assets/images/win-chrome-yes.png"  %}
 
 Click on [Yes I'm in](#yes){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
 
 <a name="yes"></a> 
 Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.
 
-{% include figure url="/assets/images/chrome-extensions.jpg" image_path="/assets/images/chrome-extensions.jpg" caption="(if no Square logo appears within two minutes, enter __chrome://restart__ in the address bar, press enter, and wait a few more minutes)" %}
+{% include figure url="/assets/images/win-chrome-extension.png" image_path="/assets/images/win-chrome-extension.png" caption="(if no Square logo appears within two minutes, enter __chrome://restart__ in the address bar, press enter, and wait a few more minutes)" %}
 
 Once you see the Square Go Links extension, your Chrome web browser is properly configured and ready for use.  
 
