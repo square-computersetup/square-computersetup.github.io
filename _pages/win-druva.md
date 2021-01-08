@@ -14,7 +14,7 @@ Start by clicking on the __Druva inSync__ icon on the desktop.
 
 {% include figure url="/assets/images/win-druva-activate.png" image_path="/assets/images/win-druva-activate.png" %}
 
-Enter your full email address and click [Continue]{: .btn .btn--inverse .btn--small} 
+Enter your full email address and click __Continue.__
 
 Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
