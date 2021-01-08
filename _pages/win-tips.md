@@ -8,7 +8,8 @@ header:
   overlay_image: /assets/images/splash_win.jpg
 ---
 
-Windows Tips Coming Soon
+Microsoft has a great resource for Windows 10 tips here if you need a hand getting to know Windows:
+[Microsoft Tips](https://support.microsoft.com/en-us/tips/home)
 
 
 [Next Step &rarr;](/end/){: .btn .btn--success .btn--large}
