@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/splash_win.jpg
+  overlay_image: /assets/images/win-splash.jpg
 ---
 
 Now lets open Chrome, the icon will be on your Windows Desktop. (If it isn't there right away, wait a minute or two!)
