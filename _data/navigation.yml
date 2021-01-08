@@ -70,7 +70,7 @@ nav-win:
     children:
       - title: "Setup"
         url: /win/
-      - title: "Go Chrome"
+      - title: "Chrome"
         url: /win-chrome/
       - title: "Go Links"
         url: /go/
