@@ -4,8 +4,6 @@ permalink: /mac-tips/
 author_profile: true
 sidebar:
   nav: "nav-mac"
-header:
-  overlay_image: /assets/images/splash_mac.jpg
 ---
 
 If this is your first time using MacOS, take a few minutes to familiarize yourself using this orientation video (start at 0:18):
