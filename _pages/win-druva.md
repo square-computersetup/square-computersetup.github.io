@@ -12,31 +12,27 @@ We use __Druva__ to continuously backup your computer to the cloud, just to be s
 
 Start by clicking on the __Druva inSync__ icon on the desktop.
 
-{% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
+{% include figure url="/assets/images/win-druva-activate.png" image_path="/assets/images/win-druva-activate.png" %}
 
-Enter your full email address and click [Continue](#login){: .btn .btn--inverse .btn--small} 
-
-<a name="login"></a> 
-{% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
+Enter your full email address and click [Continue]{: .btn .btn--inverse .btn--small} 
 
 Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
 When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .btn--inverse .btn--small} 
 
-<a name="insync"></a> 
-{% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
+{% include figure url="/assets/images/win-druva-chrome.png" image_path="/assets/images/win-druva-chrome.png" %}
 
 The Druva window will come back to the foreground. __DO NOT__ click any buttons.
 
 If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
 
 <a name="replace"></a> 
-{% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}
+{% include figure url="/assets/images/win-druva-replace.png" image_path="/assets/images/win-druva-replace.png" %}
 
 If this is your first Square laptop, [skip this section](#done). If you are replacing an existing Square laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
 
 <a name="restore"></a>
-{% include figure url="/assets/images/druva-mac2.jpg" image_path="/assets/images/druva-mac2.jpg" %}
+{% include figure url="/assets/images/win-druva-restore.png" image_path="/assets/images/win-druva-restore.png" %}
 
 Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click [Restore](#done){: .btn .btn--inverse .btn--small}.
 
