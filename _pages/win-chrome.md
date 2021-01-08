@@ -46,7 +46,7 @@ Now you should be logged in and Google may ask you to accept the terms and condi
 
 Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
 
-{% include figure url="/assets/images/win-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
+{% include figure url="/assets/images/win-chrome-sync.png" image_path="/assets/images/win-chrome-sync.png"  %}
 
 Click on the person icon in the top-right corner of the Chrome browser, then click [Turn on sync...](#synced){: .btn .btn--inverse .btn--small}
 
