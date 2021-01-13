@@ -10,4 +10,6 @@ header:
 
 🏁 __You did it!__ You've finished setting up your new computer. 
 
-If you're a new Square, take a minute to view some of the Go links in the navigation side-bar. If you have any questions or feedback about this setup guide, [please reach out](/help).
+If you're a new Square, take a minute to view some of the Go links in the navigation side-bar. If you have any questions [please reach out](/help).
+
+If you want to leave any feedback for this setup guide, please email us at newcomputer-feedback@square.com (from your Square email address)
