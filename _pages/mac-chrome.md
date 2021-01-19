@@ -71,7 +71,7 @@ Click on [Yes I'm in](#yes){: .btn .btn--inverse .btn--small} to confirm a sync 
 <a name="yes"></a>
 Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.
 
-{% include figure url="/assets/images/chrome-extensions.jpg" image_path="/assets/images/chrome-extensions.jpg" caption="(if no Square logo appears within two minutes, enter __chrome://restart__ in the address bar, press enter, and wait a few more minutes)" %}
+{% include figure url="/assets/images/chrome-extensions.png" image_path="/assets/images/chrome-extensions.png" caption="(if no Square logo appears within two minutes, enter __chrome://restart__ in the address bar, press enter, and wait a few more minutes)" %}
 
 Once you see the Square logo, your Chrome web browser is properly configured and ready for use.
 
