@@ -8,12 +8,38 @@ header:
   overlay_image: /assets/images/splash_mac.jpg
 ---
 
-We have to do some extra steps to get your Macbook enrolled with our Mobile Device Management (MDM) system. Open the Safari web browser (look for the _compass_ icon in the bottom system tray) and in the address bar at the top, enter __go.sqprod.co/mdmfix__
+We have to do some extra steps to get your Macbook enrolled with our Mobile Device Management (MDM) system, but first we will first sign into your Square email address. Open the Safari web browser (look for the _compass_ icon in the bottom system tray) and in the address bar at the top, enter __gmail.com__.
+
+Now sign into Gmail using the email provided on your Welcome Sheet. 
+
+You will then be prompted for a username and password.
+
+Enter just your username (**without the** @squareup.com) and your temporary password and click [Login](#push){: .btn .btn--inverse .btn--small}
+
+If you have set up Duo previously, skip forward to the send a push section below.
+
+Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the whole process.
+
+* Choose **Mobile phone**
+* Enter **Phone Number**
+* Choose **phone type**
+* Select **I have Duo Mobile installed**
+* Open **Duo Mobile app on your phone and Click the +**
+* Scan **QR Code**
+* Select **Continue to Login**
+* Click on [Send Me a Push](#push){: .btn .btn--inverse .btn--small}
+* Approve **Push notification on your phone**
+
+<a name="push"></a>
+{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+
+Now you should be logged in and Google may ask you to accept the terms and conditions as well as set up the look for your Gmail inbox.
+
+Now we will fix up the MDM enrollment.Lets type __go.sqprod.co/mdmfix__ into the address bar in Safari.
 
 {% include figure url="/assets/images/go-mdmfix.jpg" image_path="/assets/images/go-mdmfix.jpg" caption="(in a future setup, we will configure even shorter __go/__ links)" %}
 
-__NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
-{: .notice--warning}
+__NOTE:__ You may be prompted to authenticate to Duo SSO again.{: .notice--warning}
 
 Click [Download](#mdmfix){: .btn .btn--inverse .btn--small} and once the download completes, click on the package name (in the bottom-left of your web browser) to start the package installation:
 
