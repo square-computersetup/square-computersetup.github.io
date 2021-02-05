@@ -16,7 +16,7 @@ feature_row:
     excerpt: "&nbsp;<br />"
     btn_label: "MacOS"
     btn_class: "btn--primary btn--large"
-  - url: /win/
+  - url: /win-azure/
     image_path: /assets/images/winbook.jpg
     alt: "Windows"
     excerpt: "&nbsp;<br />"
