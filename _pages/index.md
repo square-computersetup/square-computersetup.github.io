@@ -20,4 +20,4 @@ You just received a new computer from Square! Let's get you setup so you can get
 [👍 I understand the rules](/os){: .btn .btn--success .btn--large}
 
 
-If you are a new Square employee and havent got a computer yet [Click Here](/downloads/Self Service Onboarding.pdf){: .btn .btn--success .btn--large}
+If you are a new Square employee and havent got a computer yet [Click Here](/downloads/selfservicepdf.pdf){: .btn .btn--success .btn--large}
