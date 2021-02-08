@@ -21,4 +21,4 @@ You just received a new computer from Square! Let's get you setup so you can get
 
 
 If you are a new Square employee and havent recieved your computer yet, 
-[Click Here](/downloads/selfservicepdf.pdf){: .btn .btn--success .btn--large}
+[Click Here](/downloads/selfservicepdf.pdf){: .btn .btn--large}
