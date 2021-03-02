@@ -30,3 +30,6 @@ Select which type of device you would like to setup today:
 
 
 {% include feature_row %}
+
+
+Note: If you are a new Square employee and havent recieved your computer yet [Click Here Instead](/downloads/selfservicepdf.pdf){: .btn .btn--info}
