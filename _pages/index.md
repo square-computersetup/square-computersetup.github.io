@@ -19,6 +19,5 @@ You just received a new computer from Square! Let's get you setup so you can get
 
 [👍 I understand the rules](/os){: .btn .btn--success .btn--large}
 
-Note: If you are a new Square employee and havent recieved your computer yet  
-[Click Here Instead](/downloads/selfservicepdf.pdf){: .btn .btn--info}
+Note: If you are a new Square employee and havent recieved your computer yet [Click Here Instead](/downloads/selfservicepdf.pdf){: .btn .btn--info}
 
