@@ -12,7 +12,7 @@ Now, some extra steps to get Google Chrome properly setup for use as your primar
 
 {% include figure url="/assets/images/mac-spotlight.jpg" image_path="/assets/images/mac-spotlight.jpg" caption="(Spotlight is the built-in search tool for MacOS)" %}
 
-{% include figure url="/assets/images/mac-chrome-search.jpg" image_path="/assets/images/mac-chrome-search.jpg" %}
+{% include figure url="/assets/images/mac-chrome-search-BS.jpg" image_path="/assets/images/mac-chrome-search-BS.jpg" %}
 
 Type in __Chrome__ and then click on the top hit, which is the application itself.
 
@@ -26,7 +26,7 @@ Click [Allow](#install){: .btn .btn--inverse .btn--small} when you see a one-tim
 On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](#default){: .btn .btn--inverse .btn--small}.
 
 <a name="default"></a>
-{% include figure url="/assets/images/mac-chrome-default.jpg" image_path="/assets/images/mac-chrome-default.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-default-BigSur.jpg" image_path="/assets/images/mac-chrome-default-BigSur.jpg"  %}
 
 Click on [Use Chrome](#notify){: .btn .btn--inverse .btn--small} to set the default web browser.
 
@@ -59,7 +59,7 @@ Choose one of the authentication methods, such as sending a push notice to your 
 
 Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small __X__ to decline this action.
 
-{% include figure url="/assets/images/mac-chrome-link.jpg" image_path="/assets/images/mac-chrome-link.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-link-BigSur.jpg" image_path="/assets/images/mac-chrome-link-BigSur.jpg"  %}
 
 When prompted to sync your browser with Square's Google services, click on [Link Data](#link){: .btn .btn--inverse .btn--small}.
 

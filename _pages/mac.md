@@ -16,11 +16,11 @@ Press the __power__ button at the top-right corner of the keyboard:
 
 Shortly after boot-up, you will be asked to select your home and preferred language:
 
-{% include figure url="/assets/images/mac-02-locale.jpg" image_path="/assets/images/mac-02-locale.jpg"  %}
+{% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
 Connect your device to a wireless network (either your home WiFi or the Square office) with Internet access.
 
-{% include figure url="/assets/images/mac-03-wifi.jpg" image_path="/assets/images/mac-03-wifi.jpg"  %}
+{% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 
 Next, some Mac devices will display a __Data &amp; Privacy__ screen:
 
@@ -30,7 +30,7 @@ If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .b
 
 If instead you see a __Remote Management__ screen indicating it is managed by __Square Inc.__:
 
-{% include figure url="/assets/images/mac-04-remote.jpg" image_path="/assets/images/mac-04-remote.jpg" %}
+{% include figure url="/assets/images/mac-04-remote-BigSur.jpg" image_path="/assets/images/mac-04-remote-BigSur.jpg" %}
 
 Click [Continue](#duo){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive a Duo SSO login screen:
 
