@@ -30,4 +30,4 @@ Please visit __gmail.com__ and enter your assigned Square email address (e.g., "
 
 Then, click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-{% include duo.md os="alt" next="/password" %}
+{% include duo.md os="alt" next="password" %}
