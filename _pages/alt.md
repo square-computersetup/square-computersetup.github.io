@@ -1,6 +1,6 @@
 ---
 title: "Alternate"
-permalink: /alternate/
+permalink: /alt/
 author_profile: true
 sidebar:
   nav: "nav-alt"
