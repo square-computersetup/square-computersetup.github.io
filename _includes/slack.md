@@ -1,5 +1,11 @@
 
-Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. Start the Chrome web browser (usually located in the system tray at the bottom). Type __go/slack__ in the address bar at the top.
+Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
+
+We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
+
+* If you are on the Cash team, visit [cash.slack.com](https://cash.slack.com){:target="_blank"}
+* If you are on the TIDAL team, visit [tidal.slack.com](https://tidal.slack.com){:target="_blank"}
+* All others should visit [square.slack.com](https://square.slack.com){:target="_blank"} 
 
 {% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
@@ -19,4 +25,8 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 Some people like having Slack in a separate application window instead of in their browsers. You can install a separate Slack app for [MacOS](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12){: target="_blank" }, [Windows](https://slack.com/downloads/windows){: target="_blank" }, or [ChromeOS](https://chrome.google.com/webstore/detail/slack/jeogkiiogjbmhklcnbgkdcjoioegiknm?hl=en-US){: target="_blank" } -- but fair warning that it is just another mini-web browser in its own window. You will not have any additional functionality.
 
-[<img src='/assets/images/chrome.png' width='20' height='20'> Next Step &rarr;](/chrome-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/apple.png' width='20' height='20'> Next Step &rarr;](/mac-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/windows.png' width='20' height='20'> Next Step &rarr;](/win-vpn){: .btn .btn--inverse .btn--large}
+<a name="approve"></a>
+If something didn't work, please ask for [help](/help). 
+
+[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}
+
