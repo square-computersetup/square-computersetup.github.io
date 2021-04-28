@@ -13,8 +13,6 @@ __Please read this message carefully as it contains important information about 
 {% include figure url="/assets/images/logo-tidal.jpg" image_path="/assets/images/logo-tidal.jpg" %}
 
 * On May 3 at approximately 6AM your local time, you will receive login credentials for your Square account. 
-  * Windows (Lenovo/Dell) users are required to have a Microsoft account created before logging into a Windows laptop.  
-  * Windows credentials will be delivered separately from your account email.
 * Optional drop-in IT office hours will be available on May 3rd.  
   * You will receive an invitation to these office hours at your Tidal.com email address.
 * After onboarding, file a ticket for assistance at Go/TidalHelp from your Square-issued laptop.  
