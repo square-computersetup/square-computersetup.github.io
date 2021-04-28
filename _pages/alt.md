@@ -1,5 +1,5 @@
 ---
-title: "Alternate"
+title: "Alternate Laptop"
 permalink: /alt/
 author_profile: true
 sidebar:
