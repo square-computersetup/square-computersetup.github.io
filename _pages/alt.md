@@ -6,78 +6,89 @@ sidebar:
   nav: "nav-alt"
 ---
 
-Let's get your Macbook setup!
+We are sorry we were unable to get you an official laptop before your start date. But let's at least get some things setup using an alternate laptop. If you __have received__ your Square laptop, you __must__ follow the [official enrollment](/os) path instead.
 
-Press the __power__ button at the top-right corner of the keyboard:
+## Incognito
 
-{% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" caption="(if you have a Mac Mini, the power button is in the rear)" %}
+Power up an alternate laptop and connect using any method to the Internet. To make sure we keep your personal life separate from this setup process, please switch into "incognito" or "private browsing" mode using one of these methods:
 
-Shortly after boot-up, you will be asked to select your home and preferred language:
+* for [Google Chrome](https://support.google.com/chrome/answer/95464){:target="_blank"}
+** on Mac, press CMD-SHIFT-N
+** on Windows/Linux/ChromeOS, press CTRL-SHIFT-N
+* for [Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history){:target="_blank"}
+** on Mac, press CMD-SHIFT-P
+** on Windows/Linux, press CTRL-SHIFT-P
+* for [Safari](https://support.apple.com/guide/safari/use-private-browsing-ibrw1069/mac){:target="_blank"}, press CMD-SHIFT-N
 
-{% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
+Once you see an indication (usually a black background) that you have entered incognito/private mode, you may continue.
 
-Connect your device to a wireless network (either your home WiFi or the Square office) with Internet access.
+## Duo Enrollment
 
-{% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
+We use Duo for single sign-on (SSO), so we need to set that up first. It's a good idea to spend 97 seconds to watch this quick video overview:
 
-Next, some Mac devices will display a __Data &amp; Privacy__ screen:
+{% include video id="22HGUqMMySc" provider="youtube" %}
 
-{% include figure url="/assets/images/mac-05-privacy.jpg" image_path="/assets/images/mac-05-privacy.jpg" %}
-
-If you see this screen above, click [Data &amp; Privacy](/mac-privacy){: .btn .btn--success} for the next page of instructions and stop reading here.
-
-If instead you see a __Remote Management__ screen indicating it is managed by __Square Inc.__:
-
-{% include figure url="/assets/images/mac-04-remote-BigSur.jpg" image_path="/assets/images/mac-04-remote-BigSur.jpg" %}
-
-Click [Continue](#duo){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive a Duo SSO login screen:
+Now, visit __gmail.com__ and enter your assigned Square email address (e.g., "johnsmith@squareup.com"). 
+Then, click [Next](#duo){: .btn .btn--inverse .btn--small}
 
 <a name="duo"></a>
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
-Enter just your username (**without the** @squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
+Enter just your username (**without the** @squareup.com) and your __temporary__ password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
-If you have set up Duo previously, skip forward to the send a push section below.
-
-<a name="push"></a>
+<a name="login"></a>
 {% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
-Click [Start Setup](#push){: .btn .btn--inverse .btn--small} and go through the whole process.
+Click [Start Setup](#setup2){: .btn .btn--inverse .btn--small}
 
-* Choose **Mobile phone**
-* Enter​ **Phone Number**
-* Choose​ **phone type**
-* Select​ **I have Duo Mobile installed**
-* Open​ **Duo Mobile app on your phone and Click the +**
-* Scan **QR Code**
-* Select​ **Continue to Login**
-* Click on [S​end Me a Push](#push){: .btn .btn--inverse .btn--small}
-* Approve​ **Push notification on your phone**
+<a name="setup2"></a>
+{% include figure url="/assets/images/duo-setup2.jpg" image_path="/assets/images/duo-setup2.jpg" %}
+
+Choose **Mobile phone** and click [Continue](#setup3){: .btn .btn--inverse .btn--small}
+
+<a name="setup3"></a>
+{% include figure url="/assets/images/duo-setup3.jpg" image_path="/assets/images/duo-setup3.jpg" %}
+
+Enter your **phone number** and click [Continue](#setup4){: .btn .btn--inverse .btn--small}
+
+<a name="setup4"></a>
+{% include figure url="/assets/images/duo-setup4.jpg" image_path="/assets/images/duo-setup4.jpg" %}
+
+Choose your phone type and click [Continue](#setup5){: .btn .btn--inverse .btn--small}
+
+<a name="setup5"></a>
+{% include figure url="/assets/images/duo-setup5.jpg" image_path="/assets/images/duo-setup5.jpg" %}
+
+Install the __Duo Mobile__ app from the [Apple App Store](https://apps.apple.com/us/app/duo-mobile/id422663827){:target="_blank"} or [Google Play Store](https://play.google.com/store/apps/details?id=com.duosecurity.duomobile){:target="_blank"}.
+
+Then, click [I have Duo Mobile installed](#setup6){: .btn .btn--inverse .btn--small}
+
+<a name="setup6"></a>
+{% include figure url="/assets/images/duo-setup6.jpg" image_path="/assets/images/duo-setup6.jpg" %}
+
+Open the __Duo Mobile__ app on your phone, tap the __+__, and aim your phone at the QR code. 
+
+Once the code is scanned, you may click [Continue](#setup7){: .btn .btn--inverse .btn--small}
+
+<a name="setup7"></a>
+{% include figure url="/assets/images/duo-setup7.jpg" image_path="/assets/images/duo-setup7.jpg" %}
+
+Click [Continue to Login](#setup8){: .btn .btn--inverse .btn--small}
+
+<a name="setup8"></a>
+{% include figure url="/assets/images/duo-setup8.jpg" image_path="/assets/images/duo-setup8.jpg" %}
+
+Click [Send Me a Push](#push){: .btn .btn--inverse .btn--small}
 
 <a name="push"></a>
-{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
+{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" %}
 
-Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this prompt to create a computer account:
+On your mobile device, tap [Approve](#approve){: .btn .btn--inverse .btn--small} when prompted, as shown below:
 
-{% include figure url="/assets/images/mac-06-account.jpg" image_path="/assets/images/mac-06-account.jpg" %}
+<a name="approve"></a>
+{% include figure url="https://guide.duo.com/static/images/en/android-push-full_2x.png" image_path="https://guide.duo.com/static/images/en/android-push-full_2x.png" %}
 
-Your __Full Name__ and __Account Name__ will be pre-filled (the latter should match the username of your Square email address).
+If successful, you should now see your Gmail inbox. Gee, how many emails do you _already_ have?
 
-__NOTE:__ Account Name __MUST__ match your Square username for proper configuration!
-{: .notice--warning}
 
-Select a strong password to unlock your Macbook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your SSO password.
-
-{% include figure url="/assets/images/mac-touch.jpg" image_path="/assets/images/mac-touch.jpg" %}
-
-If your Macbook has a fingerprint sensor, you will be prompted to setup __Touch ID__ (optional). This allows you to quickly unlock your laptop without entering your __Laptop password__. Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
-
-{% include figure url="/assets/images/mac-dark.jpg" image_path="/assets/images/mac-dark.jpg" %}
-
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in the System Preferences control panel.
-
-{% include figure url="/assets/images/mac-desktop.jpg" image_path="/assets/images/mac-desktop.jpg"  %}
-
-After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper).
-
-[Next Step &rarr;](/mac-mgmt){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/password){: .btn .btn--success .btn--large}
