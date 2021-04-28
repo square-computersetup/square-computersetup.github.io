@@ -1,8 +1,4 @@
----
-title: "Duo"
-permalink: /duo/
----
-
+<a name="duo"></a>
 ## Single Sign-On (SSO)
 
 Single Sign-On (SSO) is a system that allows you to use just one company-wide password to access many different resources. Think of it as your Square Passport that you show at different airports. We use Cisco's Duo identify provider for SSO, so we need to set that up first.
@@ -14,14 +10,14 @@ Let's start with a brief 97 second video overview:
 {% include video id="22HGUqMMySc" provider="youtube" %}
 
 Now, visit __gmail.com__ and enter your assigned Square email address (e.g., "johnsmith@squareup.com"). 
-Then, click [Next](#duo){: .btn .btn--inverse .btn--small}
-
-<a name="duo"></a>
-{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
-
-Enter just your username (**without the** @squareup.com) and your __temporary__ password and click [Login](#push){: .btn .btn--inverse .btn--small}
+Then, click [Next](#login){: .btn .btn--inverse .btn--small}
 
 <a name="login"></a>
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+
+Enter just your username (**without the** @squareup.com) and your __temporary__ password and click [Login](#setup1){: .btn .btn--inverse .btn--small}
+
+<a name="setup1"></a>
 {% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
 
 Click [Start Setup](#setup2){: .btn .btn--inverse .btn--small}
