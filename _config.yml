@@ -51,10 +51,10 @@ author:
   name   : "IT Support"
   avatar : "/assets/images/square_laptop.png"
   bio    : "Need help?"
-  links:
-    - label: "Slack #itsupport"
-      icon: "fas fa-fw fa-link"
-      url: "https://square.slack.com/archives/C02AWR2U5"
+#  links:
+#    - label: "Slack #itsupport"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://square.slack.com/archives/C02AWR2U5"
 
 footer:
   
