@@ -9,11 +9,6 @@ Let's start with a brief 97 second video overview:
 
 {% include video id="22HGUqMMySc" provider="youtube" %}
 
-{% if include.os == "alt" %}
-Now, visit __gmail.com__ and enter your assigned Square email address (e.g., "johnsmith@squareup.com"). 
-Then, click [Next](#login){: .btn .btn--inverse .btn--small}
-{% endif %}
-
 <a name="login"></a>
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
@@ -70,6 +65,10 @@ On your mobile device, tap [Approve](#approve){: .btn .btn--inverse .btn--small}
 
 <a name="approve"></a>
 {% include figure url="https://guide.duo.com/static/images/en/android-push-full_2x.png" image_path="https://guide.duo.com/static/images/en/android-push-full_2x.png" %}
+
+{% if include.os == "alt" %}
+If everything worked, you should see your Gmail inbox. You may already have a number of emails waiting for you!
+{% endif %}
 
 If something didn't work, please ask for [help](/help). 
 
