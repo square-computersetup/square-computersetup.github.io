@@ -3,9 +3,7 @@ Squares make use of __Slack__ for instant messaging (chat) to enable quick commu
 
 We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
 
-* If you are on the Cash team, visit [cash.slack.com](https://cash.slack.com){:target="_blank"}
-* If you are on the TIDAL team, visit [tidal.slack.com](https://tidal.slack.com){:target="_blank"}
-* All others should visit [square.slack.com](https://square.slack.com){:target="_blank"} 
+Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:target="_blank"} and choose the workspace most appropriate to your job role. 
 
 {% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
