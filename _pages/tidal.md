@@ -21,13 +21,13 @@ __Please read this message carefully as it contains important information about 
 * If you’re unable to access Go/TidalHelp, please join the #tidal-help Slack channel.
 
 ## Delayed Laptops
-If you have received your Square laptop, __DO NOT TURN IT ON until May 3rd__ (but charging the battery is okay).  
-
 With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. 
 
 If you have __NOT__ received your Square laptop, we will have a __required__ IT onboarding session via Google Meet to assist you. You will receive an invitation to this session at your Tidal.com email account.
 
 ## 💻 Laptop in hand?
+If you have received your Square laptop, __DO NOT TURN IT ON until May 3rd__ (but charging the battery is okay).  
+
 Have you received your official Square laptop and have it with you?
 
 [👍  Yes](/os){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}
