@@ -1,14 +1,15 @@
 ---
 title: "Duo"
 permalink: /duo/
-author_profile: true
 ---
 
-We use Duo for single sign-on (SSO), so we need to set that up first. 
+## Single Sign-On (SSO)
+
+Single Sign-On (SSO) is a system that allows you to use just one company-wide password to access many different resources. Think of it as your Square Passport that you show at different airports. We use Cisco's Duo identify provider for SSO, so we need to set that up first.
 
 ## Duo Enrollment
 
-It's a good idea to spend 97 seconds to watch this quick video overview:
+Let's start with a brief 97 second video overview:
 
 {% include video id="22HGUqMMySc" provider="youtube" %}
 
@@ -72,10 +73,6 @@ On your mobile device, tap [Approve](#approve){: .btn .btn--inverse .btn--small}
 <a name="approve"></a>
 {% include figure url="https://guide.duo.com/static/images/en/android-push-full_2x.png" image_path="https://guide.duo.com/static/images/en/android-push-full_2x.png" %}
 
-If something didn't work, please ask for [help](/help). Otherwise, choose your next step depending on which OS is on your Square laptop:
+If something didn't work, please ask for [help](/help). 
 
-[<img src='/assets/images/chrome.png' width='20' height='20'> Next Step &rarr;](/chrome-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/apple.png' width='20' height='20'> Next Step &rarr;](/mac-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/windows.png' width='20' height='20'> Next Step &rarr;](/win-vpn){: .btn .btn--inverse .btn--large}
-
-If you do not yet have your Square laptop and using an alternate laptop for enrollment:
-
-[Next Step &rarr;](/password){: .btn .btn--success .btn--large}
+[Next Step &rarr;]({{ include.next }}){: .btn .btn--success .btn--large}
