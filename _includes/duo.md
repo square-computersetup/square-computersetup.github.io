@@ -72,5 +72,5 @@ If everything worked, you should see your Gmail inbox. You may already have a nu
 
 If something didn't work, please ask for [help](/help). 
 
-[Next Step &rarr;]({{ include.next }}){: .btn .btn--success .btn--large}
-{{ include.os }}
+[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}
+
