@@ -15,8 +15,8 @@ __Please read this message carefully as it contains important information about 
 * On May 3 at approximately 6AM your local time, you will receive login credentials for your Square account. 
 * Optional drop-in IT office hours will be available on May 3rd.  
   * You will receive an invitation to these office hours at your Tidal.com email address.
-* After onboarding, file a ticket for assistance at Go/TidalHelp from your Square-issued laptop.  
-* If you’re unable to access Go/TidalHelp, please join the #tidal-help Slack channel.
+* After onboarding, file a ticket at [Go/Tidal-Help](https://go.sqprod.co/tidalhelp) from your Square laptop.  
+* If you need assistance, visit the __#tidal-help__ channel on Slack.
 
 ## Delayed Laptops
 With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. 
