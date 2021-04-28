@@ -18,4 +18,4 @@ Welcome to Square! Let's get you setup so you can get to work right away. First,
 ## 💻 Laptop in hand?
 With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Square laptop and have it with you?
 
-[👍 Yes](/os){: .btn .btn--success .btn--large} [😿 No](/alt){: .btn .btn--default .btn--large}
+[👍 Yes](/os){: .btn .btn--success .btn--large} [😿 No](/alt){: .btn .btn--inverse .btn--large}
