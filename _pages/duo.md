@@ -72,7 +72,10 @@ On your mobile device, tap [Approve](#approve){: .btn .btn--inverse .btn--small}
 <a name="approve"></a>
 {% include figure url="https://guide.duo.com/static/images/en/android-push-full_2x.png" image_path="https://guide.duo.com/static/images/en/android-push-full_2x.png" %}
 
-If something didn't work, please ask for [help](/help). Otherwise, choose your next step:
+If something didn't work, please ask for [help](/help). Otherwise, choose your next step depending on which OS is on your Square laptop:
 
+[<img src='/assets/images/chrome.png' width='20' height='20'> Next Step &rarr;](/chrome-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/apple.png' width='20' height='20'> Next Step &rarr;](/mac-vpn){: .btn .btn--inverse .btn--large} [<img src='/assets/images/windows.png' width='20' height='20'> Next Step &rarr;](/win-vpn){: .btn .btn--inverse .btn--large}
+
+If you do not yet have your Square laptop and using an alternate laptop for enrollment:
 
 [Next Step &rarr;](/password){: .btn .btn--success .btn--large}
