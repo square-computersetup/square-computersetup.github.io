@@ -9,8 +9,10 @@ Let's start with a brief 97 second video overview:
 
 {% include video id="22HGUqMMySc" provider="youtube" %}
 
+{% if include.os == "alt" %}
 Now, visit __gmail.com__ and enter your assigned Square email address (e.g., "johnsmith@squareup.com"). 
 Then, click [Next](#login){: .btn .btn--inverse .btn--small}
+{% endif %}
 
 <a name="login"></a>
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
@@ -72,4 +74,4 @@ On your mobile device, tap [Approve](#approve){: .btn .btn--inverse .btn--small}
 If something didn't work, please ask for [help](/help). 
 
 [Next Step &rarr;]({{ include.next }}){: .btn .btn--success .btn--large}
-{{ include.path }}
+{{ include.os }}
