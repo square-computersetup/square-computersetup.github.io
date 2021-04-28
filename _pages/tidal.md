@@ -12,7 +12,6 @@ __Please read this message carefully as it contains important information about 
 
 {% include figure url="/assets/images/logo-tidal.jpg" image_path="/assets/images/logo-tidal.jpg" %}
 
-* __DO NOT TURN ON YOUR LAPTOP until May 3rd.__  Charging the laptop is okay.
 * On May 3 at approximately 6AM your local time, you will receive login credentials for your Square account. 
   * Windows (Lenovo/Dell) users are required to have a Microsoft account created before logging into a Windows laptop.  
   * Windows credentials will be delivered separately from your account email.
@@ -22,6 +21,8 @@ __Please read this message carefully as it contains important information about 
 * If you’re unable to access Go/TidalHelp, please join the #tidal-help Slack channel.
 
 ## Delayed Laptops
+If you have received your Square laptop, __DO NOT TURN IT ON until May 3rd__ (but charging the battery is okay).  
+
 With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. 
 
 If you have __NOT__ received your Square laptop, we will have a __required__ IT onboarding session via Google Meet to assist you. You will receive an invitation to this session at your Tidal.com email account.
