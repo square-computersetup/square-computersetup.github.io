@@ -8,7 +8,7 @@ sidebar:
 
 We are sorry we were unable to get you an official laptop before your start date. But let's at least get some things setup using an alternate laptop. If you __have received__ your Square laptop, you __must__ follow the [official enrollment](/os) path instead.
 
-## Incognito
+## 🕵️‍ Incognito
 
 Power up an alternate laptop and connect using any method to the Internet. To make sure we keep your personal life separate from this setup process, please switch into "incognito" or "private browsing" mode using one of these methods:
 
@@ -18,7 +18,7 @@ Power up an alternate laptop and connect using any method to the Internet. To ma
 
 Once you see an indication (usually a black background) that you have entered incognito/private mode, you may continue.
 
-## Gmail
+## 📩 Gmail
 
 Square uses Google Workspace (GWork) for collaboration, including Gmail. 
 
