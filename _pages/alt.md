@@ -12,9 +12,8 @@ We are sorry we were unable to get you an official laptop before your start date
 
 Power up an alternate laptop and connect using any method to the Internet. To make sure we keep your personal life separate from this setup process, please switch into "incognito" or "private browsing" mode using one of these methods:
 
-* for [Google Chrome](https://support.google.com/chrome/answer/95464){:target="_blank"}
-  * on Mac, press CMD-SHIFT-N
-  * on Windows/Linux/ChromeOS, press CTRL-SHIFT-N
+* for [Google Chrome](https://support.google.com/chrome/answer/95464){:target="_blank"} press ![CMD-SHIFT-N](/assets/images/cmd-shift-n.jpg) on Mac, or press ![CTRL-SHIFT-N](/assets/images/ctrl-shift-n.jpg) on Windows, Linux, or ChromeOS
+
 * for [Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history){:target="_blank"}
   * on Mac, press CMD-SHIFT-P
   * on Windows/Linux, press CTRL-SHIFT-P
