@@ -6,7 +6,7 @@ sidebar:
   nav: "nav-shared"
 ---
 
-Square has a handy shared bookmark system that makes use of __go/example__ links (swap in different bookmark names in place of "example"). There are a number of very helpful __go/__ links that you will use often. First, we need to do a one-time setup. Start the __Chrome__ web browser (usually located in the system tray at the bottom).
+Square has a handy shared bookmark system that makes use of __go/something__ links (swap in different bookmark names in place of "example"). There are a number of very helpful __go/__ links that you will use often. First, we need to do a one-time setup. Start the __Chrome__ web browser (usually located in the system tray at the bottom).
 
 {% include figure url="/assets/images/go-links2.jpg" image_path="/assets/images/go-links2.jpg" %}
 
