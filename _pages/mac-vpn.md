@@ -97,6 +97,4 @@ If the Pulse Secure icon shows the green arrow superimposed again, you have succ
 
 Return to the Pulse Secure icon near the clock, click on the active VPN, and then click __Disconnect__
 
-[Next Step &rarr;](/mac-druva/){: .btn .btn--success .btn--large}
-
 

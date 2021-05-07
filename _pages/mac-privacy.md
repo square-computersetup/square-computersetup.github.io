@@ -1,6 +1,6 @@
 ---
-title: "Mac Privacy"
-permalink: /mac-privacy/
+title: "macOS Setup"
+permalink: /mac-setup2/
 author_profile: true
 sidebar:
   nav: "nav-mac"

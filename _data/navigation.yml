@@ -17,19 +17,17 @@ nav-shared:
         url: /password/
       - title: "Slack"
         url: /slack/
+      - title: "Device Attestation"
+        url: /das/
 
 
 nav-mac:
-  - title: Mac OS
+  - title: macOS
     children:
       - title: "Setup"
         url: /mac/
-      - title: "Data & Privacy"
-        url: /mac-privacy/
-      - title: "MDM"
-        url: /mac-mdm/
-      - title: "Management"
-        url: /mac-mgmt/
+      - title: "Software Installation"
+        url: /mac-installs/
       - title: "Chrome"
         url: /mac-chrome/
       - title: "Go Links"
@@ -38,15 +36,13 @@ nav-mac:
         url: /password/
       - title: "Slack"
         url: /slack/
-      - title: "VPN"
-        url: /mac-vpn/
       - title: "Druva"
         url: /mac-druva/
       - title: "Tips"
         url: /mac-tips/
       - title: "Finish"
         url: /end/
-        
+
 nav-chrome:
   - title: Chrome OS
     children:
@@ -64,7 +60,7 @@ nav-chrome:
         url: /chrome-tips/
       - title: "Finish"
         url: /end/
-        
+
 nav-win:
   - title: Windows
     children:

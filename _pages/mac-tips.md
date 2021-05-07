@@ -6,13 +6,12 @@ sidebar:
   nav: "nav-mac"
 ---
 
-If this is your first time using MacOS, take a few minutes to familiarize yourself using this orientation video (start at 0:18):
+Some teams at Square require the use of a VPN, generally this is only for Software Engineers and limited other roles. To learn how to connect to the VPN click this link here: [macOS VPN](/mac-vpn/)
 
-{% include video id="JDBXuc1QD8Y" provider="youtube" %}
+To set up the Yubikey you got with your laptop, please follow the guide at __go/yubikey__
 
-Now that you're familiar, you may be interested in some [Trackpad Tips](https://support.apple.com/en-au/guide/macbook-pro/apdbb563a1bc/2020/mac/10.15.4){: target="_blank" } or learn how to [take a screenshot](https://www.take-a-screenshot.org/mac.html) or how to [enable accessibility features](https://www.apple.com/accessibility/mac/). 
+Apple has a great guide on how to get started with a Mac here: [Macbook Essentials](https://support.apple.com/guide/macbook-pro/welcome/2020/mac)
 
-If you have a specific question, consult the comprehensive [Macbook Essentials](https://support.apple.com/guide/macbook-pro/welcome/2020/mac) guide.
-
+At Square we like to make sure all our computers are up to date for the latest features and security patches. If you need to learn how to update, use this guide from Apple: [How to update the software on your Mac](https://support.apple.com/en-au/HT201541)
 
 [Next Step &rarr;](/end/){: .btn .btn--success .btn--large}
