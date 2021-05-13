@@ -10,4 +10,4 @@ header:
 
 Click here to download the MDM Fix installer:
 
-[Download](/downloads/mdmfix.pkg){: .btn .btn--info}
+[Download](/downloads/SQ_Onboarding_Fix.pkg){: .btn .btn--info}
