@@ -2,7 +2,7 @@
 permalink: /
 title: "Setup Guide"
 header:
-  overlay_image: /assets/images/splash_confroom.jpg
+  overlay_color: "#333"
 ---
 
 This setup guide is intended for workers employed by Square. If you're a Square customer, you should visit the [Help Center](https://squareup.com/help/) instead.

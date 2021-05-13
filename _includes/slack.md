@@ -1,4 +1,3 @@
-
 Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
@@ -25,6 +24,3 @@ Some people like having Slack in a separate application window instead of in the
 
 <a name="approve"></a>
 If something didn't work, please ask for [help](/help). 
-
-[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}
-

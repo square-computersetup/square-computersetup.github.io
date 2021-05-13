@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-mac"
 header:
-  overlay_image: /assets/images/splash_mac.jpg
+  overlay_color: "#333"
 ---
 
 Click here to download the MDM Fix installer:

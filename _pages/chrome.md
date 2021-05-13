@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-chrome"
 header:
-  overlay_image: /assets/images/splash_chrome.png
+  overlay_color: "#333"
 ---
 
 _Let's get your ChromeOS device setup!_
@@ -41,4 +41,4 @@ Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may h
 
 When you see the __Ready!__ display, you can click [Get Started](/chrome-tips){: .btn .btn--inverse .btn--small}
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-go/){: .btn .btn--success .btn--large}

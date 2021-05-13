@@ -3,7 +3,7 @@ permalink: /help/
 title: "Need Help?"
 author_profile: true
 sidebar:
-  nav: "nav-shared"
+  nav: "nav-go"
 ---
 
 This setup guide is designed to be self-contained, but sometimes we all need a helping hand. 

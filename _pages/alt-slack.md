@@ -7,3 +7,5 @@ sidebar:
 ---
 
 {% include slack.md os="alt" next="end" %}
+
+[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}

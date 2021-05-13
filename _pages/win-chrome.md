@@ -66,4 +66,4 @@ Within a minute, you will see some mandatory Chrome extensions installed in the 
 
 Once you see the Square Go Links extension, your Chrome web browser is properly configured and ready for use.  
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-go/){: .btn .btn--success .btn--large}

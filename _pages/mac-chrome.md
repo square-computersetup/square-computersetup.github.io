@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-mac"
 header:
-  overlay_image: /assets/images/splash_mac.jpg
+  overlay_color: "#333"
 ---
 
 Now, some extra steps to get Google Chrome properly setup for use as your primary web browser. Let's start with accessing __Spotlight__ by clicking on the magnifying glass icon in the extreme top-right corner of the desktop:
@@ -76,4 +76,4 @@ Within a minute, you will see some mandatory Chrome extensions installed in the 
 Once you see the Square logo, your Chrome web browser is properly configured and ready for use.
 
 
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-go/){: .btn .btn--success .btn--large}

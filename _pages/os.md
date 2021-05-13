@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary btn--large"
 
 header:
-  overlay_image: /assets/images/splash_confroom.jpg
+  overlay_color: "#333"
 ---
 
 

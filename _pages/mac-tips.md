@@ -4,11 +4,11 @@ permalink: /mac-tips/
 author_profile: true
 sidebar:
   nav: "nav-mac"
+  header:
+  overlay_color: "#333"
 ---
 
-Some teams at Square require the use of a VPN, generally this is only for Software Engineers and limited other roles. To learn how to connect to the VPN click this link here: [macOS VPN](/mac-vpn/)
-
-To set up the Yubikey you got with your laptop, please follow the guide at __go/yubikey__
+Some teams at Square require the use of a VPN, generally this is only for Software Engineers and limited other roles. For example if you are in Sales or Customer Support you wont need to use the VPN. To learn how to connect to the VPN click this link here: [macOS VPN](/mac-vpn/)
 
 Apple has a great guide on how to get started with a Mac here: [Macbook Essentials](https://support.apple.com/guide/macbook-pro/welcome/2020/mac)
 
