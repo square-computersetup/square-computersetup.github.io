@@ -52,6 +52,8 @@ nav-chrome:
     children:
       - title: "Setup"
         url: /chrome/
+      - title: "Browser"
+        url: /chrome-browser/
       - title: "Go Links"
         url: /chrome-go/
       - title: "Password"

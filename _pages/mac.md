@@ -24,4 +24,4 @@ Connect your device to a wireless network (either your home WiFi or the Square G
 
 Next you may see one of two different screens, please click the button below that matches what you see.
 
-[Remote Management](/mac-setup){: .btn .btn--success} [Migration Assistant](/mac-setup2){: .btn .btn--success}
+[Remote Management](/mac-setup){: .btn .btn--success} [Data & Privacy](/mac-setup2){: .btn .btn--success}

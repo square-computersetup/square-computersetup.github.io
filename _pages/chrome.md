@@ -41,4 +41,4 @@ Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may h
 
 When you see the __Ready!__ display, you can click [Get Started](/chrome-tips){: .btn .btn--inverse .btn--small}
 
-[Next Step &rarr;](/chrome-go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-browser/){: .btn .btn--success .btn--large}

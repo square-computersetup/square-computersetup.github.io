@@ -10,6 +10,8 @@ header:
 
 🏁 __You did it!__ You've finished setting up your new computer. 
 
-If you're a new Square, take a minute to view some of the Go links in the navigation side-bar. If you have any questions [please reach out](/help).
+If you're a new Square, you may want to check your email in __Gmail__, have a look at your calendar in __Google Calendar__ or message your Lead on __Slack__. If you have any questions [please reach out](/help).
 
-If you want to leave any feedback for this setup guide, please email us at newcomputer-feedback@squareup.com (from your Square email address)
+If you want to leave any feedback for this setup guide, please email us at __newcomputer-feedback@squareup.com__ (from your Square email address).
+
+Thanks!

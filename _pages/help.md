@@ -18,4 +18,4 @@ Sending an email to: __mission-control@squareup.com__
 or submitting a ticket to __go/IT__.
 
 ### Feedback
-Please share anything you think may help improve onboarding to **newcomputer-feedback@squareup.com** Your feedback is welcome!
+Please share anything you think may help improve onboarding to **newcomputer-feedback@squareup.com**. Your feedback is welcome!

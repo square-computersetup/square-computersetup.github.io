@@ -10,6 +10,9 @@ If you see __We're having trouble identifying your device__, it means your devic
 
 {% include figure url="/assets/images/das-update.jpg" image_path="/assets/images/das-update.jpg" %}
 
-If you see __Looks like your device needs some maintenance__, it means your device has a valid certificate, but needs updates to the operating system. If today is your first day at Square, please run these updates during your lunch break and skip ahead to the next step for now.
+If you see __Looks like your device needs some maintenance__, it means your device has a valid certificate, but needs updates to the operating system. 
+
+__NOTE:__ If today is your first day at Square, please run these updates during your lunch break and skip ahead to the next step for now.
+{: .notice--warning}
 
 Not sure how to update? Check out a guide:

@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/win-banner.jpg
+  overlay_color: "#333"
 ---
 
 First turn on your new laptop with the __power__ button.

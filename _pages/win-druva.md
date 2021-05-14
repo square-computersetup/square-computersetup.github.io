@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/splash_win.jpg
+  overlay_color: "#333"
 ---
 
 We use __Druva__ to continuously backup your computer to the cloud, just to be safe. Let's activate it now.

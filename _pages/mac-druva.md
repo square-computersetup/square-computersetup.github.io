@@ -28,22 +28,8 @@ When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inv
 
 {% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
 
-The Druva window will come back to the foreground. __DO NOT__ click any buttons.
+The Druva window will come back to the foreground. __DONT__ click any buttons until it finishes logging you in.
 
-If you are asked, click [Replace an Existing Device](){: .btn .btn--inverse .btn--small} 
+If this is your first Square laptop, you can __close__ the Druva window go to the next step. Otherwise click the button to restore your backup from your old Square laptop.
 
-{% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}
-
-If this is your first Square laptop, [skip this section](). If you are replacing an existing Square laptop, click [Restore Now](){: .btn .btn--inverse .btn--small}.
-
-{% include figure url="/assets/images/druva-mac2.jpg" image_path="/assets/images/druva-mac2.jpg" %}
-
-Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click [Restore](){: .btn .btn--inverse .btn--small}.
-
-You may close the Druva window and the restore process (if any) will continue in the background. 
-
-That wasn't so hard, right? Now your Macbook is protected against any accidental data corruption or physical theft.
-
-[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
-
-
+[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 

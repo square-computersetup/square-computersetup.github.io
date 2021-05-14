@@ -1,23 +1,24 @@
-Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
+{% include figure url="/assets/images/slack-signin.png" image_path="/assets/images/slack-signin.png" %}
 
-We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
+Now click [Sign in with Slack](){: .btn .btn--inverse .btn--small} and a Chrome window will open up.
 
-Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:target="_blank"} and choose the workspace most appropriate to your job role. 
+{% include figure url="/assets/images/slack-signin-2.png" image_path="/assets/images/slack-signin-2.png" %}
 
-{% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
+Click __Sign in with Google__ and select your Google account when prompted.
 
-Click on __Sign in with Duo Access Gateway__ which should redirect you to Duo SSO where you can sign in with your Square username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
+You will be redirected to Duo SSO where you can sign in with your Square Username and Password. If you haven’t used Slack before, please browse the [Slack quick start guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
 
-You may be prompted to __Enable Desktop Notifications__:
+{% include figure url="/assets/images/slack-workspace-select.png" image_path="/assets/images/slack-workspace-select.png" %}
 
-{% include figure url="/assets/images/slack-notify-ask.jpg" image_path="/assets/images/slack-notify-ask.jpg" %}
+Next you will be asked which Workspace to join out of __Square__, __Cash App__, __TIDAL__ or __Verse__. Choose the one that best fits your role; you can join any of the other Workspaces later.
 
-These notifications will take the form of brief pop-ups in the corner of your screen. Click to allow notifications so that you don't miss any incoming messages.
+Click [Launch in Slack](){: .btn .btn--inverse .btn--small} for the Workspace of your choice.
 
-{% include video id="wuyWwzazef8" provider="youtube" %}
+{% include figure url="/assets/images/mac-slack-open.png" image_path="/assets/images/mac-slack-open.png" %}
 
-As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack so that it is always available. Right-click on the web page tab at the top and select __Pin tab__, as illustrated below:
+Click [Open Slack](){: .btn .btn--inverse .btn--small} when Chrome asks to __Open Slack?__
 
-{% include figure url="/assets/images/pin-tab-chrome.gif" image_path="/assets/images/pin-tab-chrome.gif" %}
+__NOTE:__ If Slack doesn't open in the app the first time, simply click sign in again within the App and try a second time.
+{: .notice--warning}
 
-If something didn't work, please ask for [help](/help). 
+If it is your first day, you might want to message your lead so they know you are online!
