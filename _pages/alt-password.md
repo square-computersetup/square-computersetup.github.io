@@ -3,7 +3,7 @@ title: "Temporary Password"
 permalink: /alt-password/
 author_profile: true
 sidebar:
-  nav: "nav-shared"
+  nav: "nav-alt"
 ---
 
 {% include password.md os="alt" next="slack" %}
