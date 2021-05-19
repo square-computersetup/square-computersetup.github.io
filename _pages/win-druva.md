@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/splash_win.jpg
+  overlay_color: "#333"
 ---
 
 We use __Druva__ to continuously backup your computer to the cloud, just to be safe. Let's activate it now.
@@ -41,6 +41,6 @@ You may close the Druva window and the restore process (if any) will continue in
 
 That wasn't so hard, right? Now your computer is protected against any accidental data corruption or physical theft.
 
-[Next Step &rarr;](/win-tips/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-yubikey/){: .btn .btn--success .btn--large}
 
 

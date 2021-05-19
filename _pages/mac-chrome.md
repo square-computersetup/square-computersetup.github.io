@@ -5,52 +5,45 @@ author_profile: true
 sidebar:
   nav: "nav-mac"
 header:
-  overlay_image: /assets/images/splash_mac.jpg
+  overlay_color: "#333"
 ---
 
 Now, some extra steps to get Google Chrome properly setup for use as your primary web browser. Let's start with accessing __Spotlight__ by clicking on the magnifying glass icon in the extreme top-right corner of the desktop:
 
-{% include figure url="/assets/images/mac-spotlight.jpg" image_path="/assets/images/mac-spotlight.jpg" caption="(Spotlight is the built-in search tool for MacOS)" %}
+{% include figure url="/assets/images/mac-spotlight.png" image_path="/assets/images/mac-spotlight.png" caption="(Spotlight is the built-in search tool for MacOS)" %}
 
-{% include figure url="/assets/images/mac-chrome-search-BS.jpg" image_path="/assets/images/mac-chrome-search-BS.jpg" %}
+{% include figure url="/assets/images/mac-chrome-spotlight.png" image_path="/assets/images/mac-chrome-spotlight.png" %}
 
 Type in __Chrome__ and then click on the top hit, which is the application itself.
 
-{% include figure url="/assets/images/mac-chrome-firewall.jpg" image_path="/assets/images/mac-chrome-firewall.jpg" %}
+{% include figure url="/assets/images/mac-chrome-firewall.png" image_path="/assets/images/mac-chrome-firewall.png" %}
 
-Click [Allow](#install){: .btn .btn--inverse .btn--small} when you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected.
+Click [Allow](){: .btn .btn--inverse .btn--small} if you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected.
 
-<a name="install"></a>
-{% include figure url="/assets/images/mac-chrome-install.jpg" image_path="/assets/images/mac-chrome-install.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-welcome.png" image_path="/assets/images/mac-chrome-welcome.png"  %}
 
-On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](#default){: .btn .btn--inverse .btn--small}.
+On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](){: .btn .btn--inverse .btn--small}.
 
-<a name="default"></a>
-{% include figure url="/assets/images/mac-chrome-default-BigSur.jpg" image_path="/assets/images/mac-chrome-default-BigSur.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-default.png" image_path="/assets/images/mac-chrome-default.png"  %}
 
-Click on [Use Chrome](#notify){: .btn .btn--inverse .btn--small} to set the default web browser.
+Click on [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web browser.
 
-<a name="notify"></a>
-{% include figure url="/assets/images/mac-chrome-notify.jpg" image_path="/assets/images/mac-chrome-notify.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-notification.png" image_path="/assets/images/mac-chrome-notification.png"  %}
 
-Click on [Allow](#sync){: .btn .btn--inverse .btn--small} to permit website notifications.
+You will get a notification in the top right of your screen to allow Chrome to send you notification, click [Allow](){: .btn .btn--inverse .btn--small}
 
-<a name="sync"></a>
 Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
 
-{% include figure url="/assets/images/mac-chrome-login.jpg" image_path="/assets/images/mac-chrome-login.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-signin.png" image_path="/assets/images/mac-chrome-signin.png"  %}
 
-Click on the person icon in the top-right corner of the Chrome browser, then click [Turn on sync...](#synced){: .btn .btn--inverse .btn--small}
+Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
 
-<a name="synced"></a>
-First, login to Google using your full Square email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
+Login to Google using your full Square email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
 
-<a name="duo"></a>
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-Enter just your username (**without the** @squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
+Enter just your username (**without the** @squareup.com) and your password and click [Login](){: .btn .btn--inverse .btn--small}
 
-<a name="push"></a>
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg"  %}
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app.
@@ -61,19 +54,12 @@ Chrome will ask if you'd like to save this password. While it is acceptable to s
 
 {% include figure url="/assets/images/mac-chrome-link-BigSur.jpg" image_path="/assets/images/mac-chrome-link-BigSur.jpg"  %}
 
-When prompted to sync your browser with Square's Google services, click on [Link Data](#link){: .btn .btn--inverse .btn--small}.
+When prompted to sync your browser with Square's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
 
-<a name="link"></a>
 {% include figure url="/assets/images/mac-chrome-sync.jpg" image_path="/assets/images/mac-chrome-sync.jpg"  %}
 
-Click on [Yes I'm in](#yes){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
+Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
 
-<a name="yes"></a>
-Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome. If they dont appear within a minute or so, type __chrome://restart__ into the address bar and press return.
+{% include chromeext.md %}
 
-{% include figure url="/assets/images/chrome-extensions.png" image_path="/assets/images/chrome-extensions.png" %}
-
-Once you see the Square logo, your Chrome web browser is properly configured and ready for use.
-
-
-[Next Step &rarr;](/go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-go/){: .btn .btn--success .btn--large}

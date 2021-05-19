@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-chrome"
 header:
-  overlay_image: /assets/images/splash_chrome.png
+  overlay_color: "#333"
 ---
 
 Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Square. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
@@ -57,4 +57,4 @@ Next, enter just your password for a __Secondary Credential__ (the username will
 
 If all goes according to plan, you have now confirmed that you have provisioned a certificate for VPN and in-office WiFi. Hey, you're pretty good at this! Click __Disconnect__ before continuing to the next step.
 
-[Next Step &rarr;](/chrome-tips/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-yubikey/){: .btn .btn--success .btn--large}

@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-mac"
 header:
-  overlay_image: /assets/images/splash_mac.jpg
+  overlay_color: "#333"
 ---
 
 We use __Druva__ to continuously backup your Macbook to the cloud, just to be safe. Let's activate it now.
@@ -18,39 +18,18 @@ Click on __Activate Backup__
 
 {% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
-Enter your full email address and click [Continue](#login){: .btn .btn--inverse .btn--small} 
+Enter your full email address and click [Continue](){: .btn .btn--inverse .btn--small} 
 
-<a name="login"></a> 
 {% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
 Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
-When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .btn--inverse .btn--small} 
+When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inverse .btn--small} 
 
-<a name="insync"></a> 
 {% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
 
-The Druva window will come back to the foreground. __DO NOT__ click any buttons.
+The Druva window will come back to the foreground. __DONT__ click any buttons until it finishes logging you in.
 
-If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
+If this is your first Square laptop, you can __close__ the Druva window go to the next step. Otherwise click the button to restore your backup from your old Square laptop.
 
-<a name="replace"></a> 
-{% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}
-
-If this is your first Square laptop, [skip this section](#done). If you are replacing an existing Square laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
-
-<a name="restore"></a>
-{% include figure url="/assets/images/druva-mac2.jpg" image_path="/assets/images/druva-mac2.jpg" %}
-
-Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click [Restore](#done){: .btn .btn--inverse .btn--small}.
-
-
-
-<a name="done"></a>
-You may close the Druva window and the restore process (if any) will continue in the background. 
-
-That wasn't so hard, right? Now your Macbook is protected against any accidental data corruption or physical theft.
-
-[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large}
-
-
+[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 

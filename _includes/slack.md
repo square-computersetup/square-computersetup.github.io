@@ -1,4 +1,3 @@
-
 Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
@@ -21,10 +20,4 @@ As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack s
 
 {% include figure url="/assets/images/pin-tab-chrome.gif" image_path="/assets/images/pin-tab-chrome.gif" %}
 
-Some people like having Slack in a separate application window instead of in their browsers. You can install a separate Slack app for [MacOS](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12){: target="_blank" }, [Windows](https://slack.com/downloads/windows){: target="_blank" }, or [ChromeOS](https://chrome.google.com/webstore/detail/slack/jeogkiiogjbmhklcnbgkdcjoioegiknm?hl=en-US){: target="_blank" } -- but fair warning that it is just another mini-web browser in its own window. You will not have any additional functionality.
-
-<a name="approve"></a>
 If something didn't work, please ask for [help](/help). 
-
-[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}
-

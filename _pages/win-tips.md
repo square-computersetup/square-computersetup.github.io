@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "nav-win"
 header:
-  overlay_image: /assets/images/splash_win.jpg
+  overlay_color: "#333"
 ---
 
 Microsoft has a great resource for Windows 10 tips here if you need a hand getting to know Windows:
