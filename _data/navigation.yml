@@ -8,17 +8,17 @@ main:
   - title: "Help"
     url: /help/
 
-nav-shared:
-  - title: Shared
+nav-alt:
+  - title: No Laptop
     children:
-      - title: "Go Links"
-        url: /go/
+      - title: "Duo"
+        url: /alt/
       - title: "Password"
-        url: /password/
+        url: /alt-password/
       - title: "Slack"
-        url: /slack/
-      - title: "Device Attestation"
-        url: /das/
+        url: /alt-slack/
+      - title: "Finish"
+        url: /alt-end/
 
 
 nav-mac:
