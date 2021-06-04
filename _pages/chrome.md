@@ -23,7 +23,7 @@ Your device should indicate that it is __Managed by squareup.com__:
 Enter your full email address (jsmith@squareupcom) and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
 <a name="duo"></a> 
-{% include figure url="/assets/images/duo-login.jpg" image_path="/assets/images/duo-login.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
 Enter just your username (jsmith not jsmith@squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
 
