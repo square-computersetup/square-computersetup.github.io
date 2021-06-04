@@ -48,15 +48,15 @@ Enter just your username (**without the** @squareup.com) and your password and c
 
 Choose one of the authentication methods, such as sending a push notice to your mobile app.
 
-{% include figure url="/assets/images/mac-chrome-password.jpg" image_path="/assets/images/mac-chrome-password.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-password.png" image_path="/assets/images/mac-chrome-password.png"  %}
 
 Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small __X__ to decline this action.
 
-{% include figure url="/assets/images/mac-chrome-link-BigSur.jpg" image_path="/assets/images/mac-chrome-link-BigSur.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-link.png" image_path="/assets/images/mac-chrome-link.png"  %}
 
 When prompted to sync your browser with Square's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
 
-{% include figure url="/assets/images/mac-chrome-sync.jpg" image_path="/assets/images/mac-chrome-sync.jpg"  %}
+{% include figure url="/assets/images/mac-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
 
 Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
 
