@@ -19,7 +19,7 @@ feature_row:
   - url: /win-azure/
     image_path: /assets/images/windowslenovo.png
     alt: "Windows"
-    excerpt: "&nbsp;<br /> A Lenono Laptop <br />"
+    excerpt: "&nbsp;<br /> A Lenovo Laptop <br />"
     btn_label: "Windows"
     btn_class: "btn--primary btn--large"
 
