@@ -30,9 +30,11 @@ Click on [Continue](){: .btn .btn--inverse .btn--small} a few times and then [In
 
 If there are no errors during installaation, you will see a notification appear in the top-right corner of your screen, near the clock. Click on the notification pop-up to open the __System Preferences__ control panel.
 
+If you dont see the notification after 2 minutes, click [Here](/mac-mdm2){: .btn .btn--success}
+
 {% include figure url="/assets/images/mac-deviceenrollment.png" image_path="/assets/images/mac-deviceenrollment.png"  %}
 
-Click [Allow](){: .btn .btn--inverse .btn--small} to authorize the device enrollment. You will be prompted for your laptop password and then to login with Duo:
+If you do see the notification, click [Allow](){: .btn .btn--inverse .btn--small} to authorize the device enrollment. You will be prompted for your laptop password and then to login with Duo:
 
 {% include duosetup.md %}
 
