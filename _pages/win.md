@@ -54,6 +54,8 @@ Once the setup gets to __Device Setup__, a __Continue Anyway__ button will appea
 
 Next you will be asked to __Use Windows Hello__ with your account. Press __Okay__ and then enter the verification code that will be sent via SMS to your phone.
 
+{% include figure url="/assets/images/win-biometrics.png" image_path="/assets/images/win-biometrics.png" %}
+
 After a few moments you will be able to setup __Use your Fingerprint__ or choose __Skip for now__ if you don't want to use biometrics. Fingerprint is more preferred than facial recognition.
 
 Next you will be asked to __Set up a PIN__, setting up a PIN is required. The PIN will be the password you use to log into the computer; it must be at least 8 characters long and if you want to use letters you will need to check the box to allow it!
