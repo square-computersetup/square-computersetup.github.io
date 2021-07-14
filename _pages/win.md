@@ -50,17 +50,15 @@ After logging in, you will need to accept some terms and condtions, then compute
 
 {% include figure url="/assets/images/win-setup.png" image_path="/assets/images/win-setup.png" %}
 
-You will want to wait on this screen until __Device Preparation__ and __Device Setup__ both have a green check and say Complete.
-
-The computer will then restart.
-
-Once the computer has restarted you may see a background photo which you can just click anywhere to continue and be prompted to again sign in with your Microsoft account.
-
-You will then need need to wait for __Account Setup__ to Complete.
+Once the setup gets to __Device Setup__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
 Next you will be asked to __Use Windows Hello__ with your account. Press __Okay__ and then enter the verification code that will be sent via SMS to your phone.
 
-After a few moments you will be able to __Set up a PIN__. The PIN will be the password you use to log into the computer; it must be at least 8 characters long and if you want to use letters you will need to check the box to allow it!
+{% include figure url="/assets/images/win-biometrics.png" image_path="/assets/images/win-biometrics.png" %}
+
+After a few moments you will be able to setup __Use your Fingerprint__ or choose __Skip for now__ if you don't want to use biometrics. Fingerprint is more preferred than facial recognition.
+
+Next you will be asked to __Set up a PIN__, setting up a PIN is required. The PIN will be the password you use to log into the computer; it must be at least 8 characters long and if you want to use letters you will need to check the box to allow it!
 
 You can then click __OK__ on the next screen to be taken to the desktop!
 
