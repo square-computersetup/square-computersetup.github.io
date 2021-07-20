@@ -10,15 +10,21 @@ header:
 
 As you didn't get the notification we can use another method to try enroll your device. 
 
-In Safari you will need to go to this website: __https://ds1506.awmdm.com/DeviceManagement/Enrollment?Gid=squa4021__
+First we are going to log into Slack.
 
-Make sure you try spell it all correctly, and once you get there you will be prompted to log in using Duo.
+In Safari you will need to go to: __square.enterprise.slack.com__ where you will be prompted to set up Duo.
 
 {% include duosetup.md %}
 
+After completing Duo setup you can open the appropriate Slack Workspace
+
+Nex, in Safari you will need to go to this website: __go.sqprod.co/mdmold__
+
+Once you get there you will be prompted to log in using Duo again. Enter the same login information you just used and __Send a Push__ when prompted.
+
 {% include figure url="/assets/images/mac-enable-management.png" image_path="/assets/images/mac-enable-management.png" %}
 
-After setting up Duo and logging in you will be presented with a screen asking you to __Enable Device Management__. Click on [Redirect and Enable](){: .btn .btn--inverse} 
+After logging in you will be presented with a screen asking you to __Enable Device Management__. Click on [Redirect and Enable](){: .btn .btn--inverse} 
 
 {% include figure url="/assets/images/mac-allow-airwatch.png" image_path="/assets/images/mac-allow-airwatch.png" %}
 
@@ -28,24 +34,24 @@ When prompted by Safari to allow downloads click [Allow](){: .btn .btn--inverse}
 
 {% include figure url="/assets/images/mac-apple-menu.png" image_path="/assets/images/mac-apple-menu.png" %}
 
-Then macOS will prompt you with a notification for Profile Installation, you will need to open System Preferences to complete the installation. You can find System Preferences by clicking the Apple logo in the top right corner of the screen.
+Then macOS will prompt you with a notification for __Profile Installation__, you will need to open __System Preferences__ to complete the installation. You can find System Preferences by clicking the __Apple logo__ in the top left corner of the screen.
 
 {% include figure url="/assets/images/mac-system-preferences.png" image_path="/assets/images/mac-system-preferences.png" %}
 
-In System Preferences click the Profiles button in the bottom right corner.
+In System Preferences click the [Profiles](){: .btn .btn--inverse}  button in the bottom right corner.
 
 {% include figure url="/assets/images/mac-workspace-services.png" image_path="/assets/images/mac-workspace-services.png" %}
 
-Click Install on the Workspace Services Profile
+Click [Install](){: .btn .btn--inverse}  on the Workspace Services Profile
 
 {% include figure url="/assets/images/mac-device-manager.png" image_path="/assets/images/mac-device-manager.png" %}
 
-Click Install when asked to install the Device Manager profile.
+Click [Install](){: .btn .btn--inverse}  when asked to install the Device Manager profile.
 
 Enter your __laptop__ password when prompted
 
 {% include figure url="/assets/images/mac-profiles.png" image_path="/assets/images/mac-profiles.png" %}
 
-After several seconds, you should see a __Device Manager__ display showing that your device has been verified.
+After several seconds, you should see the __Device Manager__ profile show that your device has been verified.
 
 [Next Step &rarr;](/mac-installs){: .btn .btn--success .btn--large}
