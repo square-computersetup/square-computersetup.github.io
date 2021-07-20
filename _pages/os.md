@@ -7,7 +7,7 @@ feature_row:
   - url: /chrome/
     image_path: /assets/images/chromebook.png
     alt: "ChromeOS"
-    excerpt: "&nbsp;<br /> A HP Chromebook or Pixelbook Laptop <br />"
+    excerpt: "&nbsp;<br /> An Acer or HP Chromebook <br />"
     btn_label: "ChromeOS"
     btn_class: "btn--primary btn--large"
   - url: /mac/
