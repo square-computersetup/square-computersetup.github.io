@@ -8,7 +8,10 @@ header:
   overlay_color: "#333"
 ---
 
-Managed Software Center will open at the earliest possible time after you have signed into your account and complete the previous steps.
+Managed Software Center will open at the earliest possible time after you have signed into your account and completed the previous steps. 
+
+You should also see Safari pop open to this page, so you can follow along with this guide on your new laptop.
+{: .notice--warning}
 
 {% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, restart your Macbook and wait another five minutes)" %}
 
