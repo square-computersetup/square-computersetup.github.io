@@ -9,10 +9,10 @@ This setup guide is intended for workers employed by Square. If you're a Square 
 
 To continue, please select the link below that best identifies your worker status:
 
-## [New Employee](/fte)
+[New Employee](/fte){: .btn .btn--info}
 
-## [New Contractor](/contractor)
+[Contingent Worker (Agency, Independent Contractor, or Vendor)](/contingent){: .btn .btn--info}
 
-## [Contractor to FTE Conversion](/conversion)
+[Contingent worker conversion](/conversion){: .btn .btn--info}
 
-## [Existing Employee or Contractor](/os)
+[Existing Employee or Contingent Worker](/os){: .btn .btn--info}

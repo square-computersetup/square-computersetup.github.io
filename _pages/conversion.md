@@ -1,6 +1,6 @@
 ---
 permalink: /conversion/
-title: "Contractor to Employee Conversion"
+title: "Contingent Worker to Employee Conversion"
 header:
   overlay_color: "#333"
 ---

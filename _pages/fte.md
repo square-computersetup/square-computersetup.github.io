@@ -1,13 +1,13 @@
 ---
 permalink: /fte/
-title: "Square Employee"
+title: "New Employee"
 header:
   overlay_color: "#333"
 ---
 ## 🎉 Congratulations
 Welcome to Square! Let's get you setup so you can get to work right away. First, some ground rules:
 
-* On Day 1, you'll receive your your corporate login credentials to your personal email around 6 AM.
+* On Day 1, you'll receive your your corporate login credentials to your personal email early in the morning.
 * You wont be able to start until you have recieved these credentials.
 * You can optionally join IT Office Hours to get technical support from a member of our IT Team if you run into any questions. The Google Meet link for this onboarding session will be provided to you via onboarding communications.
 
