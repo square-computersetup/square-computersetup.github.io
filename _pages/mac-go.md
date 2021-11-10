@@ -10,4 +10,4 @@ header:
 
 {% include go.md %}
 
-[Next Step &rarr;](/mac-password){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-slack){: .btn .btn--success .btn--large}
