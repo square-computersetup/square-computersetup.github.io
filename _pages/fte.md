@@ -7,8 +7,8 @@ header:
 ## 🎉 Congratulations
 Welcome to Square! Let's get you setup so you can get to work right away. First, some ground rules:
 
-* On Day 1, you will be sent to your personal email with instructions to set your initial password to your corporate login early in the morning.
-* You will not be able to start until you have recieved this email.
+* On Day 1, instructions will be sent to your personal email to set your initial password to your corporate login early in the morning.
+* You will not be able to begin this process until you have recieved this email.
 * You can optionally join IT Office Hours to get technical support from a member of our IT Team if you run into any questions. The Google Meet link for this onboarding session will be provided to you via onboarding communications.
 
 ## 📱 Before you start!
