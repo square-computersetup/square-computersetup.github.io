@@ -18,7 +18,7 @@ Now lets open the Chrome browser by clinking the Chrome icon in the centre of th
 
 ## Fix DNS errors
 
-If you see a DNS (Domain Name System) error, try switching to one of Google’s public name servers:
+Let’s now switch to one of Google’s public name servers:
 
 * Make sure your Chromebook is connected to a Wi-Fi network.
 * At the bottom right, select the time.
