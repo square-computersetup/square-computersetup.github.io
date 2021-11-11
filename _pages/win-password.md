@@ -1,5 +1,5 @@
 ---
-title: "Temporary Password"
+title: "Password Assistance"
 permalink: /win-password/
 author_profile: true
 sidebar:

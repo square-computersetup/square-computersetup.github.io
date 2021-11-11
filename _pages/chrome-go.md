@@ -10,4 +10,4 @@ header:
 
 {% include go.md %}
 
-[Next Step &rarr;](/chrome-password){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-slack){: .btn .btn--success .btn--large}

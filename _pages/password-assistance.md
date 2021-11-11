@@ -1,6 +1,6 @@
 ---
 title: "Password Assistance"
-permalink: /mac-password/
+permalink: /password-assistance/
 author_profile: true
 sidebar:
   nav: "nav-mac"
@@ -10,4 +10,4 @@ header:
 
 {% include password.md %}
 
-[Next Step &rarr;](/mac-slack){: .btn .btn--success .btn--inverse .btn--large} 
+[Back to Help &rarr;](/help){: .btn .btn--success .btn--inverse .btn--large} 
