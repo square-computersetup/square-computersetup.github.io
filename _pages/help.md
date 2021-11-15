@@ -17,10 +17,5 @@ You can get in contact with __Mission Control (IT)__ by:
 Sending an email to: __mission-control@squareup.com__ 
 or submitting a ticket to __go/IT__.
 
-### Password Portal
-Instructions for setting your initial password can be found __here__ [Password Help &rarr;](/password-assistance){: .btn .btn--success .btn--inverse .btn--medium} 
-
 ### Feedback
 We would appreicate it if you could fill out a quick 3 question anonymous form around your experience in using this website today: [New Computer Setup Feedback](https://forms.gle/3EnaboatwgqmhGTw6)
-
-

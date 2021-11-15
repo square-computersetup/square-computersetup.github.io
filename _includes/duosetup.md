@@ -1,6 +1,6 @@
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
-Enter just your username (**without the** @squareup.com) and your newly created password and click [Login](){: .btn .btn--inverse .btn--small}
+Enter just your username (**without the** @squareup.com) and your password and click [Login](){: .btn .btn--inverse .btn--small}
 
 If you have set up Duo previously, skip forward to the [Send a Push](#push){: .btn .btn--inverse .btn--small} section below.
 

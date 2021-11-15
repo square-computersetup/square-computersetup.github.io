@@ -1,10 +1,21 @@
-## Password Portal
 
-The **link** in your email will take you to Square's password portal where you will set your inital password. If you have not yet set this password, now is the time! You will not be able to sign in using the Duo app unless you have set that password.
+Your __temporary password__ will expire in 24 hours, and it is a security best practice to change it immediately after your first login. 
 
-{% include figure url="/assets/images/password3.jpg" image_path="/assets/images/password3.jpg" %}
+## Reset password
 
-Enter a __secure password__ once and verify that password by entering it again. The website will inform you of the password requirements.
+In your web browser, visit [passwords.sqprod.co](https://passwords.sqprod.co/){:target="_blank"}
+
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
+
+Enter just your username (**without the** @squareup.com) and your __temporary__ password and click [Login](){: .btn .btn--inverse .btn--small}
+
+{% include figure url="/assets/images/password1.jpg" image_path="/assets/images/password1.jpg" %}
+
+Again, enter just your username (**without the** @squareup.com) and click [Submit](){: .btn .btn--inverse .btn--small}
+
+{% include figure url="/assets/images/password2.jpg" image_path="/assets/images/password2.jpg" %}
+
+Enter your __current temporary__ password followed by a __new password__ and then that same __new password__ again to verify your selection. The website will inform you of the password requirements. 
 
 Then, click [Change Password](){: .btn .btn--inverse .btn--small}
 

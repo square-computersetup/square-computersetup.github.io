@@ -1,5 +1,5 @@
 ---
-title: "Password Assistance"
+title: "Temporary Password"
 permalink: /mac-password/
 author_profile: true
 sidebar:
