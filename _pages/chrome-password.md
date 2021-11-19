@@ -1,5 +1,5 @@
 ---
-title: "Temporary Password"
+title: "Password Assistance"
 permalink: /chrome-password/
 author_profile: true
 sidebar:

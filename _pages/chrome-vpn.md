@@ -18,8 +18,6 @@ Start by clicking on the clock in the bottom-right corner of your desktop to ope
 
 From the network list under __Pulse Secure__, click on __Square Remote Onboard__
 
-{% include figure url="/assets/images/vpn-login.jpg" image_path="/assets/images/vpn-login.jpg" %}
-
 Enter just your username (jsmith not jsmith@squareup.com) and your password. Then, click __Continue__. This may take up to 30 seconds.
 
 If successful, open up the Chrome web browser and in the address bar at the top, enter __go.sqprod.co/vpnsetup__ 

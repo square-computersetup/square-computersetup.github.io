@@ -11,4 +11,4 @@ __NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check th
 
 If things worked properly, you should see our __Resource Center__. This is a great resource for all Squares, but especially for new Squares. If instead you landed at the Google search results for the popular all-female rock band [The Go-Go's](https://en.wikipedia.org/wiki/The_Go-Go%27s) something went wrong.
 
-Fantastic! Now that you have __go/__ links working, let's reset your Square password.
+Fantastic! Now that you have __go/__ links working, let's move to the next step.
