@@ -20,7 +20,7 @@ Your device should indicate that it is __Managed by squareup.com__:
 
 {% include figure url="/assets/images/chrome-01-login.jpg" image_path="/assets/images/chrome-01-login.jpg" caption="(if you do not see &quot;Managed by squareup.com&quot; ask for [help](/help))" %}
 
-Enter your full email address (jsmith@squareupcom) and click [Next](#duo){: .btn .btn--inverse .btn--small}
+Enter your full email address (which will be your username @squareup.com) and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
 <a name="duo"></a> 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
