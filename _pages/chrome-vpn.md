@@ -41,7 +41,7 @@ After a few minutes, you will see a success message that says __Device Provision
 
 {% include figure url="/assets/images/chrome-06-vpn.jpg" image_path="/assets/images/chrome-06-vpn.jpg" %}
 
-Click on the __Disconnect__ button. Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, select the __Square East Coast VPN__ (or any other).
+Click on the __Disconnect__ button. Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, select the __Square VPN AWS__.
 
 {% include figure url="/assets/images/vpn-cert.jpg" image_path="/assets/images/vpn-cert.jpg" %}
 
