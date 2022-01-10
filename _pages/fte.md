@@ -17,6 +17,6 @@ Before starting you will need to set your initial Block password. You will also 
 Note: This is __not__ the Google Duo app.
 
 ## 💻 Laptop in hand?
-With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Square laptop and have it with you?
+With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Block laptop and have it with you?
 
 [👍  Yes](/os){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}
