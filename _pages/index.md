@@ -5,7 +5,7 @@ header:
   overlay_color: "#333"
 ---
 
-This setup guide is intended for workers employed by Square. If you're a Square customer, you should visit the [Help Center](https://squareup.com/help/) instead.
+This setup guide is intended for workers employed by Block. If you're a Square customer, you should visit the [Help Center](https://squareup.com/help/) instead.
 
 To continue, please select the link below that best identifies your worker status:
 

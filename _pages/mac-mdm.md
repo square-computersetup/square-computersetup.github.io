@@ -16,7 +16,7 @@ First you will need to open Safari, it should be located in the dock along the b
 
 {% include figure url="/assets/images/mac-mdmfixsafari.png" image_path="/assets/images/mac-mdmfixsafari.png"  %}
 
-Now lets type __newcomputer.square.com/mdmfix__ into the address bar in Safari.
+Now let's type __newcomputer.square.com/mdmfix__ into the address bar in Safari.
 
 {% include figure url="/assets/images/mac-mdmfixdownloads.png" image_path="/assets/images/mac-mdmfixdownloads.png"  %}
 
@@ -28,9 +28,9 @@ Click on [Continue](){: .btn .btn--inverse .btn--small} a few times and then [In
 
 {% include figure url="/assets/images/mac-enrollmentnotification.png" image_path="/assets/images/mac-enrollmentnotification.png"  %}
 
-If there are no errors during installaation, you will see a notification appear in the top-right corner of your screen, near the clock. Click on the notification pop-up to open the __System Preferences__ control panel.
+If there are no errors during installation, you will see a notification appear in the top-right corner of your screen, near the clock. Click on the notification pop-up to open the __System Preferences__ control panel.
 
-If you dont see the notification after 2 minutes: [Click Here](/mac-mdm2){: .btn .btn--success}
+If you don't see the notification after 2 minutes: [Click Here](/mac-mdm2){: .btn .btn--success}
 
 {% include figure url="/assets/images/mac-deviceenrollment.png" image_path="/assets/images/mac-deviceenrollment.png"  %}
 

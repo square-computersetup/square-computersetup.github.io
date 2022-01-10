@@ -7,7 +7,7 @@ header:
 
 
 ## 🎉 Welcome
-Welcome to Square! Let's get you setup so you can get to work right away. First, some ground rules:
+Welcome to Block! Let's get you setup so you can get to work right away. First, some ground rules:
 
 * On Day 1, instructions will be sent to your personal email to set your initial password to your corporate login early in the morning.
 * You will not be able to begin this process until you have recieved this email.
@@ -20,6 +20,6 @@ Note: This is __not__ the Google Duo app.
 
 
 ## 💻 Laptop in hand?
-With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Square laptop and have it with you?
+With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Block laptop and have it with you?
 
 [👍  Yes](/os){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}

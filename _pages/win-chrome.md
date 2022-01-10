@@ -10,7 +10,7 @@ header:
 
 Now lets open Chrome, the icon will be on your Windows Desktop. (If it isn't there right away, wait a minute or two!)
 
-We will first sign into your Square email address. Enter __gmail.com__ in the address bar.
+We will first sign into your Block email address. Enter __gmail.com__ in the address bar.
 
 {% include figure url="/assets/images/win-chrome-gmail.png" image_path="/assets/images/win-chrome-gmail.png" %}
 

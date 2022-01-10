@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Let's get your Macbook setup!
+Let's get your MacBook set up!
 
 Press the __power__ button at the top-right corner of the keyboard:
 
@@ -18,7 +18,7 @@ Shortly after boot-up, you will be asked to select your home, any accessability 
 
 {% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
-Connect your device to a wireless network (either your home WiFi or the Square Guest network in a Square Office).
+Connect your device to a wireless network (either your home WiFi or the Square Guest network in a Block Office).
 
 {% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 

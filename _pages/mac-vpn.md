@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Square. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
+Virtual Private Network (VPN) is a tunnel that creates a private connection between your device and some other network. You may have used this heavily at other jobs, but there are very few services that require VPN at Block. No Customer Success tools require the VPN and even members of IT rarely use the VPN.  The wireless networks in the offices use certificates issued by the VPN to allow you to connect, so it's still a good idea to set things up even if you don't need to access the VPN.
 
 Let's start by clicking on the Pulse Secure icon <img src="/assets/images/pulse.png" width='25' height='25' /> near the clock in the top-right corner of your Macbook desktop.
 
@@ -78,7 +78,7 @@ Now to test that your provisioning works on an _actual_ VPN and not just the spe
 
 {% include figure url="/assets/images/vpn-aws.jpg" image_path="/assets/images/vpn-aws.jpg" %}
 
-Select the __Square VPN AWS__ (or any other).
+Select the __Square VPN AWS__.
 
 {% include figure url="/assets/images/vpn-allow.jpg" image_path="/assets/images/vpn-allow.jpg" %}
 

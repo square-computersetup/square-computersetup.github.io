@@ -20,13 +20,13 @@ Click Set Up Later when prompted to Sign in with Your Apple ID
 
 [Agree](){: .btn .btn--inverse .btn--small} to the Terms and Conditions.
 
-Then enter your __Full Name__ and then use your Square username (the part before @ in your Square email address) for the __Account Name__.
+Then enter your __Full Name__ and then use your Block username (the part before @ in your Block email address) for the __Account Name__.
 
 {% include figure url="/assets/images/mac-account.png" image_path="/assets/images/mac-account.png"  %}
 
-__NOTE:__ Account Name __MUST__ match your Square username for proper configuration!
+__NOTE:__ Account Name __MUST__ match your Block username for proper configuration!
 
-Select a strong password to unlock your Macbook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Duo password.
+Select a strong password to unlock your MacBook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Duo password.
 
 Click [Continue](){: .btn .btn--inverse .btn--small} on the __Express Set-Up__ screen.
 

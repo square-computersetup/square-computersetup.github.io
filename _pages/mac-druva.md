@@ -30,6 +30,6 @@ When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inv
 
 The Druva window will come back to the foreground. __DONT__ click any buttons until it finishes logging you in.
 
-If this is your first Square laptop, you can __close__ the Druva window go to the next step. Otherwise click the button to restore your backup from your old Square laptop.
+If this is your first Block laptop, you can __close__ the Druva window go to the next step. Otherwise click the button to restore your backup from your old Block laptop.
 
 [Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 

@@ -32,13 +32,13 @@ Click on [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web
 
 You will get a notification in the top right of your screen to allow Chrome to send you notification, click [Allow](){: .btn .btn--inverse .btn--small}
 
-Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
+Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
 
 {% include figure url="/assets/images/mac-chrome-signin.png" image_path="/assets/images/mac-chrome-signin.png"  %}
 
 Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
 
-Login to Google using your full Square email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
+Login to Google using your full Block email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
@@ -54,11 +54,11 @@ Chrome will ask if you'd like to save this password. While it is acceptable to s
 
 {% include figure url="/assets/images/mac-chrome-link.png" image_path="/assets/images/mac-chrome-link.png"  %}
 
-When prompted to sync your browser with Square's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
+When prompted to sync your browser with Block's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
 
 {% include figure url="/assets/images/mac-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
 
-Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
+Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Block's Google services.
 
 {% include chromeext.md %}
 

@@ -22,11 +22,11 @@ After connecting to your network the computer may restart, once it comes back it
 
 Before continuing you will need to have been provisioned a Microsoft account by IT. If you haven't got the details for this please reach out to us on slack at #itsupport or reply to the IT setup email you were sent if it's your first day.
 
-Next you will see a __Welcome to Square, Inc.__ screen.
+Next you will see a __Welcome to Block, Inc.__ screen.
 
 {% include figure url="/assets/images/win-welcome.png" image_path="/assets/images/win-welcome.png" %}
 
-Here you will need to put in your Square email address. 
+Here you will need to put in your Block email address. 
 
 If you have never signed in to your Microsoft account you will need to enter your temporary password provided by Square IT. 
 
@@ -42,9 +42,9 @@ You will also be asked to set a new password for your Microsoft account.
 
 {% include figure url="/assets/images/win-account3.png" image_path="/assets/images/win-account3.png" %}
 
-If you have signed into your microsoft account previously you will istead need to put in your password and enter the verification code that will be sent via SMS.
+If you have signed into your Microsoft account previously you will istead need to put in your password and enter the verification code that will be sent via SMS.
 
-Note: This password may be different than your Square password.
+Note: This password may be different than your Block password.
 
 After logging in, you will need to accept some terms and condtions, then computer will continue setting up and may restart again and eventually you will see a screen that says Setting up your device for work
 

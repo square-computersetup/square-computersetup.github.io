@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
+Here at Block, we make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
 

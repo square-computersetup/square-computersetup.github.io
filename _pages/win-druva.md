@@ -29,7 +29,7 @@ If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inve
 <a name="replace"></a> 
 {% include figure url="/assets/images/win-druva-replace.png" image_path="/assets/images/win-druva-replace.png" %}
 
-If this is your first Square laptop, [skip this section](#done). If you are replacing an existing Square laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
+If this is your first Block laptop, [skip this section](#done). If you are replacing an existing Block laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
 
 <a name="restore"></a>
 {% include figure url="/assets/images/win-druva-restore.png" image_path="/assets/images/win-druva-restore.png" %}
