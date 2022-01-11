@@ -12,7 +12,7 @@ Welcome to Block! Let's get you set up so you can get to work right away. First,
 * You can optionally join IT Office Hours to get technical support from a member of our IT Team if you run into any questions. The Google Meet link for this onboarding session will be provided to you via onboarding communications.
 
 ## 📱 Before you start!
-Before starting you will need to set your initial Block password. You will also want to download the ![Duo Mobile](/assets/images/duo-icon.png) __Duo Mobile__ app from your phone's App Store. We will use this app for our 2 Factor Authentication.
+Before starting you will need to set your initial Block password. You will also want to download the ![Duo Mobile](/assets/images/duo-icon.png) __Duo Mobile__ app from your phone's App Store. We will use this app for our 2-Factor Authentication.
 
 Note: This is __not__ the Google Duo app.
 

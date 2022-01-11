@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-As you didn't get the notification we can use another method to try enroll your device. 
+As you didn't get the notification, we can use another method to try enroll your device. 
 
 First we are going to log into Slack.
 
@@ -16,9 +16,9 @@ In Safari you will need to go to: __square.enterprise.slack.com__ where you will
 
 {% include duosetup.md %}
 
-After completing Duo setup you can open the appropriate Slack Workspace
+After completing Duo setup you can open the appropriate Slack Workspace.
 
-Nex, in Safari you will need to go to this website: __go.sqprod.co/mdmold__
+Next, in Safari you will need to go to this website: __go.sqprod.co/mdmold__
 
 Once you get there you will be prompted to log in using Duo again. Enter the same login information you just used and __Send a Push__ when prompted.
 
@@ -28,17 +28,17 @@ After logging in you will be presented with a screen asking you to __Enable Devi
 
 {% include figure url="/assets/images/mac-allow-airwatch.png" image_path="/assets/images/mac-allow-airwatch.png" %}
 
-When prompted by Safari to allow downloads click [Allow](){: .btn .btn--inverse} 
+When prompted by Safari to allow downloads, click [Allow](){: .btn .btn--inverse} 
 
 {% include figure url="/assets/images/mac-review-profile.png" image_path="/assets/images/mac-review-profile.png" %}
 
 {% include figure url="/assets/images/mac-apple-menu.png" image_path="/assets/images/mac-apple-menu.png" %}
 
-Then macOS will prompt you with a notification for __Profile Installation__, you will need to open __System Preferences__ to complete the installation. You can find System Preferences by clicking the __Apple logo__ in the top left corner of the screen.
+macOS will prompt you with a notification for __Profile Installation__. You will need to open __System Preferences__ to complete the installation. You can find System Preferences by clicking the __Apple logo__ in the top left corner of the screen.
 
 {% include figure url="/assets/images/mac-system-preferences.png" image_path="/assets/images/mac-system-preferences.png" %}
 
-In System Preferences click the [Profiles](){: .btn .btn--inverse}  button in the bottom right corner.
+In System Preferences, click the [Profiles](){: .btn .btn--inverse}  button in the bottom right corner.
 
 {% include figure url="/assets/images/mac-workspace-services.png" image_path="/assets/images/mac-workspace-services.png" %}
 

@@ -10,7 +10,7 @@ header:
 
 Managed Software Center will open at the earliest possible time after you have signed into your account and completed the previous steps. 
 
-You should also see Safari pop open to this page, so you can follow along with this guide on your new laptop.
+You should also see Safari pop open to this page so you can follow along with this guide on your new laptop.
 {: .notice--warning}
 
 {% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, restart your Macbook and wait another five minutes)" %}
@@ -31,7 +31,7 @@ Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the i
 {% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" width=54
     height=auto %}
 
-You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be differen than your Duo SSO password).
+You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be different than your Duo SSO password).
 
 
 [Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}

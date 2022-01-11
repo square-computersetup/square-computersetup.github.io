@@ -14,7 +14,7 @@ We have a number of "workspaces" focused on each business unit, but everyone can
 
 {% include figure url="/assets/images/mac-spotlight.png" image_path="/assets/images/mac-spotlight.png" %}
 
-First lets open the Slack app by again searching using __Spotlight__ in the top right corner.
+First let's open the Slack app by again searching using __Spotlight__ in the top right corner.
 
 {% include figure url="/assets/images/mac-slack-downloads.png" image_path="/assets/images/mac-slack-downloads.png" %}
 

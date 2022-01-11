@@ -8,6 +8,6 @@ header:
   overlay_color: "#333"
 ---
 
-Before you begin the onboarding process, you need a Microsoft account created so you can sign into your computer. Please respond to your welcome email from IT to make sure you have one. Otherwise, your machine may not be able to be setup properly.
+Before you begin the onboarding process, you need a Microsoft account created so you can sign into your computer. Please respond to your welcome email from IT to make sure you have one. Otherwise, your machine may not be able to be set up properly.
 
 [👍 I have my Microsoft Account details](/win){: .btn .btn--success .btn--large}

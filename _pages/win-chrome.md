@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Now lets open Chrome, the icon will be on your Windows Desktop. (If it isn't there right away, wait a minute or two!)
+Now let's open Chrome. The icon will be on your Windows Desktop. (If it isn't there right away, wait a minute or two!)
 
 We will first sign into your Block email address. Enter __gmail.com__ in the address bar.
 
@@ -20,7 +20,7 @@ Now sign into Gmail using the email provided on your Welcome Sheet. You will the
 
 Now you should be logged in and Google may ask you to accept the terms and conditions as well as set up the look for your Gmail inbox.
 
-Next, we will sign-in to Google Chrome to link it to Square's Google Workplace (formerly "GSuite").
+Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
 
 {% include figure url="/assets/images/win-chrome-sync.png" image_path="/assets/images/win-chrome-sync.png"  %}
 
@@ -32,7 +32,7 @@ When prompted to sync your browser with Square's Google services, click on [Link
 
 {% include figure url="/assets/images/win-chrome-yes.png" image_path="/assets/images/win-chrome-yes.png"  %}
 
-Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Square's Google services.
+Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Block's Google services.
 
 {% include chromeext.md %}
 

@@ -8,11 +8,11 @@ header:
   overlay_color: "#333"
 ---
 
-We have to do some extra steps to get your Macbook enrolled with our Mobile Device Management (MDM) system.
+We have to do some extra steps to get your MacBook enrolled with our Mobile Device Management (MDM) system.
 
 {% include figure url="/assets/images/mac-safari.png" image_path="/assets/images/mac-safari.png"  %}
 
-First you will need to open Safari, it should be located in the dock along the bottom (with a blue compass icon).
+First, you will need to open Safari. It should be located in the Dock along the bottom (with a blue compass icon).
 
 {% include figure url="/assets/images/mac-mdmfixsafari.png" image_path="/assets/images/mac-mdmfixsafari.png"  %}
 

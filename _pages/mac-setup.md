@@ -37,6 +37,6 @@ You may also be asked if you wish to use a Light or Dark visual theme to your de
 
 {% include figure url="/assets/images/mac-desktop.png" image_path="/assets/images/mac-desktop.png"  %}
 
-After clicking through the remaining customization screens, you will arrive at the MacOS desktop which will look similar to the above (perhaps with different wallpaper).
+After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
 
 [Next Step &rarr;](/mac-installs){: .btn .btn--success .btn--large}

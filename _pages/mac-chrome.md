@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Now, some extra steps to get Google Chrome properly setup for use as your primary web browser. Let's start with accessing __Spotlight__ by clicking on the magnifying glass icon in the extreme top-right corner of the desktop:
+Now, some extra steps to get Google Chrome properly set up for use as your primary web browser. Let's start with accessing __Spotlight__ by clicking on the magnifying glass icon in the extreme top-right corner of the desktop:
 
 {% include figure url="/assets/images/mac-spotlight.png" image_path="/assets/images/mac-spotlight.png" caption="(Spotlight is the built-in search tool for MacOS)" %}
 
@@ -30,7 +30,7 @@ Click on [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web
 
 {% include figure url="/assets/images/mac-chrome-notification.png" image_path="/assets/images/mac-chrome-notification.png"  %}
 
-You will get a notification in the top right of your screen to allow Chrome to send you notification, click [Allow](){: .btn .btn--inverse .btn--small}
+You will get a notification in the top right of your screen to allow Chrome to send you notifications, click [Allow](){: .btn .btn--inverse .btn--small}
 
 Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
 

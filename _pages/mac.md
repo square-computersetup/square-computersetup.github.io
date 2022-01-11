@@ -22,6 +22,6 @@ Connect your device to a wireless network (either your home WiFi or the Square G
 
 {% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 
-Next you may see one of two different screens, please click the button below that matches what you see.
+Next, you may see one of two different screens. Please click the button below that matches what you see.
 
 [Remote Management](/mac-setup){: .btn .btn--success} [Data & Privacy](/mac-setup2){: .btn .btn--success}

@@ -14,7 +14,7 @@ Search for __Pulse Secure__ using Windows search in the bottom left of the deskt
 
 {% include figure url="/assets/images/win-vpn-search.png" image_path="/assets/images/win-vpn-search.png" %}
 
-Click __Connect__ next to __Onboard__, your username and password is your Square username and password.
+Click __Connect__ next to __Onboard__, your username and password is your Block username and password.
 
 {% include figure url="/assets/images/win-vpn-aws.png" image_path="/assets/images/win-vpn-aws.png" %}
 
@@ -32,19 +32,19 @@ Click to __Download Quick Connect__ software
 
 {% include figure url="/assets/images/win-vpn-download.png" image_path="/assets/images/win-vpn-download.png" %}
 
-Open the __ArubaQuickConnect.exe__ software, making sure to click __Yes__ when prompted to allow the application to make changes to the computer
+Open the __ArubaQuickConnect.exe__ software, making sure to click __Yes__ when prompted to allow the application to make changes to the computer.
 
 {% include figure url="/assets/images/win-vpn-quickconnect.png" image_path="/assets/images/win-vpn-quickconnect.png" %}
 
-Click Next in the app and allow it to install; you may get some security warning's, on which you can click __Yes__.
+Click Next in the app and allow it to install; you may get some security warnings, on which you can click __Yes__.
 
 {% include figure url="/assets/images/win-vpn-security.png" image_path="/assets/images/win-vpn-security.png" %}
 
-Once its done, click __Finish__.
+Once it's done, click __Finish__.
 
 {% include figure url="/assets/images/win-vpn-quickconnectfinish.png" image_path="/assets/images/win-vpn-quickconnectfinish.png" %}
 
-Now re-open pulse secure again, and __Disconnect__ from the Onboard VPN and click __Connect__ on the __Square VPN AWS__. You will be prompted for a Secondary Password, which is just your Square password.
+Now re-open Pulse Secure again, and __Disconnect__ from the Onboard VPN and click __Connect__ on the __Square VPN AWS__. You will be prompted for a Secondary Password, which is just your Block password.
 Note: If you dont see the Square AWS VPN, you may need to wait 10-15 minutes for it to show up.
 
 {% include figure url="/assets/images/win-vpn-aws.png" image_path="/assets/images/win-vpn-aws.png" %}
