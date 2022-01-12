@@ -14,7 +14,7 @@ Press the __power__ button at the top-right corner of the keyboard:
 
 {% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" caption="(if you have a Mac Mini, the power button is in the rear)" %}
 
-Shortly after boot-up, you will be asked to select your home, any accessability options you may require and preferred language:
+Shortly after boot-up, you will be asked to select your home, any accessibility options you may require, and preferred language:
 
 {% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
