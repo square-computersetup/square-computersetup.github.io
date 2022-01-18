@@ -1,6 +1,6 @@
 ## Password Portal
 
-The **link** in your email will take you to Square's password portal where you will set your inital password. If you have not yet set this password, now is the time! You will not be able to sign in using the Duo app unless you have set that password.
+The **link** in your email will take you to Block's password portal where you will set your inital password. If you have not yet set this password, now is the time! You will not be able to sign in using the Duo app unless you have set that password.
 
 {% include figure url="/assets/images/password3.jpg" image_path="/assets/images/password3.jpg" %}
 

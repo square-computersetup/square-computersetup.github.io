@@ -1,4 +1,4 @@
-Squares make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
+Here at Block, we make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
 
@@ -6,7 +6,7 @@ Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:targe
 
 {% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
-Click on __Sign in with Duo Access Gateway__ which should redirect you to Duo SSO where you can sign in with your Square username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
+Click on __Sign in with Duo Access Gateway__ which should redirect you to Duo SSO where you can sign in with your Block username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
 
 You may be prompted to __Enable Desktop Notifications__:
 

@@ -1,7 +1,7 @@
 <a name="duo"></a>
 ## Single Sign-On (SSO)
 
-Single Sign-On (SSO) is a system that allows you to use just one company-wide password to access many different resources. Think of it as your Square Passport that you show at different airports. We use Cisco's Duo identify provider for SSO, so we need to set that up first.
+Single Sign-On (SSO) is a system that allows you to use just one company-wide password to access many different resources. Think of it as your Block Passport that you show at different airports. We use Cisco's Duo identify provider for SSO, so we need to set that up first.
 
 ## Duo Enrollment
 
