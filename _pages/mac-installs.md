@@ -19,10 +19,6 @@ You should also see Safari pop open to this page so you can follow along with th
 
 If you see the __Updates Available__ notification, click [Later](){: .btn .btn--inverse .btn--small} to defer the installation.
 
-{% include figure url="/assets/images/mac-installs-sshd.png" image_path="/assets/images/mac-installs-sshd.png" %}
-
-You may also see prompts asking to allow incoming network connections for __netbiosd__ and __sshd-keygen-wrapper__ click [Allow](){: .btn .btn--inverse .btn--small}
-
 {% include figure url="/assets/images/mac-installs-forced.png" image_path="/assets/images/mac-installs-forced.png" %}
 
 Once Managed Software Updates have completed, it will prompt you about a __Forced logout for mandatory install__. 

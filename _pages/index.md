@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Square Laptop Setup Guide"
+title: "Block Laptop Setup Guide"
 header:
   overlay_color: "#333"
 ---

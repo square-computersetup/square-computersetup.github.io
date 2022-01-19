@@ -14,8 +14,13 @@ Join your scheduled __IT Onboarding Session__ on your start date and a member of
 ### Existing Employees
 You can get in contact with __Mission Control (IT)__ by:
 
-Sending an email to: __mission-control@squareup.com__ 
-or submitting a ticket to __go/IT__.
+Sending an email to: 
+
+__mission-control@squareup.com__ or 
+
+__cash-it-help@squareup.com__ (for Cash Employees) 
+
+or submitting a ticket at __go/IT__.
 
 ### Password Portal
 Instructions for setting your initial password can be found __here__ [Password Help &rarr;](/password-assistance){: .btn .btn--success .btn--inverse .btn--medium} 
