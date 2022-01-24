@@ -4,7 +4,7 @@ If your device's certificate is properly issued and valid, you should see a page
 
 {% include figure url="/assets/images/das-trouble.jpg" image_path="/assets/images/das-trouble.jpg" %}
 
-If you see __We're having trouble identifying your device__, it means your device did not present a valid certificate. Please join the new hire onboarding session or visit __go/devicehelp__ to get this resolved. Note: Please include the serial number of your laptop.
+If you see __We're having trouble identifying your device__, it means your device did not present a valid certificate. [Please contact IT for help, so you can access Block's systems correctly](/help)
 
 {% include figure url="/assets/images/das-update.jpg" image_path="/assets/images/das-update.jpg" %}
 
