@@ -8,4 +8,4 @@ sidebar:
 
 {% include password.md os="alt" next="slack" %}
 
-[Next Step &rarr;](/alt-slack/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/alt-chrome/){: .btn .btn--success .btn--large}
