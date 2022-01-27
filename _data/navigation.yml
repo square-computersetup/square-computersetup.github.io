@@ -13,8 +13,6 @@ nav-alt:
     children:
       - title: "Duo"
         url: /alt/
-      - title: "Password"
-        url: /alt-password/
       - title: "Chrome"
         url: /alt-chrome/
       - title: "Go Links"

@@ -12,7 +12,7 @@ Let's start with a brief 97 second video overview:
 <a name="login"></a>
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
 
-Enter just your username (**without the** @squareup.com) and your __temporary__ password and click [Login](#setup1){: .btn .btn--inverse .btn--small}
+Enter just your username (**without the** @squareup.com) and your password and click [Login](#setup1){: .btn .btn--inverse .btn--small}
 
 <a name="setup1"></a>
 {% include figure url="/assets/images/duo-setup1.jpg" image_path="/assets/images/duo-setup1.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
@@ -72,5 +72,5 @@ If everything worked, you should see your Gmail inbox. You may already have a nu
 
 If something didn't work, please ask for [help](/help). 
 
-[Next Step &rarr;](/{{ include.os }}-{{ include.next }}){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/alt-go){: .btn .btn--success .btn--large}
 

@@ -8,6 +8,8 @@ sidebar:
 
 We are sorry we were unable to get you an official laptop before your start date. But let's at least get some things setup using an alternate laptop. If you __have received__ your Block laptop, you __must__ follow the [official enrollment](/os) path instead.
 
+You should have recieved an email with a link the set your intial Block password, please make sure you have followed the instructions in that email before continuing.
+
 ## 🕵️‍ Incognito
 
 Power up an alternate laptop and connect using any method to the Internet. To make sure we keep your personal life separate from this setup process, please switch into "incognito" or "private browsing" mode using one of these methods:
