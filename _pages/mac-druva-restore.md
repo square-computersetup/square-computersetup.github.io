@@ -8,6 +8,27 @@ header:
   overlay_color: "#333"
 ---
 
+If Druva automatically activated and you want to restore files, follow these steps, otherwise jump to [Did you manually Activate Druva](#gohere)
+
+Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop and select “Open Preferences”
+
+{% include figure url="/assets/images/druva-restore1.png" image_path="/assets/images/druva-restore1.png" %}
+
+Within the Druva application, click the “Restore…” 
+
+{% include figure url="/assets/images/druva-restore2.png" image_path="/assets/images/druva-restore2.png" %}
+
+A new “Druva Restore” window will appear, review the machines listed and the dated backups available
+
+{% include figure url="/assets/images/druva-restore3.png" image_path="/assets/images/druva-restore3.png" %}
+
+Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended) or data plus settings. Then click Restore.
+
+You may close the Druva window and the restore process (if any) will continue in the background. 
+
+__Did you manually activate Druva?__
+{: #gohere }
+
 Click [Replace an Existing Device](){: .btn .btn--inverse .btn--small} 
 
 {% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}

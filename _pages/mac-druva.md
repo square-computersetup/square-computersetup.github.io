@@ -8,9 +8,17 @@ header:
   overlay_color: "#333"
 ---
 
-We use __Druva__ to continuously backup your MacBook to the cloud, just to be safe. Let's activate it now.
+We use __Druva__ to continuously backup your MacBook to the cloud, just to be safe. Let’s check to see if it is activated now.
 
 Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop.
+
+If you see either of the below menus, Druva has been activated and you can [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} or [Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
+
+{% include figure url="/assets/images/druva-mac3.jpeg" image_path="/assets/images/druva-mac3.jpeg" %}
+
+{% include figure url="/assets/images/druva-mac4.jpg" image_path="/assets/images/druva-mac4.jpg" %}
+
+If you see “__Activate Backup…__” continue below
 
 {% include figure url="/assets/images/druva-mac-tray.jpg" image_path="/assets/images/druva-mac-tray.jpg" %}
 
