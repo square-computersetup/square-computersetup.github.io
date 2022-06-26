@@ -1,1 +1,0 @@
-# square-computersetup.github.io
