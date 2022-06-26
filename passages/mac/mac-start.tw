@@ -1,0 +1,20 @@
+:: Mac Start
+!macOS Setup
+
+Let's get your MacBook set up!
+
+To turn on your Mac, press the ''power'' button at the top-right corner of the keyboard
+
+[img[images/mac/mac-start/mac-power.jpeg]]
+
+Shortly after boot-up, you will be asked to select your location, any accessibility options you may require, and your preferred language
+
+[img[images/mac/mac-start/mac-locale.jpeg]]
+
+Connect your device to a wireless network (either your home WiFi or the Square Guest network in a Block Office), by selecting it from the list and entering the password
+
+[img[images/mac/mac-start/mac-wifi.jpeg]]
+
+Next, you may see one of two different screens. Please click the button below that matches what you see:
+
+<<button [[Remote Management|Remote Management]]>><</button>> <<button [[Data & Privacy|Data Privacy]]>><</button>>

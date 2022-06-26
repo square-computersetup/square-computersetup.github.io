@@ -1,0 +1,3 @@
+#!/bin/bash
+twee/tweego -t -o content/index.html twee/intro.tw -m twee/modules twee/mac twee/chrome twee/windows twee/common twee/fonts
+echo "site built successfully"

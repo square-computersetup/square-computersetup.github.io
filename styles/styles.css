@@ -1,0 +1,66 @@
+.block {
+    --primary: #FF4F00;
+    --secondary: #000000;
+    --tertiary: #ffffff;
+    --heading-color: #2ED7C8;
+    --primary-rgb: 255, 79, 0;
+    --font: 'PilatWide-Regular';
+    --font-bold: 'PilatWide-Bold';
+    --font-heading: 'PPNeueMachina-Ultrabold';
+}
+
+.cash {
+    --primary: #00D633;
+    --secondary: #000000;
+    --tertiary: #ffffff;
+    --heading-color: #00D633;
+    --primary-rgb: 0, 214, 51;
+    --font: 'CashMarket-RegularRounded';
+    --font-bold: 'CashMarket-Bold';
+    --font-heading: 'Agrandir-GrandHeavy';
+}
+
+body {
+	color: var(--tertiary);
+	font-family: var(--font);
+    background-color: #000000;
+}
+
+h1, h2, h3, h4 {
+	color: var(--heading-color);
+	font-family: var(--font-heading);
+}
+
+strong {
+    font-family: var(--font-bold);
+    color: var(--primary);
+}
+
+.right {
+	float: right;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    color: var(--primary);
+    background-color: var(--secondary);
+    border: 2px solid var(--primary);
+
+    border-radius: .5rem;
+    font-size: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+button:hover {
+    color: var(--secondary);
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+

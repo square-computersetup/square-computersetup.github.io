@@ -1,0 +1,6 @@
+:: Help
+<<if $cash is true>>
+Cash ITX Help
+<<else>>
+Mission Control Help
+<</if>>
