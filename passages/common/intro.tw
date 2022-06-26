@@ -1,0 +1,36 @@
+:: Start
+!Block Computer Setup Guide
+<<button [[Go|OS]]>><</button>>
+
+:: OS
+!Your laptop
+What type of Laptop are you setting up?
+
+<<button [[Mac|First Laptop]]>><<set $os to "Mac Start">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "Windows Start">><</button>> <<button [[Chrome|First Laptop]]>><<set $os to "Chrome Start">><</button>>
+
+
+:: First Laptop
+!Your laptop
+Is this the first Block laptop you are setting up?
+
+<<button [[Yes|Cash]]>><<set $firstLaptop to true>><</button>> <<button [[No|Cash]]>><<set $firstLaptop to false>><</button>>
+
+:: Cash
+!Cash
+<<if $firstLaptop is true>>
+    Are you joining Cash?
+<<else>>
+    Are you in Cash?
+<</if>>
+<<button [[Yes|Get Started]]>><<set $cash to true>><<addclass "body" "cash">><</button>> <<button [[No|Get Started]]>><<set $cash to false>><</button>>
+
+:: Get Started
+!Before We Get Started
+
+Before we start, make sure your laptop is ''plugged into its charger'' and you have your ''WiFi password'' handy.
+
+If you get stuck at any time, use the ''Help'' button in the top right corner.
+
+If you need to go ''Back'', use the Back button in the top left corner
+
+<<button [[Get Started|$os]]>><</button>>
