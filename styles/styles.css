@@ -1,4 +1,4 @@
-.block {
+.block-style {
     --primary: #FF4F00;
     --secondary: #000000;
     --tertiary: #ffffff;
@@ -9,7 +9,7 @@
     --font-heading: 'PPNeueMachina-Ultrabold';
 }
 
-.cash {
+.cash-style {
     --primary: #00D633;
     --secondary: #000000;
     --tertiary: #ffffff;
@@ -62,5 +62,9 @@ button:hover {
     color: var(--secondary);
     background-color: var(--primary);
     border-color: var(--primary);
+}
+
+.link-internal {
+    font-size: 1.25rem;
 }
 

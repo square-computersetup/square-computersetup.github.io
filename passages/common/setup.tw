@@ -11,9 +11,9 @@ Block Computer Setup
 :: PassageReady
 <<run UIBar.destroy();>>
 <<if $cash is true>>
-    <<addclass "body" "cash">>
+    <<addclass "body" "cash-style">>
 <<else>>
-    <<addclass "body" "block">>
+    <<addclass "body" "block-style">>
 <</if>>
 
 :: PassageHeader [nobr]
