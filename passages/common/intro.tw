@@ -6,7 +6,7 @@
 !Your laptop
 What type of Laptop are you setting up?
 
-<<button [[Mac|First Laptop]]>><<set $os to "Mac Start">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "Windows Start">><</button>> <<button [[Chrome|First Laptop]]>><<set $os to "Chrome Start">><</button>>
+<<button [[Mac|First Laptop]]>><<set $os to "macos">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "windows">><</button>> <<button [[Chrome|First Laptop]]>><<set $os to "chromeos">><</button>>
 
 
 :: First Laptop
@@ -33,4 +33,4 @@ If you get stuck at any time, use the ''Help'' button in the top right corner.
 
 If you need to go ''Back'', use the Back button in the top left corner
 
-<<button [[Get Started|$os]]>><</button>>
+<<if $os is "macos">><<button [[Get Started|Mac Start]]>><</button>> <<elseif $os is "windows">><<button [[Get Started|Windows Start]]>><</button>> <<elseif $os is "chromeos">><<button [[Get Started|Chrome Start]]>><</button>><</if>>

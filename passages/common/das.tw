@@ -1,0 +1,51 @@
+:: DAS
+!Device Attestation
+
+Block runs a ''Device Attestation Service'' (DAS) that asks your device to present a certificate (like a passport when you enter a country) proving it is an authorized and Square-owned device. To test if we have a valid certificate, try going to <<if $cash is true>>''go/"""$it"""''<<else>>''go/missioncontrol''<</if>> in //Chrome//
+
+After going to <<if $cash is true>>''go/"""$it"""''<<else>>''go/missioncontrol''<</if>> you may see oen of three pages, click the image below that matches what you see:
+
+<<if $cash is true>>[img[images/common/das-cashit.png][DAS Done]]<<else>>[img[images/common/das-mc.png][DAS Done]]<</if>>
+
+[img[images/common/das-trouble.jpeg][DAS Help]]
+
+[img[images/common/das-update.jpeg][DAS Update]]
+
+
+:: DAS Done
+!Device Attestation
+
+<<if $cash is true>>[img[images/common/das-cashit.png]]<<else>>[img[images/common/das-mc.png]]<</if>>
+
+If you see the <<if $cash is true>>Cash IT Experience<<else>>Mission Control/IT Support<</if>> page it means your certificate is working and you can continue to the next step!
+
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome VPN]]>><</button>><</if>>
+
+:: DAS Help
+!Device Attestation
+
+If you see the ''We're having trouble identifying your device'' page, you will need to contact <<if $cash is true>>Cash IT<<else>>Mission Control<</if>> for help.
+
+[img[images/common/das-trouble.jpeg]]
+
+Please email <<if $cash is true>>cash-it-help@squareup.com<<else>>mission-control@squareup.com<</if>> with the subject line ''Device Attestation Help'' and include your laptops asset tag number
+
+>The asset tag number is found on a sticker on your laptop
+
+<<if $cash is true>>Cash IT<<else>>Mission Control<</if>> will email you back with instructions, but in the meantime you can continue with the next steps
+
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome VPN]]>><</button>><</if>>
+
+
+:: DAS Update
+!Device Attestation
+
+If you see the ''Looks like your device needs some maintenance'' its likely your laptop needs some updates before you can get access
+
+[img[images/common/das-update.jpeg]]
+
+Unsure how to do it? <<if $os is "macos">>[[You can follow this guide to update|https://support.apple.com/en-au/HT201541]]<<elseif $os is "windows">>[[You can follow this guide to update|https://support.microsoft.com/en-us/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a#WindowsVersion=Windows_10]]<<elseif $os is "chromeos">>[[You can follow this guide to update|https://support.google.com/chromebook/answer/177889?hl=en]]<</if>>
+<<if $firstLaptop is true>>
+>If today is your first day at <<if $cash is true>>Cash<<else>>Block<</if>>, so you dont miss any onboarding sessions, please run these updates during your lunch break and skip ahead to the next step for now
+<</if>>
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome VPN]]>><</button>><</if>>
