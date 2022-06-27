@@ -1,0 +1,35 @@
+:: Slack Intro
+<<if $firstLaptop is true>>
+Here at <<if $cash is true>>Cash<<else>>Block<</if>>, we make use of Slack for instant messaging (chat) to enable quick communication within your team and across the company.
+
+We have a number of “workspaces” focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace.
+
+>If you haven't used Slack before, have a look at the [[Slack Quick Start Guide|https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide]]
+<<else>>
+Now lets sign into Slack
+<</if>>
+
+:: Slack Sign In
+Click Sign in with Slack and a Chrome window will open up.
+
+[img[images/common/slack-signin.png]]
+
+Click ''Sign in with Google'' and select your Google account when prompted
+
+[img[images/common/slack-signin-2.png]]
+
+You will be redirected to Duo SSO where you can sign in with your Square Username and Password
+
+Next you will be asked which Workspace to join out of ''Square'', ''Cash App'', ''TIDAL'' or ''Verse''. Choose the one that best fits your role; you can join any of the other Workspaces later
+
+Click ''Launch in Slack'' for the Workspace of your choice.
+
+[img[images/common/slack-workspace-select.png]]
+
+Click ''Open Slack'' when Chrome asks to //Open Slack?//
+
+[img[images/common/slack-open-app.png]]
+
+>If Slack doesn't open in the app the first time, simply click sign in again within the App and try a second time
+
+<<if $firstLaptop is true>>You might want to message your lead so they know you are online!<<else>>All your old channels and DM's should be visible in Slack<</if>>

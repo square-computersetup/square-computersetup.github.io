@@ -22,7 +22,7 @@ Click on Yes I'm in to confirm a sync with Block's Google services
 
 Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.
 
->If they dont appear within a minute or so, type ''"""chrome://restart"""'' into the address bar, press return and check again
+>If they dont appear within a minute or so, type //"""chrome://restart"""// into the address bar, press return and check again
 
 [img[images/common/chrome-extensions.png]]
 

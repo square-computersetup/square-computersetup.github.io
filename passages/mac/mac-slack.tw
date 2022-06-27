@@ -1,2 +1,14 @@
 :: Mac Slack
 !Slack
+<<include [[Slack Intro]]>>
+First let's open the Slack app by again searching using ''Spotlight'' again in the top right corner
+
+[img[images/mac/mac-spotlight.png]]
+
+''Allow'' Slack access to your Downloads folder when asked
+
+[img[images/mac/mac-slack-downloads.png]]
+
+<<include [[Slack Sign In]]>>
+
+<<button [[Next|Mac DAS]]>><</button>>
