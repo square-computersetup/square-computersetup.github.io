@@ -1,6 +1,23 @@
-:: Help
-<<if $cash is true>>
-Cash ITX Help
+:: Help Selection
+!Get Help
+
+So we can get you the best Help, is this your first Block laptop?
+
+<<button [[Yes|Help Selection 2]]>><<set $firstLaptop to true>><</button>> <<button [[No|Help Selection 2]]>><<set $firstLaptop to false>><</button>>
+
+:: Help Selection 2
+!Get Help
+
+<<if $firstLaptop is true>>
+   So we can get you the best help, are you joining Cash?
 <<else>>
-Mission Control Help
+    So we can get you the best help, are you in Cash?
 <</if>>
+
+<<button [[Yes|Cash Help]]>><<set $cash to true>><<addclass "body" "cash">><</button>> <<button [[No|Mission Control Help]]>><<set $cash to false>><</button>>
+
+:: Cash Help
+!Cash IT Help
+
+:: Mission Control Help
+!Mission Control Help

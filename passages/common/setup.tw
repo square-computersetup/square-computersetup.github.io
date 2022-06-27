@@ -23,8 +23,14 @@ Block Computer Setup
 <</if>>
 
 <div class="right">
-<<if $cash isnot undefined>>
-[[Get Help|Help]]
+<<if $firstLaptop isnot true and $firstLaptop isnot false>>
+[[Get Help|Help Selection]]
+<<elseif $cash isnot true and $cash isnot false>>
+[[Get Help|Help Selection 2]]
+<<elseif $cash is true>>
+[[Get Help|Cash Help]]
+<<else>>
+[[Get Help|Mission Control Help]]
 <</if>>
 </div>
 <br>
