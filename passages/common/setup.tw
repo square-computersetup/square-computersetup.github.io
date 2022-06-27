@@ -17,7 +17,7 @@ Block Computer Setup
 <</if>>
 
 :: PassageHeader [nobr]
-
+<div class="custom-header">
 <<if passage() isnot "Start">>
 <<back "Back">>
 <</if>>
@@ -32,5 +32,6 @@ Block Computer Setup
 <<else>>
 [[Get Help|Mission Control Help]]
 <</if>>
+</div>
 </div>
 <br>

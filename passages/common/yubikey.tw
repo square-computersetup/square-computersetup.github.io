@@ -1,0 +1,20 @@
+:: YubiKey
+!YubiKey
+<<if $firstLaptop is true>>
+You should have received a YubiKey with your laptop, this is a device you can use to authenticate with Duo instead of always having to send a push to your Phone
+
+<div class="small-image">[img[images/common/yubikey.png]]</div>
+
+You can find instructions for setting up your YubiKey at ''go/yubikey'', please take a moment to go to the go link and set it up now
+
+Once it is set up, continue to the next step
+<<else>>
+<div class="small-image">[img[images/common/yubikey.png]]</div>
+
+You should be able to plug your existing YubiKey into your new laptop and start using it with no extra setup required
+
+If you need to setup a YubiKey for the first time, see the guide at ''go/yubikey''
+<</if>>
+>If you dont have a YubiKey, file a <<if $cash is true>>go/$it<<else>>go/IT<</if>> ticket
+
+<<if $os is "macos">><<button [[Next|Mac Tips]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Tips]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Tips]]>><</button>><</if>>

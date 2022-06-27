@@ -64,7 +64,7 @@ button:hover {
     border-color: var(--primary);
 }
 
-.link-internal {
+.custom-header {
     font-size: 1.25rem;
 }
 

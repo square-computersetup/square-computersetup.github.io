@@ -1,0 +1,82 @@
+:: Mac Druva
+!Druva
+
+We use ''Druva'' to continuously backup your MacBook to the cloud, just to be safe. Let's check to see if it is activated now
+
+Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop
+
+[img[images/mac/mac-druva.png]]
+
+Click the link below that matches what you see:
+*[[Initialising Backup|Druva Activated]]
+*[[Backup in Progress|Druva Activated]]
+*[[Backup Complete|Druva Activated]]
+*[[Activate Backup|Druva Manual Activation]]
+
+:: Druva Manual Activation
+!Druva
+
+Click on ''Activate Backup''
+
+[img[images/mac/druva-mac-activate.jpeg]]
+
+Make sure Backup Cloud is set to ''inSync Cloud'' and enter your full email address and click ''Continue''
+
+[img[images/mac/mac-druva-login.jpeg]]
+
+Chrome will launch and open to ''cloud.druva.com''. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so)
+
+When the //Open InSync?// pop-up appears, click ''Open InSync''
+
+[img[images/mac/mac-druva-chrome.jpeg]]
+
+The Druva window will come back to the foreground. ''DON'T click any buttons'' until it finishes logging you in
+
+[img[images/mac/mac-druva-waiting.jpeg]]
+
+>If you accidently click Close, you will need to start from the top of this page again
+
+<<if $firstLaptop is false>>
+When prompted click ''Replace an Existing Device''
+
+You will have the option to restore your previous backup to the new laptop
+
+Click ''Restore Now'' if you want to restore the backup, or ''Maybe Later'' if you want to start fresh
+
+>If you choose ''Maybe Later'' you can [[skip to the the next step|YubiKey]]
+
+[img[images/mac/mac-druva-restore.jpeg]]
+
+Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click ''Restore''.
+
+[img[images/mac/mac-druva-restore2.jpeg]]
+
+<</if>>
+You may close the Druva window and Druva will continue in the background.
+
+<<button [[Next|YubiKey]]>><</button>>
+
+:: Druva Activated
+!Druva
+<<if $firstLaptop is true>>
+Looks like Druva is activated and good to go, you can continue to the next step.
+<<else>>
+Looks like Druva is activated, if you dont want to resore your backup from your old laptop [[skip to the the next step|YubiKey]] otherwise follow the below instructions to Restore your backup
+
+Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop and select ''Open Preferences''
+
+[img[images/mac/mac-druva-prefs.png]]
+
+Within the Druva application, click the ''Restore…''
+
+[img[images/mac/mac-druva-restore3.png]]
+
+A new ''Druva Restore'' window will appear, review the machines listed and the dated backups available
+
+[img[images/mac/mac-druva-restore4.png]]
+
+Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended) or data plus settings. Then click Restore.
+
+You may close the Druva window and Druva will continue in the background.
+<</if>>
+<<button [[Next|YubiKey]]>><</button>>

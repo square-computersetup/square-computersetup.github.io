@@ -25,3 +25,5 @@ If things worked properly, you should see our //Resource Center//. This is a gre
 >You only need to do this setup the first time, next time you use a go/ link you can type type it out and press return
 
 Now that you have go/ links working, let's move to the next step
+
+<<if $os is "macos">><<button [[Next|Mac Slack]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Slack]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Slack]]>><</button>><</if>>
