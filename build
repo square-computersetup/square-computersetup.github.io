@@ -1,3 +1,4 @@
 #!/bin/bash
-./tweego -t -o index.html passages/common/setup.tw -m scripts fonts passages styles
+./tweego -o index.html -m scripts fonts passages styles
+./tweego -t -o debug.html -m scripts fonts passages styles
 echo "site built successfully"
