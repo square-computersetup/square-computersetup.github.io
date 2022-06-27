@@ -1,2 +1,33 @@
 :: Mac Chrome
 !Chrome Setup
+
+Now, some extra steps to get Google Chrome properly set up for use as your primary web browser. Let's start with accessing //Spotlight// by clicking on the ''magnifying glass icon'' in the extreme top-right corner of the desktop
+<<if $firstLaptop is true>>
+>Spotlight is the built-in search tool for MacOS
+<</if>>
+
+[img[images/mac/mac-spotlight.png]]
+
+Type in ''Chrome'' and then click on the top hit, which is the application itself
+
+[img[images/mac/mac-chrome-spotlight.png]]
+
+Click ''Allow'' if you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected
+
+<div class="small-image">[img[images/mac/mac-chrome-firewall.png]]</div>
+
+On the //Welcome to Google Chrome// screen, click ''Start Google Chrome''
+
+[img[images/mac/mac-chrome-welcome.png]]
+
+Click on ''Use Chrome'' to set the default web browser
+
+<div class="small-image">[img[images/mac/mac-chrome-default.png]]</div>
+
+You will get a notification in the top right of your screen to allow Chrome to send you notifications, click ''Allow''
+
+<div class="small-image">[img[images/mac/mac-chrome-notification.png]]</div>
+
+<<include [[Chrome Browser]]>>
+
+<<button [[Next|Mac Go Links]]>><</button>>
