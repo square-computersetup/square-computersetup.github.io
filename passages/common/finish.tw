@@ -1,0 +1,13 @@
+:: Finished
+!"""All Done!"""
+
+''You did it!'' You've finished setting up your new computer
+
+If you have any issues with your laptop, or any of the systems you have set up today, please file a ticket at <<if $cash is true>>''go/$it''<<else>>''go/IT''<</if>>
+
+We would appreciate it if you could fill out a quick 3 question anonymous form around your experience in using this website today: [[Computer Setup Feedback|https://forms.gle/3EnaboatwgqmhGTw6]]
+<<if $firstLaptop is true>>
+!!Whats next?
+If today is your first day, and you are unsure what to do now, you may want to message your lead on Slack or check your calendar at go/calendar to see what you should do next
+<</if>>
+

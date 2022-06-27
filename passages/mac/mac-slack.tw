@@ -7,7 +7,7 @@ First let's open the Slack app by again searching using ''Spotlight'' again in t
 
 ''Allow'' Slack access to your Downloads folder when asked
 
-[img[images/mac/mac-slack-downloads.png]]
+<div class="small-image">[img[images/mac/mac-slack-downloads.png]]</div>
 
 <<include [[Slack Sign In]]>>
 
