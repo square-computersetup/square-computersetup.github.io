@@ -1,0 +1,27 @@
+:: Go Links
+!Go Links
+<<if $firstLaptop is true>>
+Block has a handy shared bookmark system called ''go/ links''. There are a number of very helpful go/ links that you will use often
+
+Some examples include:
+*go/gmail
+*go/calendar
+*go/jira
+
+To start using them, first we need to do a quick setup
+<<else>>
+Lets setup go/ links on your new laptop
+<</if>>
+In the address bar at the top of Chrome, type in ''go/go'' but do ''NOT'' press enter on your keyboard. You'll notice that you have two auto-complete suggestions from the web browser. Using the cursor, click on the option that does ''NOT'' say “Google Search”. 
+
+[img[images/common/go-links-gogo.jpeg]]
+
+>You may be prompted to authenticate to Duo SSO again. You may check the box that says Remember me for 12 hours
+
+If things worked properly, you should see our //Resource Center//. This is a great resource for all Block employees, but especially for new employees. If instead you landed at the Google search results for the popular all-female rock band The Go-Go's something went wrong and you should try again
+
+[img[images/common/go-links -resourcecentre.png]]
+
+>You only need to do this setup the first time, next time you use a go/ link you can type type it out and press return
+
+Now that you have go/ links working, let's move to the next step
