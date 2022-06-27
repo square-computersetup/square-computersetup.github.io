@@ -1,2 +1,20 @@
 :: Software Installation
 !Software Installation
+
+''Managed Software Center'' will open at the earliest possible time after you have signed into your account and start installing applications and updates
+
+[img[images/mac/mac-msc.jpeg]]
+
+>If you do not see this after five minutes, restart your Macbook and wait another five minutes
+
+If you see the //Updates Available// notification, click ''Later'' to defer the installation until you have finished this guide
+
+Once Managed Software Updates have completed, it will prompt you about a ''Forced logout for mandatory install''. Click ''Log out and Update Now'' to exit the installer and restart your laptop
+
+[img[images/mac/mac-forced-logout.png]]
+
+You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, login again using your ''Laptop Password'' that we setup on the previous page
+
+<div class="small-image">[img[images/mac/mac-postflight.png]]</div>
+
+<<button [[Next|Mac Chrome]]>><</button>>

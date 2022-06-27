@@ -41,7 +41,7 @@ strong {
 }
 
 img {
-    width: 75%;
+    width: 80%;
 }
 
 button {
@@ -81,4 +81,8 @@ blockquote {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+.small-image img {
+    width: 40%;
 }
