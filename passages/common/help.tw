@@ -7,7 +7,6 @@ So we can get you the best Help, is this your first Block laptop?
 
 :: Help Selection 2
 !Get Help
-
 <<if $firstLaptop is true>>
    So we can get you the best help, are you joining Cash?
 <<else>>

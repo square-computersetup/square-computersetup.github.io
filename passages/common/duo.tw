@@ -1,0 +1,26 @@
+:: Duo New
+Enter just your //username// (without the @squareup.com) and your newly created password and click ''Login''
+
+[img[images/common/duo-login.jpeg]]
+
+Click ''Start Setup'' and go through the process of setting up your Duo account
+
+[img[images/common/duo-setup-1.jpeg]]
+
+*Choose ''Mobile phone''
+*Enter ''Phone Number''
+*Choose ''iOS or Android''
+*Select ''I have Duo Mobile installed''
+*Open //Duo Mobile App// on your phone and tap the ''+''
+*//Scan the QR Code// in the Duo Mobile App
+*Select ''Continue to Login''
+*Click on ''Send Me a Push''
+*Tap ''Approve'' on the notification sent to your phone
+
+[img[images/common/duo-push.jpeg]]
+
+:: Duo Login
+
+Enter your //username// (without the @squareup.com) and password and click ''Login''
+
+[img[images/common/duo-login.jpeg]]

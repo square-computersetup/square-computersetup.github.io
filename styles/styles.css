@@ -41,7 +41,7 @@ strong {
 }
 
 img {
-    width: 100%;
+    width: 75%;
 }
 
 button {
@@ -68,3 +68,17 @@ button:hover {
     font-size: 1.25rem;
 }
 
+blockquote {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
