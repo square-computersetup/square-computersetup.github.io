@@ -1,0 +1,26 @@
+:: Chrome Slack
+!Slack
+
+<<include [[Slack Intro]]>>
+
+Visit ''square.enterprise.slack.com'' in the browser
+
+Click on Sign in with Duo Access Gateway which should redirect you to Duo SSO where you can sign in with your Block username and Password
+
+[img[images/chrome/chrome-slack-signin.jpeg]]
+
+Next you will be asked which Workspace to join out of ''Square'', ''Cash App'', ''TIDAL'' or ''Verse''. Choose the one that best fits your role; you can join any of the other Workspaces later
+
+Click ''Launch in Slack'' for the Workspace of your choice.
+
+[img[images/common/slack-workspace-select.png]]
+
+You may be prompted to Enable Desktop Notifications, which we suggest to enable notifications
+
+[img[images/chrome/chrome-slack-notifications.jpeg]]
+
+As you'll interact with Slack on a daily basis, we recommend you Pin Slack so that it is always available. ''Right-click'' on the web page tab at the top and select ''Pin tab'', as illustrated below
+
+[img[images/chrome/chrome-pin-tab.gif]]
+
+<<button [[Next|DAS]]>><</button>>
