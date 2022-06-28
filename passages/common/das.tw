@@ -19,7 +19,7 @@ After going to <<if $cash is true>>''go/"""$it"""''<<else>>''go/missioncontrol''
 
 If you see the <<if $cash is true>>Cash IT Experience<<else>>Mission Control/IT Support<</if>> page it means your certificate is working and you can continue to the next step!
 
-<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Network Certificates]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
 
 :: DAS Help
 !Device Attestation
@@ -34,7 +34,7 @@ Please email <<if $cash is true>>cash-it-help@squareup.com<<else>>mission-contro
 
 <<if $cash is true>>Cash IT<<else>>Mission Control<</if>> will email you back with instructions, but in the meantime you can continue with the next steps
 
-<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Network Certificates]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
 
 
 :: DAS Update
@@ -48,4 +48,4 @@ Unsure how to do it? <<if $os is "macos">>[[You can follow this guide to update|
 <<if $firstLaptop is true>>
 >If today is your first day at <<if $cash is true>>Cash<<else>>Block<</if>>, so you dont miss any onboarding sessions, please run these updates during your lunch break and skip ahead to the next step for now
 <</if>>
-<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows VPN]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
+<<if $os is "macos">><<button [[Next|Mac Druva]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Network Certificates]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Network Certificates]]>><</button>><</if>>
