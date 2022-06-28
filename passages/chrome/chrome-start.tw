@@ -1,0 +1,28 @@
+:: Chrome Start
+!ChromeOS Setup
+
+Press the power button at the top-right corner of the keyboard
+
+When prompted connect your device to a wireless network (either your home WiFi or a Block office guest Wifi) with internet access
+
+Your device should indicate that it is ''Managed by squareup.com''
+
+>If your device does not say this, please <<if $cash is true>>[[Get Help|Cash Help]]<<else>>[[Get Help|Mission Control Help]]<</if>>
+
+[img[images/chrome/chrome-login.jpeg]]
+<<if $firstLaptop is true>>
+<<include [[Duo New]]>>
+<<else>>
+<<include [[Duo Login]]>>
+<</if>>
+Once authenticated, you should see this success message
+
+Click ''Accept and Continue''. You may hear the Google Assistant announce verbally that it has been disabled. You can press the mute button (above the 0 in the top row on your keyboard) to silence the device audio
+
+[img[images/chrome/chrome-signin.jpeg]]
+
+When you see the //Ready!// display, you can click ''Get Started''
+
+[img[images/chrome/chrome-ready.jpeg]]
+
+<<button [[Next|Chrome Browser]]>><</button>>
