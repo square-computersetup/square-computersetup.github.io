@@ -1,2 +1,8 @@
 :: Chrome Browser
 !Chrome Browser
+
+Open the Chrome browser by clicking the ''Chrome icon'' in the center of the //dock//
+
+<<include [[Browser Extensions]]>>
+
+<<button [[Next|Chrome DNS Fix]]>><</button>>
