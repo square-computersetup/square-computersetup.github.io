@@ -1,0 +1,100 @@
+:: Manual Enrollment
+!Device Management
+
+Now we have to do some extra steps to get your MacBook enrolled with our Mobile Device Management (MDM) system
+
+First, you will need to open Safari. It should be located in the Dock along the bottom (with a blue compass icon)
+
+[img[images/mac/mac-dock-safari.png]]
+
+Now let's type ''newcomputer.square.com/mdmfix.pkg'' into the address bar in Safari to download the MDM Fix Installer
+
+Once the download completes, open the file out of your downloads folder in the Dock
+
+[img[images/mac/mac-mdmfix-download.png]]
+
+Click on ''Continue'' a few times and then ''Install'' in the package installation display. You may be prompted for your ''Laptop Password'' to allow the installation to continue
+
+[img[images/mac/mac-mdm-fix.gif]]
+
+If there are no errors during installation, you will see a notification appear in the top-right corner of your screen within the next 2 minutes (near the time)
+
+[img[images/mac/mac-enrollmentnotification.png]]
+
+<<button [[I see the notification|Manual Enrollment 2]]>><</button>> <<button [[I DON'T see the notification|Manual Enrollment Old]]>><</button>>
+
+:: Manual Enrollment 2
+!Device Management
+
+If you do see the notification, click ''Allow'' to authorize the device enrollment. You will be prompted for your laptop password and then to login with Duo
+<<if $firstLaptop is true>>
+<<include [[Duo New]]>>
+<<else>>
+<<include [[Duo Login]]>>
+
+>You wont be able to use your YubiKey at this screen, so please use ''Send a Push''
+<</if>>
+After several seconds, you should see a //Device Manager// display showing that your device has been verified. 
+
+[img[images/mac/mac-profiles.png]]
+
+You can close this window and proceed to the next step
+
+<<button [[Next|Software Installation]]>><</button>>
+
+
+
+:: Manual Enrollment Old
+!Device Management
+
+As you didn't get the notification, we can use another method to try enroll your device
+<<if $firstLaptop is true>>
+First we are going to log into //Slack// to setup //Duo Multi Factor Authentication//
+
+>We wont complete the setup of Slack in this step, we will come back to it later
+
+In Safari you will need to go to ''square.enterprise.slack.com'' where you will be prompted to set up Duo
+
+<<include [[Duo New]]>>
+
+After approving the push we can continue on now that Duo is set up
+<</if>>
+In Safari you will need to go to this website ''go.sqprod.co/mdmold''
+
+Once you get there you will be prompted to log in using Duo. Enter your login information and ''Send a Push'' when prompted
+
+After logging in you will be presented with a screen asking you to //Enable Device Management//. Click on ''Redirect and Enable''
+
+[img[images/mac/mac-enable-management.png]]
+
+When prompted by Safari to allow downloads, click ''Allow''
+
+[img[images/mac/mac-allow-airwatch.png]]
+
+macOS will prompt you with a notification for //Profile Installation//. You will need to open ''System Preferences'' to complete the installation. You can find System Preferences by clicking the ''Apple logo'' in the top left corner of the screen
+
+<div class="small-image">[img[images/mac/mac-review-profile.png]]</div>
+
+[img[images/mac/mac-apple-menu.png]]
+
+In //System Preferences//, click the ''Profiles'' button in the bottom right corner
+
+[img[images/mac/mac-system-preferences.png]]
+
+Click Install on the Workspace Services Profile
+
+[img[images/mac/mac-workspace-services.png]]
+
+Click ''Install'' when asked to install the //Device Manager// profile
+
+[img[images/mac/mac-device-manager.png]]
+
+Enter your ''laptop password'' when prompted
+
+After several seconds, you should see the //Device Manager// profile show that your device has been verified.
+
+[img[images/mac/mac-profiles.png]]
+
+You can close this window and proceed to the next step
+
+<<button [[Next|Software Installation]]>><</button>>

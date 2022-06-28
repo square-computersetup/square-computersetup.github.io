@@ -10,6 +10,8 @@ Click ''Continue'' on the //Remote Management// screen to receive a Duo SSO logi
 <<include [[Duo New]]>>
 <<else>>
 <<include [[Duo Login]]>>
+
+>You wont be able to use your YubiKey at this screen, so please use ''Send a Push''
 <</if>>
 
 Once authenticated, you should see this prompt to create a computer account
@@ -22,16 +24,8 @@ Your Full Name and Account Name will be pre-filled (the latter should match the 
 
 Select a strong password to unlock your MacBook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your ''Laptop Password'' to differentiate from your Duo password.
 
-You will be prompted to set up ''Touch ID'' (optional). This allows you to quickly unlock your laptop without entering your Laptop password. 
-
->Please note that you will be asked for your Laptop Password periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
-
-[img[images/mac/mac-touchid.png]]
-
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in System Preferences.
-
-After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
-
-[img[images/mac/mac-desktop.png]]
+<<include [[TouchID Light Dark Desktop]]>>
 
 <<button [[Next|Software Installation]]>><</button>>
+
+

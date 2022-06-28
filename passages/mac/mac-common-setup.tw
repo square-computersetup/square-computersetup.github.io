@@ -1,0 +1,12 @@
+:: TouchID Light Dark Desktop
+You will be prompted to set up ''Touch ID'' (optional). This allows you to quickly unlock your laptop without entering your Laptop password. 
+
+>Please note that you will be asked for your Laptop Password periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
+
+[img[images/mac/mac-touchid.png]]
+
+You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in System Preferences.
+
+After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
+
+[img[images/mac/mac-desktop.png]]

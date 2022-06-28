@@ -1,0 +1,39 @@
+:: Data Privacy
+!macOS Setup
+
+Click ''Continue'' on the //Data & Privacy// screen
+
+On the //Migration Assistant// screen select ''Not Now'' in the lower left corner and click ''Continue''
+
+>Do not migrate any data from your personal laptop <<if $firstLaptop is false>>or your old Block laptop<</if>>
+
+[img[images/mac/mac-migration.png]]
+
+Click ''Set Up Later'' when prompted to //Sign in with Your Apple ID//
+
+[img[images/mac/mac-appleid.png]]
+
+''Agree'' to the //Terms and Conditions//
+
+On the Create a Computer Account screen, enter your ''Full Name'' and then use your ''Block username'' (the part before @ in your Block email address) for the //Account Name//
+
+>Account Name ''MUST'' match your Block username for proper configuration!
+
+Select a strong password to unlock your MacBook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your ''Laptop Password'' to differentiate from your Duo password
+
+[img[images/mac/mac-account-manual.png]]
+
+Click ''Continue'' on the //Express Set-Up// screen
+
+Click ''Continue'' on the //Analytics// screen
+
+Click ''Set Up Later'' on the //Screen Time// screen
+
+Disable ''Ask Siri'' and click ''Continue'' on the //Siri screen//
+
+[img[images/mac/mac-siri.png]]
+
+<<include [[TouchID Light Dark Desktop]]>>
+
+<<button [[Next|Manual Enrollment]]>><</button>>
+
