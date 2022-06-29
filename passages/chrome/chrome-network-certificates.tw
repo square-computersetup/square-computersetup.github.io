@@ -1,4 +1,48 @@
 :: Chrome Network Certificates
 !Network Certificates
 
+Now lets get the Block network certificates onto your laptop. These certificates will allow you to connect to the Wifi in many Block offices as well as the Block VPN.
+
+>The Block VPN is generally only used by Software Engineers, and most Block workers (including Customer Service) will not need to connect to the VPN
+
+To set this up we are going to connect to a special onboarding VPN and install a certificate.
+
+Start by clicking on the clock in the bottom-right corner of your desktop to open the control panel, then click on the VPN icon
+
+<div class="small-image">[img[images/chrome/chrome-vpn-icon.jpeg]]</div>
+
+From the network list under Pulse Secure, click on Square Remote Onboard
+
+<div class="small-image">[img[images/chrome/chrome-vpn-connect.png]]</div>
+
+When prompted enter just your username (jsmith not jsmith@squareup.com) and your Block password. Then, click ''Continue''. This may take up to 30 seconds
+
+If successful, open the Chrome browser and go to ''go/vpnsetup''
+
+Once the page loads, again enter your username and Block password and click ''Let's Go!''
+
+<div class="small-image">[img[images/chrome/chrome-vpn-login.jpeg]]</div>
+
+>If this page does not appear after a minute, reload the page
+
+Click the large Square WiFi Profile button, and then click OK in the pop-up prompt
+
+[img[images/chrome/chrome-vpn-profile.jpeg]]
+
+After a few minutes, you will see a success message that says ''Device Provisioning Complete''. Click on the clock and go to the VPN icon in the control panel again
+
+Click on the ''Disconnect'' button. Now to test that your provisioning works on an actual VPN and not just the special onboarding VPN, select the ''Square VPN AWS''
+
+<div class="small-image">[img[images/chrome/chrome-vpn-connected.png]]</div>
+
+You will be prompted to select the certificate to use to authenticate - as you only have one, select it and then click ''OK''
+
+[img[images/chrome/chrome-vpn-cert.jpeg]]
+
+Next, enter just your Block password for a Secondary Credential (the username will be disabled)
+
+[img[images/chrome/chrome-vpn-password.jpeg]]
+
+If all goes according to plan, you have now confirmed that you have provisioned a certificate for VPN and in-office WiFi. Finally, you should go back and disconnect from the //Square AWS VPN// as we wont need it to continue.
+
 <<button [[Next|YubiKey]]>><</button>>

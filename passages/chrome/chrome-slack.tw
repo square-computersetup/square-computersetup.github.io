@@ -19,8 +19,16 @@ You may be prompted to Enable Desktop Notifications, which we suggest to enable 
 
 [img[images/chrome/chrome-slack-notifications.jpeg]]
 
-As you'll interact with Slack on a daily basis, we recommend you Pin Slack so that it is always available. ''Right-click'' on the web page tab at the top and select ''Pin tab'', as illustrated below
+As you'll interact with Slack on a daily basis, we recommend you Bookmark Slack so that it is always available. 
 
-[img[images/chrome/chrome-pin-tab.gif]]
+Click the three vertical dots menu in the top right corner of Chrome and select the ''More Tools > Create Shortcut...'' option
+
+[img[images/chrome/chrome-create-shortcut.png]]
+
+Rename the shortcut to ''Slack'' and check the ''Open as Window'' checkbox
+
+[img[images/chrome/chrome-create-shortcut2.png]]
+
+Slack will now show as a separate item on your dock for easy access
 
 <<button [[Next|DAS]]>><</button>>
