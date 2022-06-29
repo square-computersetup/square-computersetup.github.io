@@ -1,5 +1,6 @@
 :: Start
 !Block Computer Setup Guide
+
 <<button [[Go|OS]]>><</button>>
 
 :: OS
@@ -7,7 +8,6 @@
 What type of Laptop are you setting up?
 
 <<button [[Mac|First Laptop]]>><<set $os to "macos">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "windows">><</button>> <<button [[Chrome|First Laptop]]>><<set $os to "chromeos">><</button>>
-
 
 :: First Laptop
 !Your laptop
