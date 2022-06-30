@@ -1,17 +1,27 @@
 :: Start
 !Block Computer Setup Guide
 
+This setup guide is intended for workers employed by Block. 
+
+>If you're a Square customer, you should visit the [[Help Center|https://squareup.com/help/us/en]] instead
+
+Before you get started there is just a few questions you need to answer, click ''Go'' to get started
+
 <<button [[Go|OS]]>><</button>>
 
 :: OS
 !Your laptop
 What type of Laptop are you setting up?
 
-<<button [[Mac|First Laptop]]>><<set $os to "macos">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "windows">><</button>> <<button [[Chrome|First Laptop]]>><<set $os to "chromeos">><</button>>
+> Acer or HP laptops are usually Chromebooks
+
+<<button [[Macbook|First Laptop]]>><<set $os to "macos">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "windows">><</button>> <<button [[Chromebook|First Laptop]]>><<set $os to "chromeos">><</button>>
 
 :: First Laptop
 !Your laptop
 Is this the first Block laptop you are setting up?
+
+If you are just starting to work at Block, you will want to select Yes
 
 <<button [[Yes|Cash]]>><<set $firstLaptop to true>><</button>> <<button [[No|Cash]]>><<set $firstLaptop to false>><</button>>
 
@@ -27,7 +37,13 @@ Is this the first Block laptop you are setting up?
 :: Get Started
 !Before We Get Started
 
-Before we start, make sure your laptop is ''plugged into its charger'' and you have your ''WiFi password'' handy.
+Before we start the actual setup, lets make sure we have a few things ready to go:
+<<if $firstLaptop is true>>
+Download the <<nobr>><span class="inline-icon">[img[images/common/duo-icon.png]]</span><</nobr>> ''Duo Mobile'' app onto your phone, we will use this to set up your Multi-Factor Authentication
+<</if>>
+*Make sure your laptop is ''plugged into its charger''
+*Have your ''WiFi password'' handy
+*Make sure you know your ''Block username and password''<<if $firstLaptop is true>>. You should have recieved an email with your username and a link to setup the password<</if>>
 
 If you get stuck at any time, use the ''Help'' button in the top right corner.
 

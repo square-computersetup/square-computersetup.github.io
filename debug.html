@@ -217,6 +217,12 @@ blockquote {
 .small-image img {
     width: 40%;
 }
+
+.inline-icon img {
+    width: 32px;
+    position: relative;
+    top: 10px
+}
 </style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="ChromeOS Browser" tags="" position="100,100" size="100,100">!Chrome Browser
 
 Open the Chrome browser by clicking the &#39;&#39;Chrome icon&#39;&#39; in the center of the //dock//
@@ -463,11 +469,21 @@ So we can get you the best Help, is this your first Block laptop?
 
 &lt;&lt;button [[Yes|Cash Help]]&gt;&gt;&lt;&lt;set $cash to true&gt;&gt;&lt;&lt;addclass &quot;body&quot; &quot;cash&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[No|Mission Control Help]]&gt;&gt;&lt;&lt;set $cash to false&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="18" name="Cash Help" tags="" position="975,225" size="100,100">!Cash IT Help</tw-passagedata><tw-passagedata pid="19" name="Mission Control Help" tags="" position="1100,225" size="100,100">!Mission Control Help</tw-passagedata><tw-passagedata pid="20" name="Start" tags="" position="1225,225" size="100,100">!Block Computer Setup Guide
 
+This setup guide is intended for workers employed by Block.
+
+&gt;If you&#39;re a Square customer, you should visit the [[Help Center|https://squareup.com/help/us/en]] instead
+
+Before you get started there is just a few questions you need to answer, click &#39;&#39;Go&#39;&#39; to get started
+
 &lt;&lt;button [[Go|OS]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="21" name="OS" tags="" position="100,350" size="100,100">!Your laptop
 What type of Laptop are you setting up?
 
-&lt;&lt;button [[Mac|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;macos&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[Windows|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;windows&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[Chrome|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;chromeos&quot;&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="22" name="First Laptop" tags="" position="225,350" size="100,100">!Your laptop
+&gt; Acer or HP laptops are usually Chromebooks
+
+&lt;&lt;button [[Macbook|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;macos&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[Windows|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;windows&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[Chromebook|First Laptop]]&gt;&gt;&lt;&lt;set $os to &quot;chromeos&quot;&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="22" name="First Laptop" tags="" position="225,350" size="100,100">!Your laptop
 Is this the first Block laptop you are setting up?
+
+If you are just starting to work at Block, you will want to select Yes
 
 &lt;&lt;button [[Yes|Cash]]&gt;&gt;&lt;&lt;set $firstLaptop to true&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[No|Cash]]&gt;&gt;&lt;&lt;set $firstLaptop to false&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="23" name="Cash" tags="" position="350,350" size="100,100">!Cash
 &lt;&lt;if $firstLaptop is true&gt;&gt;
@@ -477,7 +493,13 @@ Is this the first Block laptop you are setting up?
 &lt;&lt;/if&gt;&gt;
 &lt;&lt;button [[Yes|Get Started]]&gt;&gt;&lt;&lt;set $cash to true&gt;&gt;&lt;&lt;addclass &quot;body&quot; &quot;cash&quot;&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;button [[No|Get Started]]&gt;&gt;&lt;&lt;set $cash to false&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="24" name="Get Started" tags="" position="475,350" size="100,100">!Before We Get Started
 
-Before we start, make sure your laptop is &#39;&#39;plugged into its charger&#39;&#39; and you have your &#39;&#39;WiFi password&#39;&#39; handy.
+Before we start the actual setup, lets make sure we have a few things ready to go:
+&lt;&lt;if $firstLaptop is true&gt;&gt;
+Download the &lt;&lt;nobr&gt;&gt;&lt;span class=&quot;inline-icon&quot;&gt;[img[images/common/duo-icon.png]]&lt;/span&gt;&lt;&lt;/nobr&gt;&gt; &#39;&#39;Duo Mobile&#39;&#39; app onto your phone, we will use this to set up your Multi-Factor Authentication
+&lt;&lt;/if&gt;&gt;
+*Make sure your laptop is &#39;&#39;plugged into its charger&#39;&#39;
+*Have your &#39;&#39;WiFi password&#39;&#39; handy
+*Make sure you know your &#39;&#39;Block username and password&#39;&#39;&lt;&lt;if $firstLaptop is true&gt;&gt;. You should have recieved an email with your username and a link to setup the password&lt;&lt;/if&gt;&gt;
 
 If you get stuck at any time, use the &#39;&#39;Help&#39;&#39; button in the top right corner.
 

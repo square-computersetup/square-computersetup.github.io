@@ -86,3 +86,9 @@ blockquote {
 .small-image img {
     width: 40%;
 }
+
+.inline-icon img {
+    width: 32px;
+    position: relative;
+    top: 10px
+}
