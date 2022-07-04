@@ -1,4 +1,45 @@
 :: Windows Start
 !Windows Setup
 
+>Before continuing, you will need to have been provisioned a Microsoft account by IT. If you haven't got the details for this <<if $cash is true>>[[Get Help|Cash Help]]<<else>>[[Get Help|Mission Control Help]]<</if>>
+
+<<button [[I have my account details|Windows Start 2]]>><</button>>
+
+:: Windows Start 2
+
+First turn on your new laptop with the power button.
+
+Once it starts up you will eventually get to a screen that asks you to select your country.
+
+Then you will need to choose your keyboard layout.
+
+Connect your device to a wireless network (either your home Wifi or the Block office Wifi) with internet access
+
+[img[]]
+
+After connecting to your network the computer may restart. Once it comes back, it's time to log in with your Block Microsoft account
+
+You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address
+
+[img[]]
+
+<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT<<else>>You will need to enter your Microsoft account password<</if>>
+
+[img[]]
+<<if $firstLaptop is true>>
+You will need to set a phone number to recieve your verification SMS
+
+[img[]]
+
+You will also be asked to set a new password for your Microsoft account
+
+[img[]]
+<<else>>
+You will need to put in your password and enter the verification code that will be sent via SMS
+<</if>>
+After logging in, you will need to ''Accept'' some //Terms and Conditions//. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
+
+Once the setup gets to //Device Setup//, a ''Continue Anyway'' button will appear on the lower right of the screen. Lets click ''Continue Anyway'' instead of waiting for the setup to finish
+
+
 <<button [[Next|Windows Slack]]>><</button>>
