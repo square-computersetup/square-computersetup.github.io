@@ -1,4 +1,8 @@
 :: TouchID Light Dark Desktop
+You will be prompted to enable //Location Services//, ''check the box'' to enable macOS to set your time zone automatically 
+
+[img[images/mac/mac-location-services.png]]
+
 You will be prompted to set up ''Touch ID'' (optional). This allows you to quickly unlock your laptop without entering your Laptop password. 
 
 >Please note that you will be asked for your Laptop Password periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
