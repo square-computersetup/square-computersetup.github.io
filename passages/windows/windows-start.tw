@@ -13,33 +13,43 @@ Once it starts up you will eventually get to a screen that asks you to select yo
 
 Then you will need to choose your keyboard layout.
 
-Connect your device to a wireless network (either your home Wifi or the Block office Wifi) with internet access
+Connect your device to a wireless network (either your home wifi or the Block office wifi) with internet access
 
-[img[]]
+When asked if your device should be discoverable on the network, select ''No''
 
 After connecting to your network the computer may restart. Once it comes back, it's time to log in with your Block Microsoft account
 
-You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address
+You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address and click ''Next''
 
-[img[]]
+<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT<<else>>You will then need to enter your Microsoft account password<</if>>
 
-<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT<<else>>You will need to enter your Microsoft account password<</if>>
-
-[img[]]
 <<if $firstLaptop is true>>
 You will need to set a phone number to recieve your verification SMS
 
 [img[]]
 
-You will also be asked to set a new password for your Microsoft account
+You will also be asked to set a new permament password for your Microsoft account
 
 [img[]]
+
+You may also be prompted to ''Accept'' the //Terms and Conditions//
 <<else>>
-You will need to put in your password and enter the verification code that will be sent via SMS
+You will need enter the verification code that will be sent to you via SMS, or choose to recieve a phone call with a verification code
 <</if>>
-After logging in, you will need to ''Accept'' some //Terms and Conditions//. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
+Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
 
 Once the setup gets to //Device Setup//, a ''Continue Anyway'' button will appear on the lower right of the screen. Lets click ''Continue Anyway'' instead of waiting for the setup to finish
 
+Next you will be presented with a login screen, once again enter your Block email address and Microsoft account password
+
+After logging in you will once again see the //Setting up your Device for work// screen, you can again click ''Continue Anyway''
+
+On the //Set up Windows Hello// screen you can ''Use your fingerprint'' as a method to unlock your computer or ''Skip for now'' if you dont want to set it up
+
+Next you will be prompted to //Create a PIN//, the PIN is simply the password you will use to log into the computer. Click ''Next'' and verify your identity with an SMS again when prompted
+
+Then when prompted  ''Check the box'' to //Include letters and symbols// and enter your preferred PIN
+
+Once it says you are //All Set// click ''OK'' to be taken to the desktop!
 
 <<button [[Next|Windows Slack]]>><</button>>
