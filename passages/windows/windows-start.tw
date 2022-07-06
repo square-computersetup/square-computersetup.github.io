@@ -17,20 +17,24 @@ Connect your device to a wireless network (either your home wifi or the Block of
 
 When asked if your device should be discoverable on the network, select ''No''
 
+[img[images/windows/win-network.png]]
+
 After connecting to your network the computer may restart. Once it comes back, it's time to log in with your Block Microsoft account
 
 You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address and click ''Next''
 
-<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT<<else>>You will then need to enter your Microsoft account password<</if>>
-
+[img[images/windows/win-welcome.png]]
+<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT
+<<else>>You will then need to enter your Microsoft account password
+<</if>>
 <<if $firstLaptop is true>>
 You will need to set a phone number to recieve your verification SMS
 
-[img[]]
+[img[images/windows/win-protect.png]]
 
 You will also be asked to set a new permament password for your Microsoft account
 
-[img[]]
+[img[images/windows/win-password-new.png]]
 
 You may also be prompted to ''Accept'' the //Terms and Conditions//
 <<else>>
@@ -39,6 +43,8 @@ You will need enter the verification code that will be sent to you via SMS, or c
 Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
 
 Once the setup gets to //Device Setup//, a ''Continue Anyway'' button will appear on the lower right of the screen. Lets click ''Continue Anyway'' instead of waiting for the setup to finish
+
+[img[images/windows/win-setup.png]]
 
 Next you will be presented with a login screen, once again enter your Block email address and Microsoft account password
 
@@ -49,6 +55,8 @@ On the //Set up Windows Hello// screen you can ''Use your fingerprint'' as a met
 Next you will be prompted to //Create a PIN//, the PIN is simply the password you will use to log into the computer. Click ''Next'' and verify your identity with an SMS again when prompted
 
 Then when prompted  ''Check the box'' to //Include letters and symbols// and enter your preferred PIN
+
+[img[images/windows/win-pin.jpeg]]
 
 Once it says you are //All Set// click ''OK'' to be taken to the desktop!
 
