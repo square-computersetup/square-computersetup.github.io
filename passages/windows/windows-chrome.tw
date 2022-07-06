@@ -1,9 +1,21 @@
 :: Windows Chrome
 !Chrome
 
-Now let's open Chrome. The icon will be on your Windows Desktop
+Before we start using Chrome, lets set is as the default browser in Windows
 
 >After getting to the Windows desktop the laptop may still be installing some applications, so if you dont see Chrome yet wait a few minutes and try again
+
+Using the search bar in the bottom left corner, search for ''default browser'' and select the search result ''Choose a default web broswer''
+
+[img[images/windows/win-default-search.png]]
+
+At the bottom of the window that opens click ''Microsoft Edge'' then select ''Google Chrome'', when asked to try Edge choose ''Switch Anyway''
+
+[img[images/windows/win-default-change.png]]
+
+Now let's open Chrome. The icon will be on your Windows Desktop
+
+[img[images/windows/win-default-switch.png]]
 
 <<include [[Chrome Browser]]>>
 
