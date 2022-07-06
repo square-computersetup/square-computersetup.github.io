@@ -1,4 +1,3 @@
 #!/bin/bash
 ./tweego -t -o debug.html -m scripts fonts passages styles && echo "debug.html: Build success" || echo "index.html: Build failed"
 ./tweego -o index.html -m scripts fonts passages styles && echo "index.html: Build success" || echo "debug.html: Build failed"
-open ./debug.html

@@ -456,7 +456,7 @@ If things worked properly, you should see our //Resource Center//. This is a gre
 
 Now that you have go/ links working, let&#39;s move to the next step
 
-&lt;&lt;if $os is &quot;macos&quot;&gt;&gt;&lt;&lt;button [[Next|Mac Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;elseif $os is &quot;windows&quot;&gt;&gt;&lt;&lt;button [[Next|DAS]]&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;elseif $os is &quot;chromeos&quot;&gt;&gt;&lt;&lt;button [[Next|Chrome Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt;&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="16" name="Help Selection" tags="" position="725,225" size="100,100">!Get Help
+&lt;&lt;if $os is &quot;macos&quot;&gt;&gt;&lt;&lt;button [[Next|Mac Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;elseif $os is &quot;windows&quot;&gt;&gt;&lt;&lt;button [[Next|Windows Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt; &lt;&lt;elseif $os is &quot;chromeos&quot;&gt;&gt;&lt;&lt;button [[Next|Chrome Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt;&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="16" name="Help Selection" tags="" position="725,225" size="100,100">!Get Help
 
 So we can get you the best Help, is this your first Block laptop?
 
@@ -606,7 +606,11 @@ You will get a notification in the top right of your screen to allow Chrome to s
 
 &lt;&lt;include [[Chrome Browser]]&gt;&gt;
 
-&lt;&lt;button [[Next|Go Links]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="31" name="TouchID Light Dark Desktop" tags="" position="100,475" size="100,100">You will be prompted to set up &#39;&#39;Touch ID&#39;&#39; (optional). This allows you to quickly unlock your laptop without entering your Laptop password.
+&lt;&lt;button [[Next|Go Links]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="31" name="TouchID Light Dark Desktop" tags="" position="100,475" size="100,100">You will be prompted to enable //Location Services//, &#39;&#39;check the box&#39;&#39; to enable macOS to set your time zone automatically
+
+[img[images/mac/mac-location-services.png]]
+
+You will be prompted to set up &#39;&#39;Touch ID&#39;&#39; (optional). This allows you to quickly unlock your laptop without entering your Laptop password.
 
 &gt;Please note that you will be asked for your Laptop Password periodically even if you have Touch ID setup (just like an iPhone), so don&#39;t forget it!
 
@@ -895,52 +899,101 @@ Next, you may see one of two different screens. Please click the button below th
 
 &lt;&lt;button [[Next|Finish]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="44" name="Windows Chrome" tags="" position="475,600" size="100,100">!Chrome
 
+Before we start using Chrome, lets set is as the default browser in Windows
+
+&gt;After getting to the Windows desktop the laptop may still be installing some applications, so if you dont see Chrome yet wait a few minutes and try again
+
+Using the search bar in the bottom left corner, search for &#39;&#39;default browser&#39;&#39; and select the search result &#39;&#39;Choose a default web broswer&#39;&#39;
+
+[img[images/windows/win-default-search.png]]
+
+At the bottom of the window that opens click &#39;&#39;Microsoft Edge&#39;&#39; then select &#39;&#39;Google Chrome&#39;&#39;, when asked to try Edge choose &#39;&#39;Switch Anyway&#39;&#39;
+
+[img[images/windows/win-default-change.png]]
+
+Now let&#39;s open Chrome. The icon will be on your Windows Desktop
+
+[img[images/windows/win-default-switch.png]]
+
+&lt;&lt;include [[Chrome Browser]]&gt;&gt;
+
 &lt;&lt;button [[Next|Go Links]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="45" name="Windows Druva" tags="" position="600,600" size="100,100">!Druva
 
 &lt;&lt;button [[Next|YubiKey]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="46" name="Windows Network Certificates" tags="" position="725,600" size="100,100">!Network Certificates
 
 &lt;&lt;button [[Next|Windows Druva]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="47" name="Windows Slack" tags="" position="850,600" size="100,100">!Slack
 
-&lt;&lt;button [[Next|Windows Chrome]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="48" name="Windows Start" tags="" position="975,600" size="100,100">!Windows Setup
+&lt;&lt;include [[Slack Intro]]&gt;&gt;
+
+&gt;After getting to the Windows desktop the laptop may still be installing some applications, so if you dont see Slack yet wait a few minutes and try again
+
+First let&#39;s open the Slack app by searching using Windows Search (the magnifying glass in the bottom left corner)
+
+[img[images/windows/win-slack-search.png]]
+
+Now click Sign in with Slack and a Chrome window will open up
+
+&lt;&lt;include [[Slack Sign In]]&gt;&gt;
+
+&lt;&lt;button [[Next|DAS]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="48" name="Windows Start" tags="" position="975,600" size="100,100">!Windows Setup
 
 &gt;Before continuing, you will need to have been provisioned a Microsoft account by IT. If you haven&#39;t got the details for this &lt;&lt;if $cash is true&gt;&gt;[[Get Help|Cash Help]]&lt;&lt;else&gt;&gt;[[Get Help|Mission Control Help]]&lt;&lt;/if&gt;&gt;
 
 &lt;&lt;button [[I have my account details|Windows Start 2]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="49" name="Windows Start 2" tags="" position="1100,600" size="100,100">First turn on your new laptop with the power button.
 
-Once it starts up you will eventually get to a screen that asks you to connect to a wireless network. Choose either your home wifi network or the Block office guest netowrk and enter the password.
+Once it starts up you will eventually get to a screen that asks you to select your country.
 
-If asked if you want your device to be discoverable on the network, choose &#39;&#39;No&#39;&#39; then click &#39;&#39;Next&#39;&#39;
+Then you will need to choose your keyboard layout.
 
-[img[]]
+Connect your device to a wireless network (either your home wifi or the Block office wifi) with internet access
+
+When asked if your device should be discoverable on the network, select &#39;&#39;No&#39;&#39;
+
+[img[images/windows/win-network.png]]
 
 After connecting to your network the computer may restart. Once it comes back, it&#39;s time to log in with your Block Microsoft account
 
-You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address
+You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address and click &#39;&#39;Next&#39;&#39;
 
-[img[]]
-
-&lt;&lt;if $firstLaptop is true&gt;&gt;You will need to enter your temporary Microsoft account password provided by Block IT&lt;&lt;else&gt;&gt;You will need to enter your Microsoft account password&lt;&lt;/if&gt;&gt;
-
-[img[]]
+[img[images/windows/win-welcome.png]]
 &lt;&lt;if $firstLaptop is true&gt;&gt;
+You then will need to enter your temporary Microsoft account password provided by Block IT
+&lt;&lt;else&gt;&gt;
+You will then need to enter your Microsoft account password
+&lt;&lt;/if&gt;&gt;&lt;&lt;if $firstLaptop is true&gt;&gt;
 You will need to set a phone number to recieve your verification SMS
 
-[img[]]
+[img[images/windows/win-protect.png]]
 
-You will also be asked to set a new password for your Microsoft account
+You will also be asked to set a new permament password for your Microsoft account
 
-[img[]]
+[img[images/windows/win-password-new.png]]
+
+You may also be prompted to &#39;&#39;Accept&#39;&#39; the //Terms and Conditions//
 &lt;&lt;else&gt;&gt;
-You will need to put in your password and enter the verification code that will be sent via SMS
+You will need enter the verification code that will be sent to you via SMS, or choose to recieve a phone call with a verification code
 &lt;&lt;/if&gt;&gt;
-After logging in, you will need to &#39;&#39;Accept&#39;&#39; some //Terms and Conditions//. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
+Your computer will continue setting up and may restart again. Eventually, you will see a screen that says //Setting up your Device for Work//
 
 Once the setup gets to //Device Setup//, a &#39;&#39;Continue Anyway&#39;&#39; button will appear on the lower right of the screen. Lets click &#39;&#39;Continue Anyway&#39;&#39; instead of waiting for the setup to finish
 
+[img[images/windows/win-setup.png]]
 
-&lt;&lt;button [[Next|Windows Slack]]&gt;&gt;&lt;&lt;/button&gt;&gt;
+Next you will be presented with a login screen, once again enter your Block email address and Microsoft account password
 
-sd</tw-passagedata><tw-passagedata pid="50" name="Windows Tips" tags="" position="1225,600" size="100,100">!Windows Tips
+After logging in you will once again see the //Setting up your Device for work// screen, you can again click &#39;&#39;Continue Anyway&#39;&#39;
+
+On the //Set up Windows Hello// screen you can &#39;&#39;Use your fingerprint&#39;&#39; as a method to unlock your computer or &#39;&#39;Skip for now&#39;&#39; if you dont want to set it up
+
+Next you will be prompted to //Create a PIN//, the PIN is simply the password you will use to log into the computer. Click &#39;&#39;Next&#39;&#39; and verify your identity with an SMS again when prompted
+
+Then when prompted  &#39;&#39;Check the box&#39;&#39; to //Include letters and symbols// and enter your preferred PIN
+
+[img[images/windows/win-pin.jpeg]]
+
+Once it says you are //All Set// click &#39;&#39;OK&#39;&#39; to be taken to the desktop!
+
+&lt;&lt;button [[Next|Windows Chrome]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="50" name="Windows Tips" tags="" position="1225,600" size="100,100">!Windows Tips
 
 &lt;&lt;button [[Next|Finish]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata></tw-storydata>
 	<script id="script-sugarcube" type="text/javascript">

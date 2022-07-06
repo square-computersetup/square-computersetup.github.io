@@ -24,10 +24,11 @@ After connecting to your network the computer may restart. Once it comes back, i
 You will see a Welcome to Block, Inc. screen where you will need to put in your Block email address and click ''Next''
 
 [img[images/windows/win-welcome.png]]
-<<if $firstLaptop is true>>You will need to enter your temporary Microsoft account password provided by Block IT
-<<else>>You will then need to enter your Microsoft account password
-<</if>>
 <<if $firstLaptop is true>>
+You then will need to enter your temporary Microsoft account password provided by Block IT
+<<else>>
+You will then need to enter your Microsoft account password
+<</if>><<if $firstLaptop is true>>
 You will need to set a phone number to recieve your verification SMS
 
 [img[images/windows/win-protect.png]]
