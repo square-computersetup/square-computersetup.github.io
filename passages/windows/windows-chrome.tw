@@ -1,4 +1,10 @@
 :: Windows Chrome
 !Chrome
 
+Now let's open Chrome. The icon will be on your Windows Desktop
+
+>After getting to the Windows desktop the laptop may still be installing some applications, so if you dont see Chrome yet wait a few minutes and try again
+
+<<include [[Chrome Browser]]>>
+
 <<button [[Next|Go Links]]>><</button>>

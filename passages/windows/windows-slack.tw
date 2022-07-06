@@ -1,4 +1,16 @@
 :: Windows Slack
 !Slack
 
-<<button [[Next|Windows Chrome]]>><</button>>
+<<include [[Slack Intro]]>>
+
+>After getting to the Windows desktop the laptop may still be installing some applications, so if you dont see Slack yet wait a few minutes and try again
+
+First let's open the Slack app by searching using Windows Search (the magnifying glass in the bottom left corner)
+
+[img[images/windows/win-slack-search.png]]
+
+Now click Sign in with Slack and a Chrome window will open up
+
+<<include [[Slack Sign In]]>>
+
+<<button [[Next|DAS]]>><</button>>
