@@ -17,4 +17,4 @@ If you need to setup a YubiKey for the first time, see the guide at ''go/yubikey
 <</if>>
 >If you dont have a YubiKey, file a <<if $cash is true>>go/$it<<else>>go/IT<</if>> ticket
 
-<<if $os is "macos">><<button [[Next|Mac Tips]]>><</button>> <<elseif $os is "windows">><<button [[Next|Windows Tips]]>><</button>> <<elseif $os is "chromeos">><<button [[Next|Chrome Tips]]>><</button>><</if>>
+<<button [[Next|Finish]]>><</button>>
