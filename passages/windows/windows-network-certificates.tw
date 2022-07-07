@@ -1,4 +1,46 @@
 :: Windows Network Certificates
 !Network Certificates
 
+<<include [[Network Certificates]]>>
+
+Search for Pulse Secure using Windows search in the bottom left of the desktop
+
+[img[images/windows/win-vpn-search.png]]
+
+Click ''Connect'' next to //Onboard//; when prompted, your username and password is your Block username and password
+
+[img[]]
+
+If successful, open the Chrome browser and go to ''go/vpnsetup''
+
+Once the page loads, again enter your username and Block password and click ''Let's Go!''
+
+<div class="small-image">[img[images/common/chrome-vpn-login.jpeg]]</div>
+
+>If this page does not appear after a minute, reload the page
+
+Click to ''Download QuickConnect'' software
+
+[img[images/windows/win-vpn-download.png]]
+
+Open the ''ArubaQuickConnect.exe'' software, making sure to click ''Yes'' when prompted to allow the application to make changes to the computer
+
+Click ''Next'' in the app and allow it to install; you may get some security warnings, on which you can click ''Yes''
+
+[img[images/windows/win-vpn-quickconnect.png]]
+
+<div class="small-image">[img[images/windows/win-vpn-security.png]]</div>
+
+Once it's done, click ''Finish''
+
+Now re-open ''Pulse Secure'' again, and ''Disconnect'' from the //Onboard VPN// and click ''Connect'' on the //Square VPN AWS//. 
+
+>If you dont see the Square AWS VPN, you may need to wait 10-15 minutes for it to show up
+
+[img[]]
+
+Next, enter just your Block password for a Secondary Credential (the username will be disabled)
+
+[img[images/windows/win-vpn-secondary.png]]
+
 <<button [[Next|Windows Druva]]>><</button>>

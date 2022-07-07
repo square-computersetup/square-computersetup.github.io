@@ -1,0 +1,6 @@
+:: Network Certificates
+Now lets get the Block network certificates onto your laptop. These certificates will allow you to connect to the Wifi in many Block offices as well as the Block VPN.
+
+>The Block VPN is generally only used by Software Engineers, and most Block workers (including Customer Service) will not need to connect to the VPN
+
+To set this up we are going to connect to a special onboarding VPN and install a certificate.

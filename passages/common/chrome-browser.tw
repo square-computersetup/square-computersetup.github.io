@@ -6,7 +6,7 @@ Click on the text ''Already a Chrome user? Sign In'' on the //Make Chrome your o
 
 [img[images/common/chrome-signin.png]]
 
-<<include [[Duo Login]]>>
+<<if $os is "windows" && $firstLaptop is true>><<include [[Duo New]]>><<else>><<include [[Duo Login]]>><</if>>
 
 Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small ''X'' to decline this action
 

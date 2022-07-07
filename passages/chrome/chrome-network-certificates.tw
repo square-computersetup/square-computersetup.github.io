@@ -1,11 +1,7 @@
 :: Chrome Network Certificates
 !Network Certificates
 
-Now lets get the Block network certificates onto your laptop. These certificates will allow you to connect to the Wifi in many Block offices as well as the Block VPN.
-
->The Block VPN is generally only used by Software Engineers, and most Block workers (including Customer Service) will not need to connect to the VPN
-
-To set this up we are going to connect to a special onboarding VPN and install a certificate.
+<<include [[Network Certificates]]>>
 
 Start by clicking on the clock in the bottom-right corner of your desktop to open the control panel, then click on the VPN icon
 
@@ -21,7 +17,7 @@ If successful, open the Chrome browser and go to ''go/vpnsetup''
 
 Once the page loads, again enter your username and Block password and click ''Let's Go!''
 
-<div class="small-image">[img[images/chrome/chrome-vpn-login.jpeg]]</div>
+<div class="small-image">[img[images/common/chrome-vpn-login.jpeg]]</div>
 
 >If this page does not appear after a minute, reload the page
 
