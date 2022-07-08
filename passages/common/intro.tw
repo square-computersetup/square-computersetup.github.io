@@ -13,9 +13,11 @@ Before you get started there is just a few questions you need to answer, click '
 !Your laptop
 What type of Laptop are you setting up?
 
-> Acer or HP laptops are usually Chromebooks
+>Acer or HP laptops are usually Chromebooks
 
 <<button [[Macbook|First Laptop]]>><<set $os to "macos">><</button>> <<button [[Windows|First Laptop]]>><<set $os to "windows">><</button>> <<button [[Chromebook|First Laptop]]>><<set $os to "chromeos">><</button>>
+
+<<button [[I haven't got a laptop yet|No Laptop]]>><<set $os to "none">><<set $firstLaptop to true>><</button>>
 
 :: First Laptop
 !Your laptop
@@ -28,9 +30,9 @@ If you are just starting to work at Block, you will want to select Yes
 :: Cash
 !Cash
 <<if $firstLaptop is true>>
-    Are you joining Cash?
+Are you joining Cash?
 <<else>>
-    Are you in Cash?
+Are you in Cash?
 <</if>>
 <<button [[Yes|Get Started]]>><<set $cash to true>><<addclass "body" "cash">><</button>> <<button [[No|Get Started]]>><<set $cash to false>><</button>>
 

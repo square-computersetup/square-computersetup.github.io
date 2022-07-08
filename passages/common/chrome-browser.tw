@@ -6,6 +6,11 @@ Click on the text ''Already a Chrome user? Sign In'' on the //Make Chrome your o
 
 [img[images/common/chrome-signin.png]]
 
+<<include [[Browser Sync]]>>
+
+<<include [[Browser Extensions]]>>
+
+:: Browser Sync
 <<if $os is "windows" && $firstLaptop is true>><<include [[Duo New]]>><<else>><<include [[Duo Login]]>><</if>>
 
 Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small ''X'' to decline this action
@@ -19,8 +24,6 @@ When prompted to sync your browser with Block's Google services, click on Link D
 Click on Yes I'm in to confirm a sync with Block's Google services
 
 [img[images/common/chrome-sync.png]]
-
-<<include [[Browser Extensions]]>>
 
 :: Browser Extensions
 Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.

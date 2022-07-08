@@ -1,0 +1,69 @@
+:: No Laptop
+!Cash
+
+Are you joining Cash?
+
+<<button [[Yes|No Laptop Getting Started]]>><<set $cash to true>><<addclass "body" "cash">><</button>> <<button [[No|No Laptop Getting Started]]>><<set $cash to false>><</button>>
+
+:: No Laptop Getting Started
+!Personal Device Setup
+
+Sorry we couldn't get your laptop to you in time, what we will do for the time being is help you get set up on your personal laptop until your Block laptop arrives
+
+Before we get started you will need to do the following:
+
+*Install Google Chrome on your laptop from [[https://www.google.com/chrome/]] if you dont have it installed already
+*Download the <<nobr>><span class="inline-icon">[img[images/common/duo-icon.png]]</span><</nobr>> ''Duo Mobile'' app onto your phone, we will use this to set up your Multi-Factor Authentication
+
+<<button [[Next|No Laptop Chrome]]>><</button>>
+
+:: No Laptop Chrome
+!Google Chrome
+
+We are going to log into a profile in Google Chrome, to keep it separate from any personal information you may have
+
+Open Chrome and click the ''Profile Icon'' in the top right
+
+<div class="small-image">[img[images/common/nolaptop-chrome-profile.png]]</div>
+
+Select ''+ Add'' on in the profiles menu
+
+<div class="small-image">[img[images/common/nolaptop-chrome-add.png]]</div>
+
+On the next screen select ''Sign in'' and when prompted to //Sign in to Chrome// enter your full Block email address and click ''Next''
+
+<<include [[Duo New]]>>
+
+<<include [[Browser Sync]]>>
+
+<<include [[Browser Extensions]]>>
+
+<<button [[Next|Go Links]]>><</button>>
+
+:: No Laptop Slack
+!Slack
+
+Visit ''square.enterprise.slack.com'' in Chrome
+
+Click on Sign in with Duo Access Gateway which should redirect you to Duo SSO where you can sign in with your Block username and Password
+
+[img[images/chrome/chrome-slack-signin.jpeg]]
+
+Next you will be asked which Workspace to join out of ''Square'', ''Cash App'', ''TIDAL'' or ''Verse''. Choose the one that best fits your role; you can join any of the other Workspaces later
+
+Click ''Launch in Slack'' for the Workspace of your choice.
+
+[img[images/common/slack-workspace-select.png]]
+
+<<button [[Next|No Laptop Finished]]>><</button>>
+
+:: No Laptop Finished
+!Whats Next?
+
+When you recieve your laptop, please return to this site and start again from the beginning
+
+If today is your first day, and you are unsure what to do now, you may want to message your lead on Slack or check your calendar at go/calendar to see what you should do next
+
+>Once your Block laptop is set up, we recommend removing your Block Chrome profile from your personal laptop
+
+<<button [[Start Again|Start]]>><</button>>
