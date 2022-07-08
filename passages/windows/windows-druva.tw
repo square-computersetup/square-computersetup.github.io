@@ -1,4 +1,40 @@
 :: Windows Druva
 !Druva
 
+We use ''Druva'' to continuously backup your MacBook to the cloud, just to be safe. Let's check to see if it is activated now
+
+Start by clicking on the Druva inSync icon on the desktop
+
+Make sure Backup Cloud is set to ''inSync Cloud'' and enter your full email address and click ''Continue''
+
+[img[images/common/druva-login.jpeg]]
+
+Chrome will launch and open to ''cloud.druva.com''. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so)
+
+When the //Open InSync?// pop-up appears, click ''Open InSync''
+
+[img[images/common/druva-chrome.jpeg]]
+
+The Druva window will come back to the foreground. ''DON'T click any buttons'' until it finishes logging you in
+
+[img[images/common/druva-waiting.jpeg]]
+
+>If you accidently click Close, you will need to start from the top of this page again
+<<if $firstLaptop is false>>
+When prompted click ''Replace an Existing Device''
+
+You will have the option to restore your previous backup to the new laptop
+
+Click ''Restore Now'' if you want to restore the backup, or ''Maybe Later'' if you want to start fresh
+
+>If you choose ''Maybe Later'' you can [[skip to the the next step|YubiKey]]
+
+[img[images/common/druva-replace.png]]
+
+Using the checkboxes, select whether to restore just your data (recommended) or data plus settings. Then click ''Restore''.
+
+[img[images/common/druva-restore.png]]
+<</if>>
+You may close the Druva window and Druva will continue in the background
+
 <<button [[Next|YubiKey]]>><</button>>
