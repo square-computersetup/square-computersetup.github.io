@@ -18,5 +18,34 @@ So we can get you the best Help, is this your first Block laptop?
 :: Cash Help
 !Cash IT Help
 
+>Are you stuck or need some help? Cash IT is here to help!
+<<if $firstLaptop is true>>
+!!IT Onboarding
+If today is your first day you should have recieved an invitation to an ''Cash IT Office Hours'' to your personal email address, please join this session an a member of Cash IT will be ready to assist. 
+
+If you missed this you can use one of the methods below:
+<</if>>
+!! File a Ticket
+File an IT Ticket at ''go/"""$IT"""''
+
+!!Email
+Email ''cash-it-help@squareup.com'' to open a ticket
+
+!!Slack
+Join our Slack channel at ''#cash-it''
+
 :: Mission Control Help
-!Mission Control Help
+!Mission Control (IT) Help
+
+>Are you stuck or need some help? Mission Control (IT Support) is here to help!
+<<if $firstLaptop is true>>
+!!IT Onboarding
+If today is your first day you should have recieved an invitation to an ''IT Onboarding'' to your personal email address, please join this session an a member of IT support will be ready to assist. 
+
+If you missed this you can use one of the methods below:
+<</if>>
+!! File a Ticket
+File an IT Ticket at ''go/IT''
+
+!!Email
+Email ''mission-control@squareup.com'' to open a ticket
