@@ -12,8 +12,6 @@ Some examples include:
 To start using them, first we need to do a quick setup
 <<else>>
 Lets setup go/ links on your new laptop
-
-<iframe src="https://drive.google.com/file/d/1tEBqTyJ5JzBhKJi9X2tNR_0384lnT247/preview" width="640" height="480" allow="autoplay"></iframe>
 <</if>>
 In the address bar at the top of Chrome, type in ''go/go'' but do ''NOT'' press enter on your keyboard. You'll notice that you have two auto-complete suggestions from the web browser. Using the cursor, click on the option that does ''NOT'' say “Google Search”. 
 
