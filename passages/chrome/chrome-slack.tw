@@ -3,7 +3,7 @@
 
 <<include [[Slack Intro]]>>
 
-Visit ''square.enterprise.slack.com'' in the browser
+Visit ''square.enterprise.slack.com'' in Chrome
 
 Click on Sign in with Duo Access Gateway which should redirect you to Duo SSO where you can sign in with your Block username and Password
 

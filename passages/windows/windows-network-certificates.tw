@@ -9,7 +9,7 @@ Search for Pulse Secure using Windows search in the bottom left of the desktop
 
 Click ''Connect'' next to //Onboard//; when prompted, your username and password is your Block username and password
 
-[img[]]
+[img[images/windows/windows-pulse-connect.png]]
 
 If successful, open the Chrome browser and go to ''go/vpnsetup''
 
@@ -37,7 +37,7 @@ Now re-open ''Pulse Secure'' again, and ''Disconnect'' from the //Onboard VPN// 
 
 >If you dont see the Square AWS VPN, you may need to wait 10-15 minutes for it to show up
 
-[img[]]
+[img[images/windows/windows-pulse-disconnect.png]]
 
 Next, enter just your Block password for a Secondary Credential (the username will be disabled)
 
