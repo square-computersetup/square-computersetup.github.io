@@ -275,7 +275,7 @@ If all goes according to plan, you have now confirmed that you have provisioned 
 
 &lt;&lt;include [[Slack Intro]]&gt;&gt;
 
-Visit &#39;&#39;square.enterprise.slack.com&#39;&#39; in the browser
+Visit &#39;&#39;square.enterprise.slack.com&#39;&#39; in Chrome
 
 Click on Sign in with Duo Access Gateway which should redirect you to Duo SSO where you can sign in with your Block username and Password
 
@@ -331,25 +331,36 @@ When you see the //Ready!// display, you can click &#39;&#39;Get Started&#39;&#3
 
 &lt;&lt;button [[Next|ChromeOS Browser]]&gt;&gt;&lt;&lt;/button&gt;&gt;</tw-passagedata><tw-passagedata pid="5" name="Chrome Browser" tags="" position="600,100" size="100,100">Next, we will sign-in to Google Chrome to link it to Block&#39;s Google Workplace
 
-Click on the text &#39;&#39;Already a Chrome user? Sign In&#39;&#39; on the //Make Chrome your own// page
+Click on the &#39;&#39;Profiles&#39;&#39; button in the top right corner and then click &#39;&#39;Turn on Sync&#39;&#39;
 
-[img[images/common/chrome-signin.png]]
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-enable-sync.png]]&lt;/div&gt;
+
+Enter your full Block email address in the &#39;&#39;Sign in to Chrome&#39;&#39; page and click &#39;&#39;Next&#39;&#39;
+
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-sign-in.png]]&lt;/div&gt;
+
+&lt;&lt;if $os is &quot;windows&quot; &amp;&amp; $firstLaptop is true&gt;&gt;&lt;&lt;include [[Duo New]]&gt;&gt;&lt;&lt;else&gt;&gt;&lt;&lt;include [[Duo Login]]&gt;&gt;&lt;&lt;/if&gt;&gt;
 
 &lt;&lt;include [[Browser Sync]]&gt;&gt;
 
-&lt;&lt;include [[Browser Extensions]]&gt;&gt;</tw-passagedata><tw-passagedata pid="6" name="Browser Sync" tags="" position="725,100" size="100,100">&lt;&lt;if $os is &quot;windows&quot; &amp;&amp; $firstLaptop is true&gt;&gt;&lt;&lt;include [[Duo New]]&gt;&gt;&lt;&lt;else&gt;&gt;&lt;&lt;include [[Duo Login]]&gt;&gt;&lt;&lt;/if&gt;&gt;
+Next we want to confirm //Sync is on//. Click the &#39;&#39;Profiles&#39;&#39; icon and look for the green icon that says &#39;&#39;Sync is on&#39;&#39;
 
-Chrome will ask if you&#39;d like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small &#39;&#39;X&#39;&#39; to decline this action
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-sync-is-on.png]]&lt;/div&gt;
 
-[img[images/common/chrome-password.png]]
+&gt;If you see a Person 1 Profile under Other Profiles (highlighted in blue above), click the &#39;&#39;Settings Cog&#39;&#39; and on the popup, click the three vertical dot menu next to Person 1 and &#39;&#39;Delete&#39;&#39;
+&gt;&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-delete-profile.png]]&lt;/div&gt;
 
-When prompted to sync your browser with Block&#39;s Google services, click on Link Data
+&lt;&lt;include [[Browser Extensions]]&gt;&gt;</tw-passagedata><tw-passagedata pid="6" name="Browser Sync" tags="" position="725,100" size="100,100">You may be asked to //Verify it&#39;s you//, click &#39;&#39;Continue&#39;&#39; on this screen after confirming it shows your Block email address
 
-[img[images/common/chrome-link.png]]
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-verify.png]]&lt;/div&gt;
+
+You may see a //Welcome to your new profile// screen, on which you can click &#39;&#39;Continue&#39;&#39;
+
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-profile-welcome.png]]&lt;/div&gt;
 
 Click on Yes I&#39;m in to confirm a sync with Block&#39;s Google services
 
-[img[images/common/chrome-sync.png]]</tw-passagedata><tw-passagedata pid="7" name="Browser Extensions" tags="" position="850,100" size="100,100">Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.
+&lt;div class=&quot;small-image&quot;&gt;[img[images/common/chrome-sync.png]]&lt;/div&gt;</tw-passagedata><tw-passagedata pid="7" name="Browser Extensions" tags="" position="850,100" size="100,100">Within a minute, you will see some mandatory Chrome extensions installed in the puzzle icon in the top-right corner of Google Chrome.
 
 &gt;If they dont appear within a minute or so, type //&quot;&quot;&quot;chrome://restart&quot;&quot;&quot;// into the address bar, press return and check again
 
@@ -411,7 +422,7 @@ Click &#39;&#39;Start Setup&#39;&#39; and go through the process of setting up y
 *Click on &#39;&#39;Send Me a Push&#39;&#39;
 *Tap &#39;&#39;Approve&#39;&#39; on the notification sent to your phone
 
-[img[images/common/duo-push.jpeg]]</tw-passagedata><tw-passagedata pid="13" name="Duo Login" tags="" position="350,225" size="100,100">Enter your //username// (without the @squareup.com) and password and click &#39;&#39;Login&#39;&#39;
+[img[images/common/duo-push.png]]</tw-passagedata><tw-passagedata pid="13" name="Duo Login" tags="" position="350,225" size="100,100">Enter your //username// (without the @squareup.com) and password and click &#39;&#39;Login&#39;&#39;
 
 [img[images/common/duo-login.jpeg]]</tw-passagedata><tw-passagedata pid="14" name="Finish" tags="" position="475,225" size="100,100">!&quot;&quot;&quot;All Done!&quot;&quot;&quot;
 
@@ -673,21 +684,13 @@ Type in &#39;&#39;Chrome&#39;&#39; and then click on the top hit, which is the a
 
 [img[images/mac/mac-chrome-spotlight.png]]
 
-Click &#39;&#39;Allow&#39;&#39; if you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected
+Upon opening Chrome for the first time you will get a notification in the top right corner of your screen for //Google Chrome Helper Alerts//. Click on the notification and then &#39;&#39;turn on Allow Notification&#39;&#39;
 
-&lt;div class=&quot;small-image&quot;&gt;[img[images/mac/mac-chrome-firewall.png]]&lt;/div&gt;
+&lt;div class=&quot;small-image&quot;&gt;[img[images/mac/mac-chrome-notification-allow.png]]&lt;/div&gt;
 
-On the //Welcome to Google Chrome// screen, click &#39;&#39;Start Google Chrome&#39;&#39;
+[img[images/mac/mac-chrome-allow-notifications.png]]
 
-[img[images/mac/mac-chrome-welcome.png]]
-
-Click on &#39;&#39;Use Chrome&#39;&#39; to set the default web browser
-
-&lt;div class=&quot;small-image&quot;&gt;[img[images/mac/mac-chrome-default.png]]&lt;/div&gt;
-
-You will get a notification in the top right of your screen to allow Chrome to send you notifications, click &#39;&#39;Allow&#39;&#39;
-
-&lt;div class=&quot;small-image&quot;&gt;[img[images/mac/mac-chrome-notification.png]]&lt;/div&gt;
+You can then close the //Notifications// screen and go back to Google Chrome
 
 &lt;&lt;include [[Chrome Browser]]&gt;&gt;
 
@@ -937,6 +940,8 @@ First let&#39;s open the Slack app by again searching using &#39;&#39;Spotlight&
 
 [img[images/mac/mac-spotlight.png]]
 
+&gt;Slack will be installed automatically, there is no need to download it from the App Store
+
 &#39;&#39;Allow&#39;&#39; Slack access to your Downloads folder when asked
 
 &lt;div class=&quot;small-image&quot;&gt;[img[images/mac/mac-slack-downloads.png]]&lt;/div&gt;
@@ -1045,7 +1050,7 @@ Search for Pulse Secure using Windows search in the bottom left of the desktop
 
 Click &#39;&#39;Connect&#39;&#39; next to //Onboard//; when prompted, your username and password is your Block username and password
 
-[img[]]
+[img[images/windows/windows-pulse-connect.png]]
 
 If successful, open the Chrome browser and go to &#39;&#39;go/vpnsetup&#39;&#39;
 
@@ -1073,7 +1078,7 @@ Now re-open &#39;&#39;Pulse Secure&#39;&#39; again, and &#39;&#39;Disconnect&#39
 
 &gt;If you dont see the Square AWS VPN, you may need to wait 10-15 minutes for it to show up
 
-[img[]]
+[img[images/windows/windows-pulse-disconnect.png]]
 
 Next, enter just your Block password for a Secondary Credential (the username will be disabled)
 

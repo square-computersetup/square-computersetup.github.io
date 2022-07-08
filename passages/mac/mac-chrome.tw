@@ -12,21 +12,13 @@ Type in ''Chrome'' and then click on the top hit, which is the application itsel
 
 [img[images/mac/mac-chrome-spotlight.png]]
 
-Click ''Allow'' if you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected
+Upon opening Chrome for the first time you will get a notification in the top right corner of your screen for //Google Chrome Helper Alerts//. Click on the notification and then ''turn on Allow Notification'' 
 
-<div class="small-image">[img[images/mac/mac-chrome-firewall.png]]</div>
+<div class="small-image">[img[images/mac/mac-chrome-notification-allow.png]]</div>
 
-On the //Welcome to Google Chrome// screen, click ''Start Google Chrome''
+[img[images/mac/mac-chrome-allow-notifications.png]]
 
-[img[images/mac/mac-chrome-welcome.png]]
-
-Click on ''Use Chrome'' to set the default web browser
-
-<div class="small-image">[img[images/mac/mac-chrome-default.png]]</div>
-
-You will get a notification in the top right of your screen to allow Chrome to send you notifications, click ''Allow''
-
-<div class="small-image">[img[images/mac/mac-chrome-notification.png]]</div>
+You can then close the //Notifications// screen and go back to Google Chrome
 
 <<include [[Chrome Browser]]>>
 
