@@ -14,7 +14,7 @@ Virtual Private Network (VPN) is a tunnel that creates a private connection betw
 
 Start by clicking on the clock in the bottom-right corner of your desktop to open the control panel, then click on the __VPN__ icon:
 
-{% include figure url="/assets/images/chrome-05-vpn.jpg" image_path="/assets/images/chrome-05-vpn.jpg" %}
+{% include figure url="/assets/images/chrome-05-vpn.jpg" image_path="/assets/images/chrome-05-vpn.png" %}
 
 From the network list under __Pulse Secure__, click on __Square Remote Onboard__
 
@@ -41,7 +41,7 @@ Click the large __Square WiFi Profile__ button, and then click __OK__ in the pop
 
 After a few minutes, you will see a success message that says __Device Provisioning Complete__. Click on the clock and go to the VPN icon in the control panel. 
 
-{% include figure url="/assets/images/chrome-06-vpn.jpg" image_path="/assets/images/chrome-06-vpn.jpg" %}
+{% include figure url="/assets/images/chrome-06-vpn.jpg" image_path="/assets/images/chrome-06-vpn.png" %}
 
 Click on the __Disconnect__ button. Now to test that your provisioning works on an _actual_ VPN and not just the special onboarding VPN, select the __Square East Coast VPN__ (or any other).
 
@@ -53,7 +53,7 @@ You will be prompted to select the certificate to use to authenticate -- as you 
 
 Next, enter just your password for a __Secondary Credential__ (the username will be disabled).
 
-{% include figure url="/assets/images/chrome-07-vpn.jpg" image_path="/assets/images/chrome-07-vpn.jpg" %}
+{% include figure url="/assets/images/chrome-07-vpn.jpg" image_path="/assets/images/chrome-07-vpn.png" %}
 
 If all goes according to plan, you have now confirmed that you have provisioned a certificate for VPN and in-office WiFi. Hey, you're pretty good at this! Click __Disconnect__ before continuing to the next step.
 
