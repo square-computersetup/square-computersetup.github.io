@@ -6,7 +6,7 @@ Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:targe
 
 {% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
-Click on __Sign in with Duo Access Gateway__ which should redirect you to Duo SSO where you can sign in with your Block username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
+Click on __Sign in with Block SSO__ which should redirect you to Okta where you can sign in with your Block username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
 
 You may be prompted to __Enable Desktop Notifications__:
 

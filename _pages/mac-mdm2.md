@@ -12,15 +12,15 @@ As you didn't get the notification, we can use another method to try enroll your
 
 First we are going to log into Slack.
 
-In Safari you will need to go to: __square.enterprise.slack.com__ where you will be prompted to set up Duo.
+In Safari you will need to go to: __square.enterprise.slack.com__ where you will be prompted to set up Okta.
 
 {% include duosetup.md %}
 
-After completing Duo setup you can open the appropriate Slack Workspace.
+After completing Okta setup you can open the appropriate Slack Workspace.
 
 Next, in Safari you will need to go to this website: __go.sqprod.co/mdmold__
 
-Once you get there you will be prompted to log in using Duo again. Enter the same login information you just used and __Send a Push__ when prompted.
+Once you get there you will be prompted to log in using Okta again. Enter the same login information you just used and __Send a Push__ when prompted.
 
 {% include figure url="/assets/images/mac-enable-management.png" image_path="/assets/images/mac-enable-management.png" %}
 

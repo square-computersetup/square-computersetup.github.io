@@ -14,7 +14,7 @@ We will first sign into your Block email address. Enter __gmail.com__ in the add
 
 {% include figure url="/assets/images/win-chrome-gmail.png" image_path="/assets/images/win-chrome-gmail.png" %}
 
-Now sign into Gmail using the email provided on your Welcome Sheet. You will then be redirected to a Duo SSO login.
+Now sign into Gmail using your Block email address. You will then be redirected to a Okta login.
 
 {% include duosetup.md %}
 

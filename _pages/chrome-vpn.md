@@ -25,7 +25,7 @@ If successful, open up the Chrome web browser and in the address bar at the top,
 
 {% include figure url="/assets/images/go-vpnsetup.jpg" image_path="/assets/images/go-vpnsetup.jpg" caption="(in a future setup, we will configure even shorter __go/__ links)" %}
 
-__NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
+__NOTE:__ You may be prompted to authenticate to Okta again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
 {: .notice--warning}
 
 {% include figure url="/assets/images/wifi1.jpg" image_path="/assets/images/wifi1.jpg" caption="(if this page does not appear after a minute, reload the page)" %}

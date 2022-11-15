@@ -27,7 +27,7 @@ Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the i
 {% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" width=54
     height=auto %}
 
-You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be different than your Duo SSO password).
+You may see some updates happening after you logout. After you no longer see any visual indication an update is happening, __Login__ again using your __Laptop Password__ (which may be different than your Okta password).
 
 
 [Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
