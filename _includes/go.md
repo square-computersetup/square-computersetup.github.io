@@ -4,7 +4,7 @@ Block has a handy shared bookmark system that makes use of __go/something__ link
 
 In the address bar at the top of Chrome, type in __go/go__ but do __NOT__ press enter on your keyboard. You'll notice that you have two auto-complete suggestions from the web browser. Using the cursor, click on the option that does __NOT__ say "Google Search". (You only need to do this the first time)
 
-__NOTE:__ You may be prompted to authenticate to Duo SSO again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
+__NOTE:__ You may be prompted to authenticate to Okta again. You may check the box that says __Remember me for 12 hours__ to avoid authenticating more than once daily.
 {: .notice--warning}
 
 {% include figure url="/assets/images/resourcecentre.png" image_path="/assets/images/resourcecentre.png" %}

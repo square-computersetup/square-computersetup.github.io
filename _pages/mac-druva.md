@@ -30,7 +30,7 @@ Enter your full email address and click [Continue](){: .btn .btn--inverse .btn--
 
 {% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
-Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
+Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed an Okta login, you'll be prompted to do so). 
 
 When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inverse .btn--small} 
 

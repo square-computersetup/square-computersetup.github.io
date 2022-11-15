@@ -12,7 +12,7 @@ The __Remote Management__ screen should indicate it is managed by __Square Inc._
 
 {% include figure url="/assets/images/mac-04-remote-BigSur.jpg" image_path="/assets/images/mac-04-remote-BigSur.jpg" %}
 
-Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive a Duo SSO login screen:
+Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive an Okta login screen:
 
 {% include duosetup.md %}
 
@@ -25,7 +25,7 @@ Your __Full Name__ and __Account Name__ will be pre-filled (the latter should ma
 __NOTE:__ Account Name __MUST__ match your Block username for proper configuration!
 {: .notice--warning}
 
-Select a strong password to unlock your MacBook. This does not need to be the same as your Duo SSO password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Duo password.
+Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Okta password.
 
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
 

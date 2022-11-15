@@ -38,11 +38,11 @@ Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (f
 
 Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
 
-Login to Google using your full Block email address (jsmith@squareup.com). Then you will be redirected to Duo SSO:
+Login to Google using your full Block email address (jsmith@squareup.com). Then you will be redirected to Okta:
 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-Enter just your username (**without the** @squareup.com) and your password and click [Login](){: .btn .btn--inverse .btn--small}
+Enter email and your password and click [Sign In](){: .btn .btn--inverse .btn--small}
 
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg"  %}
 

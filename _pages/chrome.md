@@ -20,17 +20,11 @@ Your device should indicate that it is __Managed by squareup.com__:
 
 {% include figure url="/assets/images/chrome-01-login.jpg" image_path="/assets/images/chrome-01-login.jpg" caption="(if you do not see &quot;Managed by squareup.com&quot; ask for [help](/help))" %}
 
-Enter your full email address (which will be your username @squareup.com) and click [Next](#duo){: .btn .btn--inverse .btn--small}
+Enter your full email address and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-<a name="duo"></a> 
-{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" caption="(this is the Duo Single Sign-On service you will encounter daily)" %}
+{% include duosetup.md %}
 
-Enter just your username (jsmith not jsmith@squareup.com) and your password and click [Login](#push){: .btn .btn--inverse .btn--small}
-
-<a name="push"></a> 
-{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg" caption="(if you do not see these options, ask for [help](/help))" %}
-
-Choose one of the authentication methods, such as sending a push notice to your mobile app. Once authenticated, you should see this success message:
+Once logged in, you should see this success message:
 
 {% include figure url="/assets/images/chrome-02-signin.jpg" image_path="/assets/images/chrome-02-signin.jpg" caption="(you may review the sync options after setup)" %}
 

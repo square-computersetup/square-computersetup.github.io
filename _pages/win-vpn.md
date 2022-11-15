@@ -24,7 +24,7 @@ Once connected go to __go/vpnsetup__ in Chrome
 
 {% include figure url="/assets/images/win-vpn-golink.png" image_path="/assets/images/win-vpn-golink.png" %}
 
-Sign in with Duo again if required and then sign in again your Square username and password
+Sign in with Okta again if required and then sign in again your Block username and password
 
 {% include figure url="/assets/images/win-vpn-login.png" image_path="/assets/images/win-vpn-login.png" %}
 
