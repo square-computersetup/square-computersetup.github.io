@@ -12,4 +12,4 @@ header:
 
 [How to update ChromeOS](https://support.google.com/chromebook/answer/177889?hl=en)
 
-[Next Step &rarr;](/chrome-vpn){: .btn .btn--success .btn--inverse .btn--large} 
+[Next Step &rarr;](/chrome-yubikey){: .btn .btn--success .btn--inverse .btn--large} 

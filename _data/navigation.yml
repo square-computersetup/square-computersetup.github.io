@@ -64,8 +64,6 @@ nav-chrome:
         url: /chrome-slack/
       - title: "Device Attestation"
         url: /chrome-das/
-      - title: "VPN"
-        url: /chrome-vpn/
       - title: "Yubikey"
         url: /chrome-yubikey/
       - title: "Tips"
@@ -88,8 +86,6 @@ nav-win:
         url: /win-slack/
       - title: "Device Attestation"
         url: /win-das/
-      - title: "VPN"
-        url: /win-vpn/
       - title: "Druva"
         url: /win-druva/
       - title: "Yubikey"
