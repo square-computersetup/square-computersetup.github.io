@@ -6,13 +6,12 @@ sidebar:
   nav: "nav-alt"
 ---
 
-Now that we have your DUO setup and your Password Reset, we are going to setup Google Chrome on your computer to use Block's *go/links.
+Now that we have your Okta set up and your password reset, we are going to setup Google Chrome on your computer.
 
-> go/ links are shortcuts to access various sites and tools in the Block ecosystem. For example, go/workday takes you to the Block Workday space. You’ll see these referenced throughout the onboarding guides and emails from Block. You can access go/ links from Chrome but only after successfully logging into your Block account as a profile in Chrome. go/ links are not compatible with other browsers.
 
-To use go/links on your computer we need to create a new profile within Chrome that is signed into your Block account.
+We need to create a new profile within Chrome that is signed into your Block account.
 
-So open Chrome and click on the __profile__ icon in the top right.
+Open Chrome and click on the __profile__ icon in the top right.
 
 {% include figure url="/assets/images/alt-chrome-01.png" image_path="/assets/images/alt-chrome-01.png" %}
 
@@ -24,13 +23,9 @@ On the next screen select __Sign in__
 
 {% include figure url="/assets/images/alt-chrome-03.png" image_path="/assets/images/alt-chrome-03.png" %}
 
-Enter your __DUO__ login information
-
-{% include figure url="/assets/images/alt-chrome-04.png" image_path="/assets/images/alt-chrome-04.png" %}
+Enter your __Okta__ login information
 
 Select an __Authentication Method__
-
-{% include figure url="/assets/images/alt-chrome-05.png" image_path="/assets/images/alt-chrome-05.png" %}
 
 You __may__ see the next window, if you do select __Continue__
 
