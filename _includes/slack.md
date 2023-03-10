@@ -4,7 +4,6 @@ We have a number of "workspaces" focused on each business unit, but everyone can
 
 Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:target="_blank"} and choose the workspace most appropriate to your job role. 
 
-{% include figure url="/assets/images/slack-login2.jpg" image_path="/assets/images/slack-login2.jpg" %}
 
 Click on __Sign in with Block SSO__ which should redirect you to Okta where you can sign in with your Block username and Password. If you haven't used Slack before, please browse the [Slack quick start guide](https://slack.com/resources/using-slack/your-quick-start-guide-to-slack){:target="_blank"}.
 
