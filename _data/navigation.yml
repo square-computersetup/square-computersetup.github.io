@@ -11,12 +11,12 @@ main:
 nav-alt:
   - title: No Laptop
     children:
-      - title: "Duo"
+      - title: "Okta"
         url: /alt/
       - title: "Chrome"
         url: /alt-chrome/
-      - title: "Go Links"
-        url: /alt-go/
+     # - title: "Go Links"
+     #  url: /alt-go/
       - title: "Slack"
         url: /alt-slack/
       - title: "Finish"
