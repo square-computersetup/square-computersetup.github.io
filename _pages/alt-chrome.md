@@ -45,4 +45,4 @@ Once you have done that it will open a new Chrome window. If you click on the pr
 
 {% include chromeext.md %}
 
-[Next Step &rarr;](/alt-go/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/alt-slack/){: .btn .btn--success .btn--large}
