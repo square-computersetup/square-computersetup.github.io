@@ -10,8 +10,6 @@ header:
 
 Now, some extra steps to get Google Chrome properly set up for use as your primary web browser. Let's start with accessing __Spotlight Search__ by pressing __Command__ + __Spacebar__ on your keyboard.
 
-{% include figure url="/assets/images/mac-spotlight.png" image_path="/assets/images/mac-spotlight.png" caption="(Spotlight is the built-in search tool for MacOS)" %}
-
 {% include figure url="/assets/images/mac-chrome-spotlight.png" image_path="/assets/images/mac-chrome-spotlight.png" %}
 
 Type in __Chrome__ and then click on the top hit, which is the application itself.
