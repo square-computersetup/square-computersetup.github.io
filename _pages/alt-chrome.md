@@ -19,7 +19,9 @@ Select __+ Add__ on the little window that comes up
 
 {% include figure url="/assets/images/alt-chrome-02.png" image_path="/assets/images/alt-chrome-02.png" %}
 
-On the nex screen select __Sign in__
+
+On the nex scren select __Sign in__
+
 
 {% include figure url="/assets/images/alt-chrome-03.png" image_path="/assets/images/alt-chrome-03.png" %}
 
