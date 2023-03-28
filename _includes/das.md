@@ -1,4 +1,4 @@
-Square runs a __Device Attestation Service__ (DAS) that asks your device to present a certificate (like a passport when you enter a country) proving it is an authorized and Square-owned device. Next, try accessing the restricted __go/das__ link.
+Square runs a __Device Attestation Service__ (DAS) that asks your device to present a certificate (like a passport when you enter a country) proving it is an authorized and Square-owned device. Next, try accessing the restricted __go/jiradc__ link.
 
 If your device's certificate is properly issued and valid, you should see a page that lists your laptop. If you see that, [skip to the bottom](#done) of this page.
 
