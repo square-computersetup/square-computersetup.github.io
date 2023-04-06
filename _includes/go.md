@@ -1,4 +1,4 @@
-Block has a handy shared bookmark system that makes use of __go/something__ links (swap in different bookmark names in place of "example"). There are a number of very helpful __go/__ links that you will use often. First, we need to do a one-time setup.
+Block has a handy shared bookmark system that makes use of __go/example__ links (swap in different bookmark names in place of "example"). There are a number of very helpful __go/__ links that you will use often. First, we need to do a one-time setup.
 
 {% include figure url="/assets/images/go-links2.jpg" image_path="/assets/images/go-links2.jpg" %}
 
