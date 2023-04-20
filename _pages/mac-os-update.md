@@ -15,7 +15,7 @@ From the Apple menu  in the corner of your screen, choose __System Settings__
 
 If you chose __System Settings__, click __General__ on the left side of the window. Then click __Software Update__ on the right.
 
-{% include figure url="/assets/images/mac-software-update-general.png" image_path="/assets/images/mac-mac-software-update-general.png" %}
+{% include figure url="/assets/images/mac-software-update-general.png" image_path="/assets/images/mac-software-update-general.png" %}
 
 If you chose __System Preferences__, click __Software Update__ in the window.
 
