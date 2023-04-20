@@ -15,7 +15,7 @@ You should also see Safari pop open to this page so you can follow along with th
 
 {% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, you may need to [update your Mac OS](/mac-os-update))" %}
 
-{% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates.jpg" caption="(You may or may not see this prompt)" %}
+{% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates-notification.jpeg" caption="(You may or may not see this prompt)" %}
 
 If you see the __Updates Available__ notification, click [Later](){: .btn .btn--inverse .btn--small} to defer the installation.
 
