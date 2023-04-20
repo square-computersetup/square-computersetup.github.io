@@ -19,7 +19,7 @@ If you chose __System Settings__, click __General__ on the left side of the wind
 
 If you chose __System Preferences__, click __Software Update__ in the window.
 
-{% include figure url="/assets/images/system-pref-update.png" image_path="/assets/images/system-pref-update.png" %}
+{% include figure url="/assets/images/system-pref-update .png" image_path="/assets/images/system-pref-update .png" %}
 
 Software Update then checks for new software. 
 
