@@ -29,4 +29,4 @@ If Software Update finds new software, click the button to install it. The butto
 
 If you have issues updating your Mac to the current version, please email mission-control@squareup.com
 
-[Next Step &rarr;](/mac-installs){: .btn .btn--success .btn--large}
+[Return to Main Guide &rarr;](/mac-installs){: .btn .btn--success .btn--large}
