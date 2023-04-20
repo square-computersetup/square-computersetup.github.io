@@ -13,7 +13,7 @@ Managed Software Center will open at the earliest possible time after you have s
 You should also see Safari pop open to this page so you can follow along with this guide on your new laptop.
 {: .notice--warning}
 
-{% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, you may need to [update your Mac OS](/_pages/mac-os-update.md))" %}
+{% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, you may need to [update your Mac OS](/mac-os-update))" %}
 
 {% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates.jpg" caption="(You may or may not see this prompt)" %}
 
