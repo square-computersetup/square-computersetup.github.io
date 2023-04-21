@@ -16,8 +16,6 @@ We will first sign into your Block email address. Enter __gmail.com__ in the add
 
 Now sign into Gmail using your Block email address. You will then be redirected to a Okta login.
 
-{% include duosetup.md %}
-
 Now you should be logged in and Google may ask you to accept the terms and conditions as well as set up the look for your Gmail inbox.
 
 Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
@@ -28,7 +26,7 @@ Click on the person icon in the top-right corner of the Chrome browser, then cli
 
 {% include figure url="/assets/images/win-chrome-link.png" image_path="/assets/images/win-chrome-link.png"  %}
 
-When prompted to sync your browser with Square's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
+When prompted to sync your browser with Block's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
 
 {% include figure url="/assets/images/win-chrome-yes.png" image_path="/assets/images/win-chrome-yes.png"  %}
 

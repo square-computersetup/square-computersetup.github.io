@@ -16,10 +16,10 @@ feature_row:
     excerpt: "&nbsp;<br /> An Apple Laptop <br />"
     btn_label: "MacOS"
     btn_class: "btn--primary btn--large"
-  - url: /win-azure/
+  - url: /win/
     image_path: /assets/images/windowslenovo.png
     alt: "Windows"
-    excerpt: "&nbsp;<br /> A Lenovo Laptop <br />"
+    excerpt: "&nbsp;<br /> A Lenovo/Dell Laptop <br />"
     btn_label: "Windows"
     btn_class: "btn--primary btn--large"
 
