@@ -41,7 +41,7 @@ Sign in with your username and password.
 
 You may see an Okta login screen here, if you do, sign in using your email address and password.
 
-{% include figure url="/assets/images/win-continue-anyway.png" image_path="/assets/images/win-continue-anyway.png" %}
+{% include figure url="/assets/images/win-continue anyway.png" image_path="/assets/images/win-continue anyway.png" %}
 
 Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
