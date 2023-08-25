@@ -10,7 +10,7 @@ header:
 
 The __Remote Management__ screen should indicate it is managed by __Block Inc.__:
 
-{% include figure url="/assets/images/mac-04-remote-BigSur.jpg" image_path="/assets/images/mac-04-remote-BigSur.jpg" %}
+{% include figure url="/assets/images/remote-management-block.png" image_path="/assets/images/remote-management-block.png" %}
 
 Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive an Okta login screen:
 
