@@ -13,7 +13,7 @@ This is required, and will enable you to sign into Okta using only Touch ID.
 
 Click the __Launchpad__ app in the dock at the bottom of your screen.
 
-image
+{% include figure url="/assets/images/launchpad.png" image_path="/assets/images/launchpad.png" %}
 
 Next, click on __Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
 
