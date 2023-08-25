@@ -17,16 +17,18 @@ Click the __Launchpad__ app in the dock at the bottom of your screen.
 
 Next, click on __Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
 
-image
+{% include figure url="/assets/images/okta-verify-app.png" image_path="/assets/images/okta-verify-app.png" %}
 
 Under __New account__ it should say __login.block.xyz__ as the sign-in URL. 
 Click [Next](){: .btn .btn--inverse .btn--small} to continue with setup.
 
+{% include figure url="/assets/images/okta-fp-signin.png" image_path="/assets/images/okta-fp-signin.png" %}
+
 Now, it should open an Okta sign-in page in Safari. Sign in, and send a __Push notification__ using __Okta Verify mobile.__
 
-Here, we'll set up TouchID to use with Okta Verify Fastpass. 
+Here, we'll set up Touch ID to use with Okta Verify Fastpass. 
 
-image
+{% include figure url="/assets/images/okta-fp-touchid-1.png" image_path="/assets/images/okta-fp-touchid-1.png" %}
 
 Click [Next](){: .btn .btn--inverse .btn--small} and [Enable](){: .btn .btn--inverse .btn--small} to enable Touch ID. 
 
