@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-The __Remote Management__ screen should indicate it is managed by __Square Inc.__:
+The __Remote Management__ screen should indicate it is managed by __Block Inc.__:
 
 {% include figure url="/assets/images/mac-04-remote-BigSur.jpg" image_path="/assets/images/mac-04-remote-BigSur.jpg" %}
 
@@ -16,7 +16,9 @@ Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management sc
 
 {% include duosetup.md %}
 
-Once authenticated, you should see this prompt to create a computer account:
+After you are authenticated, wait just a few moments while Remote Management initializes.
+
+Once complete, you should see this prompt to create a computer account:
 
 {% include figure url="/assets/images/mac-account.png" image_path="/assets/images/mac-account.png" %}
 
@@ -27,9 +29,13 @@ __NOTE:__ Account Name __MUST__ match your Block username for proper configurati
 
 Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Okta password.
 
+Choose to enable Location Services, or set your Time Zone manually.
+
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
 
-You will be prompted to set up __Touch ID__ (optional). This allows you to quickly unlock your laptop without entering your __Laptop password__. Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
+You will then be prompted to set up __Touch ID__. This is a __requirement__ as it is necessary to later enable use of Okta Fastpass. 
+
+Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 
 {% include figure url="/assets/images/mac-lightdark.png" image_path="/assets/images/mac-lightdark.png" %}
 
