@@ -14,7 +14,4 @@ Welcome to Block! Let's get you set up so you can get to work right away. First,
 ## 📱 Before you start!
 Before starting you will need to set your initial Block password. You will also want to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store. We will use this app for our 2-Factor Authentication.
 
-## 💻 Laptop in hand?
-With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Block laptop and have it with you?
-
-[👍  Yes](/os){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}
+[👍  Let's begin!](/os){: .btn .btn--success .btn--large}
