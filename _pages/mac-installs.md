@@ -32,4 +32,4 @@ You may see some updates happening after you logout. After you no longer see any
 If you have not already done so, please [update your Mac OS](/mac-os-update)
 
 
-[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-okta-fastpass){: .btn .btn--success .btn--large}
