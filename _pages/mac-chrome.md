@@ -38,7 +38,7 @@ Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (f
 
 Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
 
-Login to Google using your full Block email address (jsmith@squareup.com). Then you will be redirected to Okta:
+Login to Google using your full Block email address (jsmith@squareup.com or jsmith@block.xyz). Then you will be redirected to Okta:
 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 

@@ -1,6 +1,6 @@
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-Enter your full primary email address and your newly created password and click [Sign In](){: .btn .btn--inverse .btn--small}
+Enter your __username__, click [Next](){: .btn .btn--inverse .btn--small} then your newly created __password__, and click [Verify](){: .btn .btn--inverse .btn--small}
 
 If you have set up Okta previously, you can skip forward and log in normally
 

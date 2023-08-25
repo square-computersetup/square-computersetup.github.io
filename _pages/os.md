@@ -27,11 +27,11 @@ header:
   overlay_color: "#333"
 ---
 
-It is __very important__ that you do not skip ahead as you may miss some important steps that will cause issues in the future
+It is __very important__ that you do not skip ahead as you may miss some important steps that will cause issues in the future.
 * Use the sidebar navigation or your back button to visit previous steps
 * If you need further assistance, click the [Help](/help) link in the top navigation
 
-Select which type of device you would like to setup today:
+Select which type of device you would like to set up today:
 
 
 {% include feature_row %}
