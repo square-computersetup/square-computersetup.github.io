@@ -1,4 +1,5 @@
-You should have received a YubiKey with your laptop, this is used as another way to authenticate with Okta, in the event that Okta FastPass is not available.
+You should have received a YubiKey with your laptop. 
+This is used as another way to authenticate with Okta, in the event that Okta FastPass is not available.
 
 {% include figure url="/assets/images/yubikey.png" image_path="/assets/images/yubikey.png" caption="(If you didn't get a Yubikey, file a go/IT ticket)" %}
 
