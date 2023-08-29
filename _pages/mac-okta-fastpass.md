@@ -38,12 +38,14 @@ Note: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do no
 
 {% include figure url="/assets/images/okta-fp-touchid-1.png" image_path="/assets/images/okta-fp-touchid-1.png" %}
 
+{% include figure url="/assets/images/enable-touch-id.png" image_path="/assets/images/enable-touch-id.png" %}
+
 If you opted-in for Touch ID you will see the above screen. If you skipped Touch ID, please move to the next step:
 
 Click [Enable](){: .btn .btn--inverse .btn--small} Touch ID.
 
-You may be prompted to authenticate with Touch ID. Authenticate using Touch ID.
+If prompted, authenticate using Touch ID.
 
-You're all setup with Okta Fastpass! 
+Success! 🎉 You're all setup with Okta Fastpass! 
 
 [Next](/mac-chrome){: .btn .btn--success} 
