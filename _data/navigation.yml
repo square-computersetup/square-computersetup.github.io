@@ -42,7 +42,7 @@ nav-mac:
         url: /mac-slack/
       - title: "Device Attestation"
         url: /mac-das/
-        - title: "Yubikey"
+      - title: "Yubikey"
         url: /mac-yubikey/
       - title: "Druva"
         url: /mac-druva/
