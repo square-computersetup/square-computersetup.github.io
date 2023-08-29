@@ -9,7 +9,7 @@ header:
 ---
 Let's set up __Okta Fastpass__. 
 
-This is required, and will enable you to sign into Okta using only Touch ID.
+Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
 
 Click the __Launchpad__ app in the dock at the bottom of your screen.
 
@@ -26,11 +26,23 @@ Click [Next](){: .btn .btn--inverse .btn--small} to continue with setup.
 
 Now, it should open an Okta sign-in page in Safari. Sign in, and send a __Push notification__ using __Okta Verify mobile.__
 
-Here, we'll set up Touch ID to use with Okta Verify Fastpass. 
+
+Two options are available:
+
+Select __Next__ to enable Touch ID (allows quick, passwordless logon on Block devices)
+
+If you do not want to use Touch ID, Select __Skip__
+
+Note: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
+
 
 {% include figure url="/assets/images/okta-fp-touchid-1.png" image_path="/assets/images/okta-fp-touchid-1.png" %}
 
-Click [Next](){: .btn .btn--inverse .btn--small} and [Enable](){: .btn .btn--inverse .btn--small} to enable Touch ID. 
+If you opted-in for Touch ID you will see the above screen. If you skipped Touch ID, please move to the next step:
+
+Click [Enable](){: .btn .btn--inverse .btn--small} Touch ID.
+
+You may be prompted to authenticate with Touch ID. Authenticate using Touch ID.
 
 You're all setup with Okta Fastpass! 
 
