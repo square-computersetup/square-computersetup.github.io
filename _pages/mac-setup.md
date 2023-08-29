@@ -33,7 +33,7 @@ Choose to enable Location Services, or set your Time Zone manually.
 
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
 
-You will then be prompted to set up __Touch ID__. This is a __requirement__ as it is necessary to later enable use of Okta Fastpass. 
+You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience for you each day.
 
 Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 
