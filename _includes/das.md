@@ -13,5 +13,3 @@ If you see __Looks like your device needs some maintenance__, it means your devi
 
 __NOTE:__ If today is your first day at Block, please run these updates during your lunch break and skip ahead to the next step for now.
 {: .notice--warning}
-
-Not sure how to update? Check out a guide:
