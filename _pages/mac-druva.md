@@ -26,7 +26,8 @@ Click on __Activate Backup__
 
 {% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
-Enter your full email address and click [Continue](){: .btn .btn--inverse .btn--small} 
+Enter your username ending in __@squareup.com__ and click [Continue](){: .btn .btn--inverse .btn--small} 
+(This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
 
 {% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
