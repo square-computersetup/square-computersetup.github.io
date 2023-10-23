@@ -14,7 +14,7 @@ Start by clicking on the __Druva inSync__ icon on the desktop.
 
 {% include figure url="/assets/images/win-druva-activate.png" image_path="/assets/images/win-druva-activate.png" %}
 
-Enter your full email address and click __Continue.__
+Enter your username ending in @squareup.com and click __Continue__ (This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
 
 Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
 
