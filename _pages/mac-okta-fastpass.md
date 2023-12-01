@@ -42,7 +42,7 @@ Note: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do no
 
 If you opted-in for Touch ID you will see the above screen. If you skipped Touch ID, please move to the next step:
 
-Click [Enable](){: .btn .btn--inverse .btn--small} Touch ID.
+Click [Enable Touch ID](){: .btn .btn--inverse .btn--small}.
 
 If prompted, authenticate using Touch ID.
 
