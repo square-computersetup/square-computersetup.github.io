@@ -1,11 +1,11 @@
 Here at Block, we make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 By default, every user is added to our Block, Inc. Slack workspace.  This workspace includes all workspaces and channels for our various Business Units: 
-**- Block
+- Block
 - Cash App
 - Square 
 - TIDAL
-**
+
 Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:target="_blank"} and choose the workspace most appropriate to your job role. 
 
 
