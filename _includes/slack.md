@@ -1,7 +1,11 @@
 Here at Block, we make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
-We have a number of "workspaces" focused on each business unit, but everyone can flip between the workspaces. Some channels are universal and appear in all workspaces (noted with an infinity symbol). Other channels are local to that workspace. 
-
+By default, every user is added to our Block, Inc. Slack workspace.  This workspace includes all workspaces and channels for our various Business Units: 
+**- Block
+- Cash App
+- Square 
+- TIDAL
+**
 Visit [square.enterprise.slack.com](https://square.enterprise.slack.com/){:target="_blank"} and choose the workspace most appropriate to your job role. 
 
 
@@ -13,7 +17,9 @@ You may be prompted to __Enable Desktop Notifications__:
 
 These notifications will take the form of brief pop-ups in the corner of your screen. Click to allow notifications so that you don't miss any incoming messages.
 
-{% include video id="wuyWwzazef8" provider="youtube" %}
+{% include video id="6pvVQw03QZY" provider="youtube" %}
+
+
 
 As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack so that it is always available. Right-click on the web page tab at the top and select __Pin tab__, as illustrated below:
 
