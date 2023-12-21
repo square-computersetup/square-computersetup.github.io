@@ -59,4 +59,4 @@ You can then click __OK__ on the next screen to be taken to the desktop!
 
 {% include figure url="/assets/images/win-desktop.png" image_path="/assets/images/win-desktop.png" %}
 
-[Next Step &rarr;](/win-chrome){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-okta-fastpass){: .btn .btn--success .btn--large}
