@@ -46,7 +46,12 @@ You will be directed back to Okta Verify to complete the configuration.
 
 
 Select __Enable__ when asked about __Windows Hello__. (Windows Hello use is required for passwordless on Block-issued devices)
-Note: Windows Hello use is preferred when using Okta FastPass. Windows Hello allows use of an on-device PIN code, fingerprint scanner, and/or facial recognition. Biometrics are not required to use Windows Hello but are highly recommended for the most convenient and secure logon experience. You may select Not now but you will be prompted for your Okta password at each login.
+
+
+Note: Windows Hello use is preferred when using Okta FastPass. Windows Hello allows use of an on-device PIN code, fingerprint scanner, and/or facial recognition. 
+
+Biometrics are not required to use Windows Hello but are highly recommended for the most convenient and secure login experience. 
+You may select __Not now__ but you will be prompted for your Okta password at each login.
 
 {% include figure url="/assets/images/win-okta7.png" image_path="/assets/images/win-okta7.png" %}
 
