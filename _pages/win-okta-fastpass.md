@@ -1,4 +1,4 @@
-___
+---
 title: "Windows Okta Fastpass"
 permalink: /win-okta-fastpass/
 author_profile: true
@@ -6,7 +6,7 @@ sidebar:
   nav: "nav-win"
 header:
   overlay_color: "#333"
-___
+---
 
 Let's set up __Okta Fastpass__. 
 
