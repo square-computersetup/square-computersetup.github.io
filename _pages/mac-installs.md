@@ -17,7 +17,7 @@ You should also see Safari pop open to this page so you can follow along with th
 
 {% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates-notification.jpeg" caption="(You may or may not see this prompt)" %}
 
-If you see the __Updates Available__ notification, click [Later](){: .btn .btn--inverse .btn--small} to defer the installation.
+If you see the __Updates Available__ notification, please click [Install](){: .btn .btn--inverse .btn--small} and run through the update. Then, return to these steps.
 
 {% include figure url="/assets/images/mac-installs-forced.png" image_path="/assets/images/mac-installs-forced.png" %}
 
