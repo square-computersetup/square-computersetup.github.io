@@ -40,8 +40,6 @@ nav-mac:
         url: /mac-password/
       - title: "Slack"
         url: /mac-slack/
-      - title: "Device Attestation"
-        url: /mac-das/
       - title: "Yubikey"
         url: /mac-yubikey/
       - title: "Druva"
@@ -64,8 +62,6 @@ nav-chrome:
         url: /chrome-password/
       - title: "Slack"
         url: /chrome-slack/
-      - title: "Device Attestation"
-        url: /chrome-das/
       - title: "Yubikey"
         url: /chrome-yubikey/
       - title: "Tips"
@@ -88,8 +84,6 @@ nav-win:
         url: /win-password/
       - title: "Slack"
         url: /win-slack/
-      - title: "Device Attestation"
-        url: /win-das/
       - title: "Druva"
         url: /win-druva/
       - title: "Yubikey"
