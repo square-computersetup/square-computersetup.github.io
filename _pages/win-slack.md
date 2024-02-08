@@ -17,4 +17,4 @@ First let's open the Slack app by searching using Windows Search (the magnifying
 
 {% include slackapp.md %}
 
-[Next Step &rarr;](/win-das){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-druva){: .btn .btn--success .btn--large}
