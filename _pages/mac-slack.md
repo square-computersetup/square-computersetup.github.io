@@ -22,4 +22,4 @@ First let's open the Slack app by again searching using __Spotlight__ in the top
 
 {% include slackapp.md %}
 
-[Next Step &rarr;](/mac-das){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-yubikey){: .btn .btn--success .btn--large}
