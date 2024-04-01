@@ -9,7 +9,7 @@ This setup guide is intended for workers employed by Block. If you're a Square c
 
 To continue, please select the link below that best identifies your worker status:
 
-[New Employee](/fte){: .btn .btn--info}
+[New Employee](/fte-new){: .btn .btn--info}
 
 [Contingent Worker (Agency, Independent Contractor, or Vendor)](/contingent){: .btn .btn--info}
 
