@@ -1,6 +1,6 @@
 ---
-title: "macOS Setup (Archived)"
-permalink: /mac-setup-archived/
+title: "macOS Setup"
+permalink: /mac-setup/
 author_profile: true
 sidebar:
   nav: "nav-mac"
