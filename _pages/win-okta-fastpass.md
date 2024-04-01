@@ -24,8 +24,8 @@ Open the __Okta Verify__ app on your Windows device by clicking the Start menu, 
 
 You'll want to select “__Add account from another device__”
 
-{% include figure url="/assets/images/ofp-win4.png" image_path="/assets/images/ofp-win4.png" %}
-*Note that Okta Verify Desktop can be run in Light or Dark mode
+{% include figure url="/assets/images/ofp-win4.png" image_path="/assets/images/ofp-win4.png" caption="(Note that Okta Verify Desktop can be run in Light or Dark mode)" %}
+
 
 Now open Okta Verify on your mobile device, select your Block account (Eg. jsmith@block.xyz) then scroll down to select “__Add Account to Another Device__”
 
