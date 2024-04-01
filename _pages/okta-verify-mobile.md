@@ -22,15 +22,15 @@ Select __No, Sign In Instead__. A QR Code cannot be used.
 Enter __login.block.xyz__ as your organization’s Sign-in URL.
 
 {% include figure url="/assets/images/ovm-6.png" image_path="/assets/images/ovm-6.png" %}
+{% include figure url="/assets/images/ovm-7.png" image_path="/assets/images/ovm-7.png" %}
 Enter your Block username: Eg. jsmith@block.xyz, then enter your Okta password.
 
-{% include figure url="/assets/images/ovm-7.png" image_path="/assets/images/ovm-7.png" %}
+{% include figure url="/assets/images/ovm-8.png" image_path="/assets/images/ovm-8.png" %}
 If your device has biometrics, please __enable__ it in the next step.
 
-{% include figure url="/assets/images/ovm-8.png" image_path="/assets/images/ovm-8.png" %}
+{% include figure url="/assets/images/ovm-9.png" image_path="/assets/images/ovm-9.png" %}
 Done!
 
 Now you’re ready to set up your new computer!
-
 
 [👍  Let's begin!](/os){: .btn .btn--success .btn--large}
