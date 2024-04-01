@@ -31,7 +31,7 @@ Next, click on __Okta Verify__ to open it, and click [Get Started](){: .btn .btn
 
 Select __Add Account__ under Add account from another device
 
-{% include figure url="/assets/images/okta-fp-signin.png" image_path="/assets/images/okta-fp-signin.png" %}
+{% include figure url="/assets/images/okta-fp-signin-new.png" image_path="/assets/images/okta-fp-signin-new.png" %}
 
 Now open the Okta Verify app on your mobile device, select your Block account (Eg. jsmith@block.xyz) then scroll down to select __Add Account to Another Device__
 
