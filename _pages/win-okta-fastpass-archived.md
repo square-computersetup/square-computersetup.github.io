@@ -1,6 +1,6 @@
 ---
-title: "Windows Okta Fastpass"
-permalink: /win-okta-fastpass/
+title: "Windows Okta Fastpass (Archived)"
+permalink: /win-okta-fastpass-archived/
 author_profile: true
 sidebar:
   nav: "nav-win"
