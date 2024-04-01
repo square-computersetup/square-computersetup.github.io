@@ -14,7 +14,7 @@ The __Remote Management__ screen should indicate it is managed by __Block Inc.__
 
 Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive an Okta login screen:
 
-{% include duosetup.md %}
+{% include duo-setup-new.md %}
 
 After you are authenticated, wait just a few moments while Remote Management initializes.
 
