@@ -36,7 +36,7 @@ If you don't see the notification after 2 minutes: [Click Here](/mac-mdm2){: .bt
 
 If you do see the notification, click [Allow](){: .btn .btn--inverse .btn--small} to authorize the device enrollment. You will be prompted for your laptop password and then to login with Okta:
 
-{% include duosetup.md %}
+{% include duo-setup-new.md %}
 
 {% include figure url="/assets/images/mac-profiles.png" image_path="/assets/images/mac-profiles.png" %}
 
