@@ -27,7 +27,7 @@ Next you will see a __Let's get things set up__ screen.
 Here you will need to put in your Block email address. 
 
 Then, you'll sign in with Okta, and set up 2FA.
-{% include duosetup.md %}
+{% include duo-setup-new.md %}
 
 After logging in, you will need to accept some terms and conditions. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says Setting up for work or school.
 
