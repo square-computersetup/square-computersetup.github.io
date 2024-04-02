@@ -1,3 +1,11 @@
+---
+permalink: /okta-setup-old/
+title: "Okta Verify Mobile Setup (Archived)"
+header:
+  overlay_color: "#333"
+---
+## Setting up Okta Verify on Mobile:
+
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
 Enter your __username__, click [Next](){: .btn .btn--inverse .btn--small} then your newly created __password__, and click [Verify](){: .btn .btn--inverse .btn--small}
