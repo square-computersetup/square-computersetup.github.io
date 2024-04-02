@@ -14,10 +14,10 @@ Welcome to Block! Let's get you setup so you can get to work right away. First, 
 * You can optionally join IT Office Hours to get technical support from a member of our IT Team if you run into any questions. The Google Meet link for this onboarding session will be provided to you via onboarding communications.
 
 ## 📱 Before you start!
-Before starting you will want to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store. We will use this app for our 2 Factor Authentication. 
+Before starting you will want to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store. We will use this app for our 2-Factor Authentication. 
 
 
 ## 💻 Laptop in hand?
-With the lingering effects of the pandemic, there may be a delay in getting a laptop to you before your start date. Have you received your official Block laptop and have it with you?
+Have you received your official Block laptop and have it with you?
 
-[👍  Yes](/os){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}
+[👍  Yes](/okta-verify-mobile){: .btn .btn--success .btn--large} [😿  No](/alt){: .btn .btn--inverse .btn--large}
