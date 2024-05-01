@@ -29,6 +29,9 @@ __NOTE:__ Account Name __MUST__ match your Block username for proper configurati
 
 Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Okta password.
 
+__NOTE:__ Make sure you remember your password and do not rely on the password hint. The password hint is not shown when you are logging in.
+{: .notice--warning}
+
 Choose to enable Location Services, or set your Time Zone manually.
 
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
