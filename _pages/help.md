@@ -9,13 +9,12 @@ sidebar:
 This setup guide is designed to be self-contained, but sometimes we all need a helping hand. 
 
 ### New Employees
-Join your scheduled __IT Onboarding Session__ on your start date and a member of IT support will be ready to assist.
+Join your scheduled __IT Onboarding Session__ on your start date and a member of Block IT Support will be ready to assist.
 
 ### Existing Employees
   * Send an email to: 
-    * __mission-control@squareup.com__
-    * __cash-it-help@squareup.com__ (for Cash Employees) 
-  * Submitting a ticket at __go/IT__.
+  * __mission-control@squareup.com__
+  * Submit a ticket at __go/IT__.
 
 When asking for help, please include the 6 digit asset number located on the sticker on your laptop.
 {: .notice--danger}
