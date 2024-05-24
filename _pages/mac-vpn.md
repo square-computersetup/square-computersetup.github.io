@@ -17,3 +17,5 @@ __Note:__ You will be prompted to authenticate via Okta the first time you use C
 {% include figure url="assets/images/Cloudfare-WARP2.png" image_path="assets/images/Cloudfare-WARP2.png" %}
 
 As long as it says __Connected__, you're all set!
+
+[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large}
