@@ -41,4 +41,4 @@ The Druva window will come back to the foreground. __DON'T__ click any buttons u
 
 If this is your first Block laptop, you can __close__ the Druva window and go to the next step. Otherwise, click the button to restore your backup from your old Block laptop.
 
-[Next Step &rarr;](/mac-tips/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 
+[Next Step &rarr;](/mac-vpn/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 

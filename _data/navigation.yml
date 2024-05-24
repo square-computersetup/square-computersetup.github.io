@@ -44,6 +44,8 @@ nav-mac:
         url: /mac-yubikey/
       - title: "Druva"
         url: /mac-druva/
+      - title: "VPN"
+        url: /mac-vpn/
       - title: "Tips"
         url: /mac-tips/
       - title: "Finish"
