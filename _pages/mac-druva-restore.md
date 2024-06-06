@@ -18,11 +18,18 @@ Within the Druva application, click the “Restore…”
 
 {% include figure url="/assets/images/druva-restore2.png" image_path="/assets/images/druva-restore2.png" %}
 
-A new “Druva Restore” window will appear, review the machines listed and the dated backups available
+A new “Druva Restore” window will appear, review the machines listed and find the machine you would like to restore from.
+
+Once you have selected the machine, select the date you would like to restore from.
 
 {% include figure url="/assets/images/druva-restore3.png" image_path="/assets/images/druva-restore3.png" %}
 
-Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended) or data plus settings. Then click Restore.
+
+Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended). Files needing to be restored are typically found in the folder with your username.
+
+* Note - Do not restore all contents of your backup.
+
+Then click __Restore.__
 
 You may close the Druva window and the restore process (if any) will continue in the background. 
 
