@@ -10,7 +10,7 @@ header:
 
 If Druva automatically activated and you want to restore files, follow these steps. Otherwise, jump to [Did you manually Activate Druva?](#gohere)
 
-Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop and select “Open Preferences”
+Start by clicking on the Druva icon in the top-right corner of your MacBook desktop and select “Open Preferences”
 
 {% include figure url="/assets/images/druva-restore1.png" image_path="/assets/images/druva-restore1.png" %}
 
