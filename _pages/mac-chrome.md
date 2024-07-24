@@ -26,11 +26,13 @@ On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](){: .btn
 
 {% include figure url="/assets/images/mac-chrome-default.png" image_path="/assets/images/mac-chrome-default.png"  %}
 
-Click on [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web browser.
+Click [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web browser.
+
+If you do not see this, you can set Google Chrome as your default browser in System Settings by clicking on Desktop and Dock, and then changing the drop-down option from Safari to Google Chrome.{: .notice--warning}
 
 {% include figure url="/assets/images/mac-chrome-notification.png" image_path="/assets/images/mac-chrome-notification.png"  %}
 
-You will get a notification in the top right of your screen to allow Chrome to send you notifications, click [Allow](){: .btn .btn--inverse .btn--small}
+You will get a notification in the top right of your screen to allow Chrome to send you notifications, click [Allow](){: .btn .btn--inverse .btn--small}.
 
 Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
 
@@ -38,11 +40,11 @@ Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (f
 
 Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
 
-Login to Google using your full Block email address (jsmith@squareup.com or jsmith@block.xyz). Then you will be redirected to Okta:
+Log in to Google using your full Block email address (e.g., jsmith@block.xyz). You will then be redirected to Okta:
 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-Enter email and your password and click [Sign In](){: .btn .btn--inverse .btn--small}
+Enter your email and password and click [Sign In](){: .btn .btn--inverse .btn--small}.
 
 {% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg"  %}
 
@@ -58,7 +60,7 @@ When prompted to sync your browser with Block's Google services, click on [Link 
 
 {% include figure url="/assets/images/mac-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
 
-Click on [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Block's Google services.
+Click [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Block's Google services.
 
 {% include chromeext.md %}
 

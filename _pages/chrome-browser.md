@@ -20,9 +20,9 @@ Open the Chrome browser by clicking the Chrome icon in the center of the dock.
 
 Let’s now switch to one of Google’s public name servers:
 
-* Make sure your Chromebook is connected to a Wi-Fi network.
+* Ensure your Chromebook is connected to a Wi-Fi network.
 * At the bottom right, select the time.
-* Select the Wi-Fi Network .
+* Select the Wi-Fi Network.
 * From the drop-down menu, select your wireless network name.
 * Select Network.
 * In the "Name servers" section, select Google name servers.

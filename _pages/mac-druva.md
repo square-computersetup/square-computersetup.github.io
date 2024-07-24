@@ -10,7 +10,7 @@ header:
 
 We use __Druva__ to continuously backup your MacBook to the cloud, just to be safe. Let’s check to see if it is activated now.
 
-Start by clicking on the Druva icon near the Pulse Secure icon in the top-right corner of your MacBook desktop.
+Start by clicking on the Druva icon near the Okta Verify icon in the top-right corner of your MacBook.
 
 If you see either of the below menus, Druva has been activated and you can [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} or [Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
 
@@ -18,22 +18,22 @@ If you see either of the below menus, Druva has been activated and you can [Rest
 
 {% include figure url="/assets/images/druva-mac4.jpg" image_path="/assets/images/druva-mac4.jpg" %}
 
-If you see “__Activate Backup…__” continue below
+If you see “__Activate Backup…__” continue below:
 
 {% include figure url="/assets/images/druva-mac-tray.jpg" image_path="/assets/images/druva-mac-tray.jpg" %}
 
-Click on __Activate Backup__
+Click on __Activate Backup__.
 
 {% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
 
 Enter your username ending in __@squareup.com__ and click [Continue](){: .btn .btn--inverse .btn--small} 
-(This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
+(This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com. An example of this is using jsmith@squareup.com instead of jsmith@block.xyz).
 
 {% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
 
 Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed an Okta login, you'll be prompted to do so). 
 
-When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inverse .btn--small} 
+When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inverse .btn--small}.
 
 {% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
 

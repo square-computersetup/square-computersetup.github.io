@@ -8,15 +8,17 @@ header:
   overlay_color: "#333"
 ---
 
-Now let's open Chrome. The icon will be on your Windows Desktop. (If it isn't there right away, wait a minute or two!)
+__Setting Up Chrome__
 
-We will first sign into your Block email address. Enter __gmail.com__ in the address bar.
+Now let's open Chrome. The icon will be on your Windows Desktop. If it isn't there right away, wait a minute or two!
+
+First, we will first sign into your Block email address. Enter __gmail.com__ in the address bar.
 
 {% include figure url="/assets/images/win-chrome-gmail.png" image_path="/assets/images/win-chrome-gmail.png" %}
 
-Now sign into Gmail using your Block email address. You will then be redirected to a Okta login.
+Sign into Gmail using your Block email address. You will then be redirected to a Okta login.
 
-Now you should be logged in and Google may ask you to accept the terms and conditions as well as set up the look for your Gmail inbox.
+Once logged in, Google may ask you to accept the terms and conditions and set up the look for your Gmail inbox.
 
 Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
 

@@ -8,13 +8,13 @@ header:
   overlay_color: "#333"
 ---
 
-_Let's get your ChromeOS device setup!_
+__Let's get your ChromeOS device setup!__
 
 Press the __power__ button at the top-right corner of the keyboard: 
 
 {% include figure url="/assets/images/pixelbookgo-power.jpg" image_path="/assets/images/pixelbookgo-power.jpg" caption="(if you have a ChromeBox the power button is on the device and not the keyboard)" %}
 
-Connect your device to a wireless network (either your home WiFi or the Square office) with Internet access.
+Connect your device to a wireless network (either your home WiFi or the Block office) with Internet access.
 
 Your device should indicate that it is __Managed by squareup.com__:
 
@@ -28,11 +28,11 @@ Once logged in, you should see this success message:
 
 {% include figure url="/assets/images/chrome-02-signin.jpg" image_path="/assets/images/chrome-02-signin.jpg" caption="(you may review the sync options after setup)" %}
 
-Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may hear the _Google Assistant_ announce verbally that it has been disabled. You can press the mute button (above the 0 in the top row on your keyboard) to silence the device audio. 
+Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may hear the _Google Assistant_ You may hear the Google Assistant announce that it has been disabled. To silence the device audio, press the mute button (above the “0” key in the top row of your keyboard). 
 
 <a name="ready"></a> 
 {% include figure url="/assets/images/chrome-03-ready.jpg" image_path="/assets/images/chrome-03-ready.jpg"  %}
 
-When you see the __Ready!__ display, you can click [Get Started](/chrome-tips){: .btn .btn--inverse .btn--small}
+When you see the __Ready!__ display, click [Get Started](/chrome-tips){: .btn .btn--inverse .btn--small}.
 
 [Next Step &rarr;](/chrome-browser/){: .btn .btn--success .btn--large}

@@ -18,7 +18,7 @@ Within the Druva application, click the “Restore…”
 
 {% include figure url="/assets/images/druva-restore2.png" image_path="/assets/images/druva-restore2.png" %}
 
-A new “Druva Restore” window will appear, review the machines listed and find the machine you would like to restore from.
+A new “Druva Restore” window will appear. Review the machines listed and find the machine you would like to restore from.
 
 Once you have selected the machine, select the date you would like to restore from.
 
