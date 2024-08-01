@@ -7,29 +7,33 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Druva Setup
 
 We use __Druva__ to continuously backup your computer to the cloud, just to be safe. Let's activate it now.
 
-Start by clicking on the __Druva inSync__ icon on the desktop.
+1.	Start by clicking the Druva inSync icon on the desktop.
 
-{% include figure url="/assets/images/win-druva-activate.png" image_path="/assets/images/win-druva-activate.png" %}
+{% include figure url=”/assets/images/win-druva-01.png” image_path=”/assets/images/win-druva-01.png” %}
 
-Enter your username ending in @squareup.com and click __Continue__ (This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
+2.	Enter your username ending in @squareup.com and click Continue (This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
 
-Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed a Duo SSO login, you'll be prompted to do so). 
+{% include figure url=”/assets/images/win-druva-02.png” image_path=”/assets/images/win-druva-02.png” %}
 
-When the __Open InSync?__ pop-up appears, click [Open InSync](#insync){: .btn .btn--inverse .btn--small} 
+3.	Google Chrome and Okta will launch a “Windows Security” prompt. Enter the PIN you set up earlier.
 
-{% include figure url="/assets/images/win-druva-chrome.png" image_path="/assets/images/win-druva-chrome.png" %}
+{% include figure url=”/assets/images/win-druva-03.png” image_path=”/assets/images/win-druva-03.png” %}
 
-The Druva window will come back to the foreground. __DO NOT__ click any buttons.
+4.	When the Open InSync? pop-up appears, click Open InSyncAgent.
+  
+{% include figure url=”/assets/images/win-druva-04.png” image_path=”/assets/images/win-druva-04.png” %}
 
-If you are asked, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
+5. The Druva window will come back to the foreground. DO NOT click any buttons.
 
-<a name="replace"></a> 
+6. If prompted, click [Replace an Existing Device](#replace){: .btn .btn--inverse .btn--small} 
+
 {% include figure url="/assets/images/win-druva-replace.png" image_path="/assets/images/win-druva-replace.png" %}
 
-If this is your first Block laptop, [skip this section](#done). If you are replacing an existing Block laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
+7. If this is your first Block laptop, [skip this section](#done). If you are replacing an existing Block laptop, click [Restore Now](#restore){: .btn .btn--inverse .btn--small}.
 
 <a name="restore"></a>
 {% include figure url="/assets/images/win-druva-restore.png" image_path="/assets/images/win-druva-restore.png" %}
@@ -39,8 +43,4 @@ Using the checkboxes, select whether to restore just your data (recommended) or 
 <a name="done"></a>
 You may close the Druva window and the restore process (if any) will continue in the background. 
 
-That wasn't so hard, right? Now your computer is protected against any accidental data corruption or physical theft.
-
 [Next Step &rarr;](/win-yubikey/){: .btn .btn--success .btn--large}
-
-

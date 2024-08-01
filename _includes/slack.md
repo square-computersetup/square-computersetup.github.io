@@ -1,4 +1,4 @@
-Here at Block, we make use of __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
+Here at Block, we use __Slack__ for instant messaging (chat) to enable quick communication within your team and across the company. 
 
 By default, every user is added to our Block, Inc. Slack workspace.  This workspace includes all workspaces and channels for our various Business Units: 
 - Block
@@ -21,7 +21,7 @@ These notifications will take the form of brief pop-ups in the corner of your sc
 
 
 
-As you'll interact with Slack on a daily basis, we recommend you __Pin__ Slack so that it is always available. Right-click on the web page tab at the top and select __Pin tab__, as illustrated below:
+As you'll interact with Slack daily, we recommend you __Pin__ Slack so that it is always available. Right-click on the web page tab at the top and select __Pin tab__, as illustrated below:
 
 {% include figure url="/assets/images/pin-tab-chrome.gif" image_path="/assets/images/pin-tab-chrome.gif" %}
 

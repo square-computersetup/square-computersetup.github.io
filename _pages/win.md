@@ -7,56 +7,63 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Windows Computer Setup
 
-First turn on your new laptop with the __power__ button.
+1. Turn on your new laptop using the __power__ button.
 
-Once it starts up you will eventually get to a screen that asks you to select your country.
+2. Once it starts up, you will get to a screen that asks you to select your country.
 
-Then you will need to choose your keyboard layout.
+{% include figure url="/assets/images/win-setup-01.png" image_path="/assets/images/win-setup-01.png" %}
 
-Connect your device to a wireless network (either your home WiFi or the Block office) with Internet access.
+3. Choose your keyboard layout.
 
-{% include figure url="/assets/images/win-network.png" image_path="/assets/images/win-network.png" %}
+4. Connect your device to a wireless network (either your home WiFi or the Block office) with Internet access.
 
-After connecting to your network the computer may restart. Once it comes back, it's time to log in.
+5. After connecting to your network, the computer will check for updates and reboot.
 
-Next you will see a __Let's get things set up__ screen.
+6. You will then see a __Let's get things set up for your work or school__ screen.
 
-{% include figure url="/assets/images/win-get-setup.png" image_path="/assets/images/win-get-setup.png" %}
+7. Enter your squareup.co or block.xyz email into the Microsoft login page.(example: johndoe@block.xyz or johndoe@squareup.com)
 
-Here you will need to put in your Block email address. 
+{% include figure url="/assets/images/win-setup-02.png" image_path="/assets/images/win-setup-02.png" %}
 
-Then, you'll sign in with Okta, and set up 2FA.
-{% include duo-setup-new.md %}
+8. The next page will take you to an Okta login page. Enter your username (example: if your email is johndoe@block.xyz or johndoe@squareup.com, you will enter __johndoe__) and enter the password you've created from our Welcome Email. After, please set up your 2-Factor Authentication method.
+{% include figure url="/assets/images/win-setup-03.png" image_path="/assets/images/win-setup-03.png" %}
 
-After logging in, you will need to accept some terms and conditions. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says Setting up for work or school.
+{% include figure url="/assets/images/win-setup-04.png" image_path="/assets/images/win-setup-04.png" %}
 
-{% include figure url="/assets/images/win-setup.png" image_path="/assets/images/win-setup.png" %}
+9. After logging in, you will need to accept some terms and conditions. Your computer will continue setting up and may restart again. Eventually, you will see a screen that says Setting up for work or school.
 
-{% include figure url="/assets/images/win-sign-in.png" image_path="/assets/images/win-sign-in.png" %}
+{% include figure url="/assets/images/win-setup-05.png" image_path="/assets/images/win-setup-05.png" %}
 
-Sign in with your username and password.
+10. Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
-{% include figure url="/assets/images/win-okta-popup.png" image_path="/assets/images/win-okta-popup.png" %}
+{% include figure url="/assets/images/win-setup-06" image_path="/assets/images/win-setup-06" %}
 
-You may see an Okta login screen here, if you do, sign in using your email address and password.
+11. You will then be brought to a screen that says __Other user__. Sign in with your email address and password.
 
-{% include figure url="/assets/images/win-continue anyway.png" image_path="/assets/images/win-continue anyway.png" %}
+{% include figure url="/assets/images/win-setup-07" image_path="/assets/images/win-setup-07" %}
 
-Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
+12. Once you see an Okta login screen here, sign in using your username and password.
 
-{% include figure url="/assets/images/win-hello.png" image_path="/assets/images/win-hello.png" %}
+{% include figure url="/assets/images/win-setup-08" image_path="/assets/images/win-setup-08" %}
 
-Next, you will be asked to __Use Windows Hello__ with your account. Press __Okay__ and then enter the verification code that will be sent via SMS to your phone.
+12. Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
-After a few moments, you will be able to setup __Use your Fingerprint__ or choose __Skip for now__ if you don't want to use biometrics. Fingerprint is more preferred than facial recognition.
+{% include figure url="/assets/images/win-setup-09" image_path="/assets/images/win-setup-09" %}
 
-{% include figure url="/assets/images/win-pin.png" image_path="/assets/images/win-pin.png" %}
+13. Next, you will be asked to __Use Windows Hello__ with your account. Press __Ok__.
 
-Next, you will be asked to __Set up a PIN__. Setting up a PIN is required. The PIN will be the password you use to log into the computer; it must be at least 8 characters long, and if you want to use letters you will need to check the box to allow it!
+{% include figure url="/assets/images/win-setup-10" image_path="/assets/images/win-setup-10" %}
 
-You can then click __OK__ on the next screen to be taken to the desktop!
+14.	Depending on the computer you received, you will have the option to set up Use your Fingerprint, Biometrics, or choose "Skip for now" if you don’t want to use biometrics.
 
-{% include figure url="/assets/images/win-desktop.png" image_path="/assets/images/win-desktop.png" %}
+15. Next, you will be asked to __Set up a PIN__. Setting up a PIN is required. The PIN will be the password you use to log into the computer; it must be at least 8 characters long, and if you want to use letters you will need to check the box to allow it.
 
-[Next Step &rarr;](/win-okta-fastpass){: .btn .btn--success .btn--large}
+{% include figure url="/assets/images/win-setup-11" image_path="/assets/images/win-setup-11" %}
+
+16. Click __OK__ on the next screen to be taken to the desktop.
+
+{% include figure url="/assets/images/win-setup-12" image_path="/assets/images/win-setup-12" %}
+
+[Next Step &rarr;](/win-updates){: .btn .btn--success .btn--large}

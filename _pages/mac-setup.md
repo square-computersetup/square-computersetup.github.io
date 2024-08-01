@@ -16,7 +16,7 @@ Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management sc
 
 {% include duo-setup-new.md %}
 
-After you are authenticated, wait just a few moments while Remote Management initializes.
+After authentication, wait just a few moments while Remote Management initializes.
 
 Once complete, you should see this prompt to create a computer account:
 
@@ -24,10 +24,10 @@ Once complete, you should see this prompt to create a computer account:
 
 Your __Full Name__ and __Account Name__ will be pre-filled (the latter should match the username of your Block email address).
 
-__NOTE:__ Account Name __MUST__ match your Block username for proper configuration!
+__NOTE:__ The Account Name __MUST__ match your Block username for proper configuration!
 {: .notice--warning}
 
-Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Okta password.
+Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but it can be if you wish. We will refer to this as your __Laptop Password__ to differentiate it from your Okta password.
 
 __NOTE:__ Make sure you remember your password and do not rely on the password hint. The password hint is not shown when you are logging in.
 {: .notice--warning}
@@ -36,13 +36,13 @@ Choose to enable Location Services, or set your Time Zone manually.
 
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
 
-You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience for you each day.
+You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience each day.
 
 Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 
 {% include figure url="/assets/images/mac-lightdark.png" image_path="/assets/images/mac-lightdark.png" %}
 
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You may also make these changes later in System Preferences.
+You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You can also make these changes later in System Settings.
 
 {% include figure url="/assets/images/mac-desktop.png" image_path="/assets/images/mac-desktop.png"  %}
 

@@ -22,7 +22,7 @@ Once you see an indication (usually a black background) that you have entered in
 
 ## 📩 Gmail
 
-Square uses Google Workspace (GWork) for collaboration, including Gmail. 
+Block uses Google Workspace (GWork) for collaboration, including Gmail. 
 
 Please visit __gmail.com__ and enter your assigned Square email address (e.g., "johnsmith@squareup.com"). 
 

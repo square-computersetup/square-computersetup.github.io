@@ -7,10 +7,11 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Macbook Setup
 
 Let's get your MacBook set up!
 
-Press the __power__ button at the top-right corner of the keyboard:
+Press the __power__ button located at the top-right corner of the keyboard:
 
 {% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" caption="(if you have a Mac Mini, the power button is in the rear)" %}
 
@@ -18,7 +19,7 @@ Shortly after boot-up, you will be asked to select your Country or Region, any a
 
 {% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
-Connect your device to a wireless network (either your home WiFi or the Square Guest network in a Block Office).
+Connect your device to a wireless network (either your home WiFi or the Block-Guest network in a Block Office).
 
 {% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 

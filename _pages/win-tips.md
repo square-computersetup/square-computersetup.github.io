@@ -7,8 +7,9 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Windows Tips
 
-Microsoft has a great resource for Windows 10 tips here if you need a hand getting to know Windows:
+Microsoft has a great resource for Windows 11 tips here if you need a hand getting to know Windows:
 [Microsoft Tips](https://support.microsoft.com/en-us/tips/home)
 
 
