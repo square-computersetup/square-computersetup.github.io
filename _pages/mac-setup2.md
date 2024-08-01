@@ -26,7 +26,7 @@ Then enter your __Full Name__ and then use your Block username (the part before 
 
 __NOTE:__ Account Name __MUST__ match your Block username for proper configuration!
 
-Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but it can be if you wish. We will refer to this as your __Laptop Password__ to differentiate from your Okta password.
+Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but it can be if you wish. We will refer to this as your __Laptop Password__ to differentiate it from your Okta password.
 
 Click [Continue](){: .btn .btn--inverse .btn--small} on the __Express Set-Up__ screen.
 

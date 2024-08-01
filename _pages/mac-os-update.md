@@ -21,7 +21,7 @@ If you chose __System Preferences__, click __Software Update__ in the window.
 
 {% include figure url="/assets/images/system-pref-update .png" image_path="/assets/images/system-pref-update .png" %}
 
-Software  will then checks for new software. 
+Software Update will then check for new available software.
 
 If Software Update finds new software, click the button to install it. The button might be named Update Now, Upgrade Now, Install Now, or Restart Now. You might then be asked to enter your laptop password.
 

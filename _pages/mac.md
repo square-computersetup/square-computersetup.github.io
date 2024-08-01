@@ -7,6 +7,7 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Macbook Setup
 
 Let's get your MacBook set up!
 

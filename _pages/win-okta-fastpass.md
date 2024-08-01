@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-Let's set up __Okta Fastpass__. 
+# Windows Okta Fastpass
 
 __Okta FastPass__ provides a quick, easy, and secure way to sign in and helps protect you from phishing.
 
@@ -38,7 +38,7 @@ Enter this code into Okta Verify desktop’s “Enter code” field.
 
 {% include figure url="/assets/images/ofp-win7.png" image_path="/assets/images/ofp-win7.png" %}
 
-You may be asked to enter a PIN shown on your desk into your mobile Okta Verify app:
+You may be asked to enter a PIN shown on your laptop into your mobile Okta Verify app:
 {% include figure url="/assets/images/ofp-win8.png" image_path="/assets/images/ofp-win8.png" %}
 
 __Note:__ Biometrics (Windows Hello) are preferred when using Okta FastPass. If you do not enable or use biometrics on your Block-issued device, you will be prompted for another factor (password) when using Okta FastPass.

@@ -42,7 +42,7 @@ Please note that you will be asked for your __Laptop Password__ periodically eve
 
 {% include figure url="/assets/images/mac-lightdark.png" image_path="/assets/images/mac-lightdark.png" %}
 
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You cab also make these changes later in System Settings.
+You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You can also make these changes later in System Settings.
 
 {% include figure url="/assets/images/mac-desktop.png" image_path="/assets/images/mac-desktop.png"  %}
 

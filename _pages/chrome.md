@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-__Let's get your ChromeOS device setup!__
+__Let's get your ChromeOS device set up!__
 
 Press the __power__ button at the top-right corner of the keyboard: 
 
