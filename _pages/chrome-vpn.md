@@ -47,3 +47,5 @@ In this section we will discuss how to install the WARP client on a Chromebook.
 *	Enable Cloudflare Zero Trust.
 
 {% include figure url="/assets/images/chrome-vpn-09.png" image_path="/assets/images/chrome-vpn-09.png" %}
+
+[Next Step &rarr;](/chrome-tips/){: .btn .btn--success .btn--large}
