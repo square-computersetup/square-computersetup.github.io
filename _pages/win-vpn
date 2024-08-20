@@ -14,36 +14,36 @@ In this section we will discuss how to install the WARP client on a Windows devi
 
 __Note:__ It is important that you enable all notifications from the WARP client in order to receive re-authentication alerts.
 
-1. Open the Start Menu.
-2. Search for Company Portal.
-3. Select the Company Portal application.
+* Open the Start Menu.
+* Search for Company Portal.
+* Select the Company Portal application.
 
 {% include figure url="/assets/images/win-vpn-01.png" image_path="/assets/images/win-vpn-01.png" %}
 
-4. In the Company Portal tool, use the search option in the top left corner to search for WARP.
-5. Select the WARP Cloudflare application.
+* In the Company Portal tool, use the search option in the top left corner to search for WARP.
+* Select the WARP Cloudflare application.
 
 {% include figure url="/assets/images/win-vpn-02.png" image_path="/assets/images/win-vpn-02.png" %}
 
-6. Select Install.
+* Select Install.
 
 {% include figure url="/assets/images/win-vpn-03.png" image_path="/assets/images/win-vpn-03.png" %}
 
-7. Once installed, a browser window will appear and ask you to authenticate to Cloudflare.
-8. Login through the normal Okta login process.
-9. A success page should appear once logged in.
+* Once installed, a browser window will appear and ask you to authenticate to Cloudflare.
+* Login through the normal Okta login process.
+* A success page should appear once logged in.
 
 {% include figure url="/assets/images/win-vpn-04.png" image_path="/assets/images/win-vpn-04.png" %}
 
-10. The Company Portal will now show WARP as Installed.
-11. You can close the Company Portal.
+* The Company Portal will now show WARP as Installed.
+* You can close the Company Portal.
 
 {% include figure url="/assets/images/win-vpn-05.png" image_path="/assets/images/win-vpn-05.png" %}
 
-12. Ensure notifications are turned on by opening Settings -> System -> Notifications -> Cloudflare WARP from the Windows start menu. 
-13. Make sure the following settings are turned On.
-* Notifications
-* Allow app to send important notifications when do not disturb is on 
-14. Select Top for the priority of the notification.
+* Ensure notifications are turned on by opening Settings -> System -> Notifications -> Cloudflare WARP from the Windows start menu. 
+* Make sure the following settings are turned On.
+  * Notifications
+  * Allow app to send important notifications when do not disturb is on 
+* Select Top for the priority of the notification.
 
 {% include figure url="/assets/images/win-vpn-06.png" image_path="/assets/images/win-vpn-06.png" %}
