@@ -10,4 +10,4 @@ header:
 
 {% include yubikey.md %}
 
-[Next Step &rarr;](/chrome-tips/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-vpn/){: .btn .btn--success .btn--large}
