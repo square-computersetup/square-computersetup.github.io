@@ -8,6 +8,8 @@ header:
   overlay_color: "#333"
 ---
 
+# Macbook Setup
+
 The __Remote Management__ screen should indicate it is managed by __Block Inc.__:
 
 {% include figure url="/assets/images/remote-management-block.png" image_path="/assets/images/remote-management-block.png" %}

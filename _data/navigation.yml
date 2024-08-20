@@ -30,8 +30,8 @@ nav-mac:
         url: /mac/
       - title: "Software Installation"
         url: /mac-installs/
-      - title: "Okta Fastpass"
-        url: /mac-okta-fastpass/
+      # - title: "Okta Fastpass"
+      #  url: /mac-okta-fastpass/
       - title: "Chrome"
         url: /mac-chrome/
       - title: "Go Links"
