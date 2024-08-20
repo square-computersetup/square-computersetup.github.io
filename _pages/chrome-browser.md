@@ -7,6 +7,7 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Chromebook Browser
 
 Now let's quickly make sure your Chrome browser is properly configured before we continue.
 
