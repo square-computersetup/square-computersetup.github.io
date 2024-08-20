@@ -39,32 +39,32 @@ header:
 
 * Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
-{% include figure url="/assets/images/win-setup-06" image_path="/assets/images/win-setup-06" %}
+{% include figure url="/assets/images/win-setup-06.png" image_path="/assets/images/win-setup-06.png" %}
 
 * You will then be brought to a screen that says __Other user__. Sign in with your email address and password.
 
-{% include figure url="/assets/images/win-setup-07" image_path="/assets/images/win-setup-07" %}
+{% include figure url="/assets/images/win-setup-07.png" image_path="/assets/images/win-setup-07.png" %}
 
 * Once you see an Okta login screen here, sign in using your username and password.
 
-{% include figure url="/assets/images/win-setup-08" image_path="/assets/images/win-setup-08" %}
+{% include figure url="/assets/images/win-setup-08.png" image_path="/assets/images/win-setup-08.png" %}
 
 * Once the setup retuns to __Setting up for work or school__, a __Continue Anyway__ button will appear on the lower right of the screen. You may choose to click __Continue Anyway__ instead of waiting for the setup to finish.
 
-{% include figure url="/assets/images/win-setup-09" image_path="/assets/images/win-setup-09" %}
+{% include figure url="/assets/images/win-setup-09.png" image_path="/assets/images/win-setup-09.png" %}
 
 * Next, you will be asked to __Use Windows Hello__ with your account. Press __Ok__.
 
-{% include figure url="/assets/images/win-setup-10" image_path="/assets/images/win-setup-10" %}
+{% include figure url="/assets/images/win-setup-10.png" image_path="/assets/images/win-setup-10.png" %}
 
 *	Depending on the computer you received, you will have the option to set up Use your Fingerprint, Biometrics, or choose "Skip for now" if you don’t want to use biometrics.
 
 * Next, you will be asked to __Set up a PIN__. Setting up a PIN is required. The PIN will be the password you use to log into the computer; it must be at least 8 characters long, and if you want to use letters you will need to check the box to allow it.
 
-{% include figure url="/assets/images/win-setup-11" image_path="/assets/images/win-setup-11" %}
+{% include figure url="/assets/images/win-setup-11.png" image_path="/assets/images/win-setup-11.png" %}
 
 * Click __OK__ on the next screen to be taken to the desktop.
 
-{% include figure url="/assets/images/win-setup-12" image_path="/assets/images/win-setup-12" %}
+{% include figure url="/assets/images/win-setup-12.png" image_path="/assets/images/win-setup-12.png" %}
 
 [Next Step &rarr;](/win-updates){: .btn .btn--success .btn--large}
