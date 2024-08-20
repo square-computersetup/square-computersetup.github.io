@@ -4,18 +4,18 @@ title: "Okta Verify Mobile Setup"
 header:
   overlay_color: "#333"
 ---
-## Setting up Okta Verify on Mobile:
+# Setting up Okta Verify on Mobile:
 
 Your first login will be on your mobile device in the __Okta Verify__ app. Scroll through the following steps to add your account.
 
 {% include figure url="/assets/images/ovm-1.png" image_path="/assets/images/ovm-1.png"  %}
-First, Select the plus symbol near the top of the screen.
+First, select the plus symbol near the top of the screen.
 
 {% include figure url="/assets/images/ovm-2.png" image_path="/assets/images/ovm-2.png"  %}
 Choose the __Organization__ account type.
 
 {% include figure url="/assets/images/ovm-3.png" image_path="/assets/images/ovm-3.png"  %}
-Skip the next step
+Skip the next step.
 
 {% include figure url="/assets/images/ovm-4.png" image_path="/assets/images/ovm-4.png"  %}
 Select __No, Sign In Instead__. A QR Code cannot be used.
