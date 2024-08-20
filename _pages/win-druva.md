@@ -13,19 +13,19 @@ We use __Druva__ to continuously backup your computer to the cloud, just to be s
 
 * Start by clicking the Druva inSync icon on the desktop.
 
-{% include figure url="/assets/images/win-druva1.png” image_path=”/assets/images/win-druva1.png" %}
+{% include figure url="/assets/images/win-druva1.png" image_path="/assets/images/win-druva1.png" %}
 
 * Enter your username ending in @squareup.com and click Continue (This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com.)
 
-{% include figure url="/assets/images/win-druva2.png” image_path=”/assets/images/win-druva2.png" %}
+{% include figure url="/assets/images/win-druva2.png" image_path="/assets/images/win-druva2.png" %}
 
 * Google Chrome and Okta will launch a “Windows Security” prompt. Enter the PIN you set up earlier.
 
-{% include figure url="/assets/images/win-druva3.png” image_path=”/assets/images/win-druva3.png" %}
+{% include figure url="/assets/images/win-druva3.png" image_path="/assets/images/win-druva3.png" %}
 
 * When the Open InSync? pop-up appears, click Open InSyncAgent.
   
-{% include figure url="/assets/images/win-druva4.png” image_path=”/assets/images/win-druva4.png" %}
+{% include figure url="/assets/images/win-druva4.png" image_path="/assets/images/win-druva4.png" %}
 
 * The Druva window will come back to the foreground. DO NOT click any buttons.
 
