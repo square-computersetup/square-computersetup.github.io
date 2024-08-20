@@ -14,54 +14,52 @@ header:
 
 __Important__: Before we move forward, let’s set up Google Chrome as your default browser.
 
-  1.	Open Windows Settings.
-	2.	Click on Apps in the left side panel.
-	3.	Click on Default Apps.
+* Open Windows Settings.
+* Click on Apps in the left side panel.
+* Click on Default Apps.
 
-  {% include figure url="/assets/images/win-chrome-01.png" image_path="/assets/images/win-chrome-01.png" %}
+{% include figure url="/assets/images/win-chrome-01.png" image_path="/assets/images/win-chrome-01.png" %}
 
-	4.	Search for Google Chrome.
+* Search for Google Chrome.
 
-  {% include figure url="/assets/images/win-chrome-02.png" image_path="/assets/images/win-chrome-02.png" %}
+{% include figure url="/assets/images/win-chrome-02.png" image_path="/assets/images/win-chrome-02.png" %}
 
-	5.	Click on Google Chrome and set it as the default browser.
+* Click on Google Chrome and set it as the default browser.
 
-  {% include figure url="/assets/images/win-chrome-03.png" image_path="/assets/images/win-chrome-03.png" %}
-
+{% include figure url="/assets/images/win-chrome-03.png" image_path="/assets/images/win-chrome-03.png" %}
 
 ## Signing into Google Chrome
 
 Now let’s open Google Chrome. The icon should be on your Windows Desktop. If it isn’t there right away, wait a minute or two.
 
-  1.	Open Google Chrome from the desktop.
-	2.	Click Sign In and enter your email.
+* Open Google Chrome from the desktop.
+* Click Sign In and enter your email.
 
-  {% include figure url="/assets/images/win-chrome-05.png" image_path="/assets/images/win-chrome-05.png" %}
+{% include figure url="/assets/images/win-chrome-05.png" image_path="/assets/images/win-chrome-05.png" %}
 
-	3.	An Okta login page will appear. Click Sign in with Okta Fastpass.
+* An Okta login page will appear. Click Sign in with Okta Fastpass.
 
-  {% include figure url="/assets/images/win-chrome-06.png" image_path="/assets/images/win-chrome-06.png" %}
+{% include figure url="/assets/images/win-chrome-06.png" image_path="/assets/images/win-chrome-06.png" %}
 
-	4.	The Okta Fastpass screen will authenticate you through the biometrics you have set up.
-	5.	Once authenticated, the Okta login screen will load again, and you will need to enter your password.
+* The Okta Fastpass screen will authenticate you through the biometrics you have set up.
+* Once authenticated, the Okta login screen will load again, and you will need to enter your password.
 
-  {% include figure url="/assets/images/win-chrome-07.png" image_path="/assets/images/win-chrome-07.png" %}
+{% include figure url="/assets/images/win-chrome-07.png" image_path="/assets/images/win-chrome-07.png" %}
 
-	6.	After entering your password, you will be brought to a page that says “Your organization will manage this profile.” Leave the box checked and click Continue.
+* After entering your password, you will be brought to a page that says “Your organization will manage this profile.” Leave the box checked and click Continue.
 
-  {% include figure url="/assets/images/win-chrome-09.png" image_path="/assets/images/win-chrome-09.png" %}
+{% include figure url="/assets/images/win-chrome-09.png" image_path="/assets/images/win-chrome-09.png" %}
 
-	7.	A prompt will appear asking you to “Turn on Sync.” Click Yes, I’m in.
-      •	This is important to enable as it will download the necessary Chrome extensions for using go/links and other internal tools.
+* A prompt will appear asking you to “Turn on Sync.” Click Yes, I’m in. This is important to enable as it will download the necessary Chrome extensions for using go/links and other internal tools.
 
-  {% include figure url="/assets/images/win-chrome-10.png" image_path="/assets/images/win-chrome-10.png" %}
+{% include figure url="/assets/images/win-chrome-10.png" image_path="/assets/images/win-chrome-10.png" %}
 
-	8.	You can confirm that you’re logged in by seeing your icon or profile picture in the top right corner of the page. 
+* You can confirm that you’re logged in by seeing your icon or profile picture in the top right corner of the page. 
 
-  {% include figure url="/assets/images/win-chrome-11.png" image_path="/assets/images/win-chrome-11.png" %}
+{% include figure url="/assets/images/win-chrome-11.png" image_path="/assets/images/win-chrome-11.png" %}
 
-  9. To test that you’re logged in, click on the Gmail button, which will load all your welcome and onboarding emails from Block and your lead.
+* To test that you’re logged in, click on the Gmail button, which will load all your welcome and onboarding emails from Block and your lead.
 
-  {% include figure url="/assets/images/win-chrome-12.png" image_path="/assets/images/win-chrome-12.png" %}
+{% include figure url="/assets/images/win-chrome-12.png" image_path="/assets/images/win-chrome-12.png" %}
 
 [Next Step &rarr;](/win-go/){: .btn .btn--success .btn--large}
