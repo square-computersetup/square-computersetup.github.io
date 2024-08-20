@@ -7,61 +7,101 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+# Google Chrome
 
-Now, some extra steps to get Google Chrome properly set up for use as your primary web browser. Let's start with accessing __Spotlight Search__ by pressing __Command__ + __Spacebar__ on your keyboard.
+## Setting Up Google Chrome as your Default Browser
+Before we move forward, it's critical to set Google Chrome as your Default Browser.
+* Open Systen Settings. 
+* In the search bar, type “Default web browser” and select the option that appears.
 
-{% include figure url="/assets/images/cmd+spacebar.png" image_path="/assets/images/cmd+spacebar.png" %}
+{% include figure url="/assets/images/mac-chrome-01.png" image_path="/assets/images/mac-chrome-01.png" %}
 
-{% include figure url="/assets/images/mac-chrome-spotlight.png" image_path="/assets/images/mac-chrome-spotlight.png" %}
+* Scroll down to the Default web browser section and select Google Chrome to make it your default browser.
 
-Type in __Chrome__ and then click on the top hit, which is the application itself.
+{% include figure url="/assets/images/mac-chrome-02.png" image_path="/assets/images/mac-chrome-02.png" %}
 
-{% include figure url="/assets/images/mac-chrome-firewall.png" image_path="/assets/images/mac-chrome-firewall.png" %}
+## Setting up Okta Fastpass to work with Google Chrome
 
-Click [Allow](){: .btn .btn--inverse .btn--small} if you see a one-time warning that Google Chrome wishes to accept incoming network connections. This is normal and expected.
+Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
 
-{% include figure url="/assets/images/mac-chrome-welcome.png" image_path="/assets/images/mac-chrome-welcome.png"  %}
+Before setting up Okta Verify, ensure that Bluetooth is enabled on both your MacBook and on your mobile device. 
 
-On the __Welcome to Google Chrome__ screen, click [Start Google Chrome](){: .btn .btn--inverse .btn--small}.
+To confirm this on your MacBook, click on the Control Center icon in the top right corner.
 
-{% include figure url="/assets/images/mac-chrome-default.png" image_path="/assets/images/mac-chrome-default.png"  %}
+{% include figure url="/assets/images/bluetooth-mac.png" image_path="/assets/images/bluetooth-mac.png" %}
+{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac.png2" %}
 
-Click [Use Chrome](){: .btn .btn--inverse .btn--small} to set the default web browser.
+Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
 
-If you do not see this, you can set Google Chrome as your default browser in System Settings by clicking on Desktop and Dock, and then changing the drop-down option from Safari to Google Chrome.{: .notice--warning}
+{% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
 
-{% include figure url="/assets/images/mac-chrome-notification.png" image_path="/assets/images/mac-chrome-notification.png"  %}
+* Once you confirm that your Bluetooth is on for your computer and mobile device. Open Google Chrome.
+* Click on “Sign In.”
 
-You will get a notification in the top right of your screen to allow Chrome to send you notifications, click [Allow](){: .btn .btn--inverse .btn--small}.
+{% include figure url="/assets/images/mac-chrome-03.png" image_path="/assets/images/mac-chrome-03.png" %}
 
-Next, we will sign-in to Google Chrome to link it to Block's Google Workplace (formerly "GSuite").
+* Enter the email address you received in your Welcome Email and the password you set.
+* Click “Use Okta Fastpass.”
 
-{% include figure url="/assets/images/mac-chrome-signin.png" image_path="/assets/images/mac-chrome-signin.png"  %}
+{% include figure url="/assets/images/mac-chrome-04.png" image_path="/assets/images/mac-chrome-04.png" %}
 
-Click on the text __Already a Chrome user? Sign In__ on the __Make Chrome your own__ page.
+* Click "Open Okta Verify."
 
-Log in to Google using your full Block email address (e.g., jsmith@block.xyz). You will then be redirected to Okta:
+{% include figure url="/assets/images/mac-chrome-05.png" image_path="/assets/images/mac-chrome-05.png" %}
 
-{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
+* An Okta prompt will appear. Click “Get Started.”
 
-Enter your email and password and click [Sign In](){: .btn .btn--inverse .btn--small}.
+{% include figure url="/assets/images/mac-chrome-06.png" image_path="/assets/images/mac-chrome-06.png" %}
 
-{% include figure url="/assets/images/duo-push.jpg" image_path="/assets/images/duo-push.jpg"  %}
+* After clicking “Get Started,” Google Chrome will prompt you to sign in to Okta.
+* Once signed in to Okta, select “Get a push notification.” A notification will be sent to your phone for authentication.
 
-Choose one of the authentication methods, such as sending a push notice to your mobile app.
+{% include figure url="/assets/images/mac-chrome-07.png" image_path="/assets/images/mac-chrome-07.png" %}
+{% include figure url="/assets/images/mac-chrome-08.png" image_path="/assets/images/mac-chrome-08.png" %}
 
-{% include figure url="/assets/images/mac-chrome-password.png" image_path="/assets/images/mac-chrome-password.png"  %}
+* If authentication is successful, you will see a message in Google Chrome that says “Your identity is verified.”
 
-Chrome will ask if you'd like to save this password. While it is acceptable to save passwords to Chrome in the future if you would like, we will skip this step for now. Click the small __X__ to decline this action.
+{% include figure url="/assets/images/mac-chrome-00.png" image_path="/assets/images/mac-chrome-09.png" %}
 
-{% include figure url="/assets/images/mac-chrome-link.png" image_path="/assets/images/mac-chrome-link.png"  %}
+* A new screen in Okta Verify will appear, asking you to enable Touch ID or password confirmation. Click “Enable.”
 
-When prompted to sync your browser with Block's Google services, click on [Link Data](){: .btn .btn--inverse .btn--small}.
+{% include figure url="/assets/images/mac-chrome-10.png" image_path="/assets/images/mac-chrome-10.png" %}
 
-{% include figure url="/assets/images/mac-chrome-sync.png" image_path="/assets/images/mac-chrome-sync.png"  %}
+* If Touch ID is successfully added, you will land on the confirmation screen. And, a Okta Verify prompt will ask you to use your Touch ID. 
 
-Click [Yes I'm in](){: .btn .btn--inverse .btn--small} to confirm a sync with Block's Google services.
+{% include figure url="/assets/images/mac-chrome-11.png" image_path="/assets/images/mac-chrome-11.png" %}
+{% include figure url="/assets/images/mac-chrome-12.png" image_path="/assets/images/mac-chrome-12.png" %}
 
-{% include chromeext.md %}
+
+## Signing into Google Chrome
+* Open Google Chrome.
+* Click the profile icon in the top right corner.
+* Click “Turn on sync…”
+
+{% include figure url="/assets/images/mac-chrome-13.png" image_path="/assets/images/mac-chrome-13.png" %}
+
+* Select “Use Okta Fastpass.”
+
+{% include figure url="/assets/images/mac-chrome-14.png" image_path="/assets/images/mac-chrome-14.png" %}
+
+* An Okta Verify screen will appear. Use your Touch ID or password to verify your identity.
+
+{% include figure url="/assets/images/mac-chrome-15.png" image_path="/assets/images/mac-chrome-15.png" %}
+
+* Once verified, Google Chrome will reopen. Click “Continue” on the Identity Verification screen.
+
+{% include figure url="/assets/images/mac-chrome-16.png" image_path="/assets/images/mac-chrome-16.png" %}
+
+* Click “Continue” on the “Your organization will manage this profile” screen.
+
+{% include figure url="/assets/images/mac-chrome-17.png" image_path="/assets/images/mac-chrome-17.png" %}
+
+* Click “Yes, I’m In” on the “Turn on sync” screen.
+
+{% include figure url="/assets/images/mac-chrome-18.png" image_path="/assets/images/mac-chrome-18.png" %}
+
+* After signing in, you will see your Chrome extensions installed, such as the Square Go Links extension.
+
+{% include figure url="/assets/images/mac-chrome-20.png" image_path="/assets/images/mac-chrome-20.png" %}
 
 [Next Step &rarr;](/mac-go/){: .btn .btn--success .btn--large}

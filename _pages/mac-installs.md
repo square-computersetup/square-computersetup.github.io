@@ -8,28 +8,33 @@ header:
   overlay_color: "#333"
 ---
 
+# Managed Software Center Update
+
 The Managed Software Center will open as soon as possible after you have signed into your account and completed the previous steps. 
 
-You should also see Safari pop open to this page so you can follow along with this guide on your new laptop.
+{% include figure/url="/assets/images/msc.png" image_path="assets/images/msc" %}
+
+
+If the Managed Softawre Center doesn't open up, please open Launchpad, scroll to the next page, and click on the Managed Software Center to manually open it up. 
+{% include figure/url="/assets/images/mac-launchpad-01.png" image_path="assets/images/mac-launchpad-01.png" %}
+{% include figure/url="/assets/images/mac-launchpad-02.png" image_path="assets/images/mac-launchpad-02.png" %}
+{% include figure/url="/assets/images/mac-launchpad-03.png" image_path="assets/images/mac-launchpad-03.png" %}
 {: .notice--warning}
-
-{% include figure url="/assets/images/mac-mgmt-BigSur.jpg" image_path="/assets/images/mac-mgmt-BigSur.jpg" caption="(If you do not see this after five minutes, you may need to [update your Mac OS](/mac-os-update))" %}
-
-{% include figure url="/assets/images/mac-updates.jpg" image_path="/assets/images/mac-updates-notification.jpeg" caption="(You may or may not see this prompt)" %}
-
-If you see the __Updates Available__ notification, please click [Install](){: .btn .btn--inverse .btn--small} and run through the update. Then, return to these steps.
-
-{% include figure url="/assets/images/mac-installs-forced.png" image_path="/assets/images/mac-installs-forced.png" %}
 
 Once Managed Software Updates have completed, it will prompt you about a __Forced logout for mandatory install__. 
 Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the installer and restart your laptop.
+
+{% include figure url="/assets/images/mac-installs-forced.png" image_path="/assets/images/mac-installs-forced.png" %}
 
 {% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" width=54
     height=auto %}
 
 You may see some updates happening after you logout. After you no longer see any visual indication that an update is happening, __Login__ again using your __Laptop Password__ (which may be different than your Okta password).
 
-If you have not already done so, please [update your Mac OS](/mac-os-update).
+# Apple's MacOS Update
+Equally important to the Managed Software Center Update, it is critical to run's Apple Software Update as well. If your computer is out of date, you will not be able to reach any Block internal tools.
+
+Please follow our guide: [update your Mac OS](/mac-os-update).
 
 
-[Next Step &rarr;](/mac-okta-fastpass){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
