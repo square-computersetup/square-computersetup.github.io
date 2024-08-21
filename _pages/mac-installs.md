@@ -12,7 +12,7 @@ header:
 
 The Managed Software Center will open as soon as possible after you have signed into your account and completed the previous steps. 
 
-{% include figure/url="/assets/images/msc.png" image_path="assets/images/msc" %}
+{% include figure/url="/assets/images/msc.png" image_path="assets/images/msc.png" %}
 
 
 If the Managed Softawre Center doesn't open up, please open Launchpad, scroll to the next page, and click on the Managed Software Center to manually open it up. 
