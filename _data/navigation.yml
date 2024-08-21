@@ -36,8 +36,8 @@ nav-mac:
         url: /mac-chrome/
       - title: "Go Links"
         url: /mac-go/
-      - title: "Password"
-        url: /mac-password/
+      # - title: "Password"
+      # url: /mac-password/
       - title: "Slack"
         url: /mac-slack/
       - title: "Yubikey"

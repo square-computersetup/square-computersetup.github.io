@@ -8,55 +8,22 @@ header:
   overlay_color: "#333"
 ---
 
-If Druva automatically activated and you want to restore files, follow these steps. Otherwise, jump to [Did you manually Activate Druva?](#gohere)
+# Restoring with Druva
 
-Start by clicking on the Druva icon in the top-right corner of your MacBook desktop and select “Open Preferences”
+* Click the Druva icon in the top-right corner, then select Restore.
 
-{% include figure url="/assets/images/druva-restore1.png" image_path="/assets/images/druva-restore1.png" %}
+{% include figure url="/assets/images/druva-restore-01.jpg" image_path="/assets/images/druva-restore-01.jpg" %}
 
-Within the Druva application, click the “Restore…” 
+* On the Druva inSync page, click Restore.
 
-{% include figure url="/assets/images/druva-restore2.png" image_path="/assets/images/druva-restore2.png" %}
+{% include figure url="/assets/images/druva-restore-02.jpg" image_path="/assets/images/druva-restore-02.jpg" %}
 
-A new “Druva Restore” window will appear. Review the machines listed and find the machine you would like to restore from.
+* A “Druva Restore” window will appear. Review the list of machines and select the one you want to restore from. Then, choose the date you want to restore from.
 
-Once you have selected the machine, select the date you would like to restore from.
+{% include figure url="/assets/images/druva-restore-03.jpg" image_path="/assets/images/druva-restore-03.jpg" %}
 
-{% include figure url="/assets/images/druva-restore3.png" image_path="/assets/images/druva-restore3.png" %}
+* Open the folders, and using the checkboxes, select only the data you need to restore (recommended). Files to be restored are typically found in the folder with your username.
+* Click Restore.
+* You can close the Druva window; the restore process (if any) will continue in the background.
 
-
-Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended). Files needing to be restored are typically found in the folder with your username.
-
-* Note - Do not restore all contents of your backup.
-
-Then click __Restore.__
-
-You may close the Druva window and the restore process (if any) will continue in the background. 
-
-
-__Did you manually activate Druva?__
-{: #gohere }
-
-Click [Replace an Existing Device](){: .btn .btn--inverse .btn--small} 
-
-{% include figure url="/assets/images/druva-mac1.jpg" image_path="/assets/images/druva-mac1.jpg" %}
-
-Click [Restore Now](){: .btn .btn--inverse .btn--small}.
-
-{% include figure url="/assets/images/druva-mac2.jpg" image_path="/assets/images/druva-mac2.jpg" %}
-
-A new “Druva Restore” window will appear, review the machines listed and find the machine you would like to restore from.
-
-Once you have selected the machine, select the date you would like to restore from.
-
-{% include figure url="/assets/images/druva-restore3.png" image_path="/assets/images/druva-restore3.png" %}
-
-Click to open the folders, and using the checkboxes, select only the data that you need to restore (recommended). Files needing to be restored are typically found in the folder with your username.
-
-* Note - Do not restore all contents of your backup.
-
-Then click __Restore.__
-
-You may close the Druva window and the restore process (if any) will continue in the background. 
-
-[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-vpn/){: .btn .btn--success .btn--large}
