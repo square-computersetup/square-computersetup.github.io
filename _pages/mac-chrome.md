@@ -22,6 +22,8 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 
 ## Setting up Okta Fastpass to work with Google Chrome
 
+__Note:__ If you don’t see the Okta Verify app on your computer, please don't install it from the App store. Ensure that you have completed all updates from the [Managed Software Center &rarr;](/_pages/mac-installs.md/). If the Managed Software Center is not on your computer, please follow this [link &rarr;](/_pages/mac-mdm.md) to manually install it. It is critical for Okta Verify to be installed by the Managed Software Center.  
+
 Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
 
 Before setting up Okta Verify, ensure that Bluetooth is enabled on both your MacBook and on your mobile device. 
@@ -41,6 +43,13 @@ Now make sure Bluetooth is turned __on__ on your mobile device. Use your control
 {% include figure url="/assets/images/mac-chrome-03.png" image_path="/assets/images/mac-chrome-03.png" %}
 
 * Enter the email address you received in your Welcome Email and the password you set.
+
+{% include figure url="/assets/images/mac-chrome-22.png" image_path="/assets/images/mac-chrome-22.png" %}
+
+* For the Okta Screen, enter your username and password
+
+{% include figure url="/assets/images/mac-chrome-21.png" image_path="/assets/images/mac-chrome-21.png" %}
+
 * Click “Use Okta Fastpass.”
 
 {% include figure url="/assets/images/mac-chrome-04.png" image_path="/assets/images/mac-chrome-04.png" %}

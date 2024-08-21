@@ -46,7 +46,7 @@ Please note that you will be asked for your __Laptop Password__ periodically eve
 
 You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You can also make these changes later in System Settings.
 
-{% include figure url="/assets/images/mac-desktop.png" image_path="/assets/images/mac-desktop.png"  %}
+{% include figure url="/assets/images/sonoma-homescreen.png" image_path="/assets/images/sonoma-homescreen.png"  %}
 
 After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
 

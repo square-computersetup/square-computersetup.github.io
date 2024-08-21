@@ -8,37 +8,31 @@ header:
   overlay_color: "#333"
 ---
 
-We use __Druva__ to continuously backup your MacBook to the cloud, just to be safe. Let’s check to see if it is activated now.
+# Druva Setup
 
-Start by clicking on the Druva icon near the Okta Verify icon in the top-right corner of your MacBook.
+* Start by clicking the Druva icon near the Okta Verify icon in the top-right corner of your MacBook.
+* Click on Activate Backup.
 
-If you see either of the below menus, Druva has been activated and you can [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} or [Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
+{% include figure url="/assets/images/mac-druva-01.png" image_path="/assets/images/mac-druva-01.png" %}
 
-{% include figure url="/assets/images/druva-mac3.jpeg" image_path="/assets/images/druva-mac3.jpeg" %}
+* Enter your username ending in @squareup.com and click Continue{: .btn .btn–inverse .btn–small}
+__Note:__ This will not work with an @tidal.com or @block.xyz domain. You must use @squareup.com. For example, use jsmith@squareup.com instead of jsmith@block.xyz.
 
-{% include figure url="/assets/images/druva-mac4.jpg" image_path="/assets/images/druva-mac4.jpg" %}
+{% include figure url="/assets/images/mac-druva-03.png" image_path="/assets/images/mac-druva-03.png" %}
 
-If you see “__Activate Backup…__” continue below:
+* After entering your username, a Google Chrome page will appear with a prompt asking you to “Open Druva inSync.” Click on Open Druva inSync.
 
-{% include figure url="/assets/images/druva-mac-tray.jpg" image_path="/assets/images/druva-mac-tray.jpg" %}
+{% include figure url="/assets/images/mac-druva-04.png" image_path="/assets/images/mac-druva-04.png" %}
 
-Click on __Activate Backup__.
+* Click on Add as New Device.
 
-{% include figure url="/assets/images/druva-activate.jpg" image_path="/assets/images/druva-activate.jpg" %}
+{% include figure url="/assets/images/mac-druva-05.png" image_path="/assets/images/mac-druva-05.png" %}
 
-Enter your username ending in __@squareup.com__ and click [Continue](){: .btn .btn--inverse .btn--small} 
-(This will not work with a @tidal.com or @block.xyz domain. You must use @squareup.com. An example of this is using jsmith@squareup.com instead of jsmith@block.xyz).
+* Druva will then display a screen with a loading bar, indicating that it’s backing up your data.
 
-{% include figure url="/assets/images/druva-login.jpg" image_path="/assets/images/druva-login.jpg" %}
-
-Chrome will launch and open to __cloud.druva.com__. This should automatically activate your account (if you have not recently performed an Okta login, you'll be prompted to do so). 
-
-When the __Open InSync?__ pop-up appears, click [Open InSync](){: .btn .btn--inverse .btn--small}.
-
-{% include figure url="/assets/images/druva-sso.jpg" image_path="/assets/images/druva-sso.jpg" %}
-
-The Druva window will come back to the foreground. __DON'T__ click any buttons until it finishes logging you in.
+{% include figure url="/assets/images/mac-druva-06.png" image_path="/assets/images/mac-druva-06.png" %}
 
 If this is your first Block laptop, you can __close__ the Druva window and go to the next step. Otherwise, click the button to restore your backup from your old Block laptop.
 
 [Next Step &rarr;](/mac-vpn/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 
+{% include figure url="/assets/images/druva-mac-tray.jpg" image_path="/assets/images/druva-mac-tray.jpg" %}
