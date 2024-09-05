@@ -11,7 +11,7 @@ header:
 
 ## Setting Up Google Chrome as your Default Browser
 Before we move forward, it's critical to set Google Chrome as your Default Browser.
-* Open Systen Settings. 
+* Open System Settings. 
 * In the search bar, type “Default web browser” and select the option that appears.
 
 {% include figure url="/assets/images/mac-chrome-01.png" image_path="/assets/images/mac-chrome-01.png" %}
