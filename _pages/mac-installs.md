@@ -14,7 +14,7 @@ The Managed Software Center will open as soon as possible after you have signed 
 
 {% include figure url="/assets/images/msc.png" image_path="assets/images/msc.png" %}
 
-__Note:__ If the Managed Softawre Center doesn't open up, please open Launchpad, scroll to the next page, and click on the Managed Software Center to manually open it up.
+__Note:__ If the Managed Software Center doesn't open up, please open Launchpad, scroll to the next page, and click on the Managed Software Center to manually open it up.
 {% include figure url="/assets/images/mac-launchpad-01.png" image_path="assets/images/mac-launchpad-01.png" %}
 {% include figure url="/assets/images/mac-launchpad-02.png" image_path="assets/images/mac-launchpad-02.png" %}
 {% include figure url="/assets/images/mac-launchpad-03.png" image_path="assets/images/mac-launchpad-03.png" %}
