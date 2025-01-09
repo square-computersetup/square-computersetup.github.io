@@ -23,7 +23,7 @@ header:
 
 * You will then see a __Let's get things set up for your work or school__ screen.
 
-* Enter your squareup.co or block.xyz email into the Microsoft login page.(example: johndoe@block.xyz or johndoe@squareup.com)
+* Enter your squareup.com or block.xyz email into the Microsoft login page.(example: johndoe@block.xyz or johndoe@squareup.com)
 
 {% include figure url="/assets/images/win-setup-02.png" image_path="/assets/images/win-setup-02.png" %}
 
