@@ -10,4 +10,4 @@ header:
 
 {% include yubikey.md %}
 
-[Next Step &rarr;](/mac-vpn/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
