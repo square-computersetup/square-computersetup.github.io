@@ -47,3 +47,5 @@ __Note:__ It is important that you enable all notifications from the WARP client
 * Select Top for the priority of the notification.
 
 {% include figure url="/assets/images/win-vpn-06.png" image_path="/assets/images/win-vpn-06.png" %}
+
+[Next Step &rarr;](/win-tips/){: .btn .btn--success .btn--large}
