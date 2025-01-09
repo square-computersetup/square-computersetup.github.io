@@ -36,4 +36,4 @@ Here at Block, we use Slack for instant messaging to enable quick communication 
 
 * Slack will open with the default channels. Feel free to take a look around or message your lead to let them know you’ve set it up. Then, move on to the next step, which is Druva.
 
-[Next Step &rarr;](/win-druva){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/win-yubikey){: .btn .btn--success .btn--large}
