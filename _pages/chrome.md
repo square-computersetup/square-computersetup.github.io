@@ -23,7 +23,7 @@ __Let's get your ChromeOS device set up!__
 
 * Enter your full email address and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-{% include duosetup.md %}
+{% include duo-setup-new.md %}
 
 * Once logged in, you should see this success message:
 
