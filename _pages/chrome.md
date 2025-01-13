@@ -23,17 +23,31 @@ __Let's get your ChromeOS device set up!__
 
 * Enter your full email address and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-{% include duo-setup-new.md %}
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-* Once logged in, you should see this success message:
+Enter your username, click Next{: .btn .btn--inverse .btn--small} then enter your newly created password, and click Verify{: .btn .btn--inverse .btn--small}
+
+Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: {% include figure url="/assets/images/okta-setup-push.png" image_path="/assets/images/okta-setup-push.png" %}
+
+Click Set Up when asked to set up a Security Key or Biometric Authenticator. 
+
+You should have received a YubiKey with your laptop. This device provides an additional way to authenticate with Okta in case Okta FastPass is not available. Insert it into your laptop now. 
+
+{% include figure url="/assets/images/yubikey-5c-nfc.png" image_path="/assets/images/yubikey-5c-nfc.png" caption="(If you didn't get a Yubikey, file a go/IT ticket)" %}
+
+Click Set Up, then choose __USB Security Key__
+{% include figure url="/assets/images/security-key-setup.png" image_path="/assets/images/security-key-setup.png" 
+
+When prompted, insert the Yubikey, and touch the gold sensor. 
+
+Select __Allow__ when asked if the site can use your YubiKey.
+{% include figure url="/assets/images/security-key-allow.png.png" image_path="/assets/images/security-key-allow.png" 
+
+
+* Once logged in, you should see this message:
 
 {% include figure url="/assets/images/chrome-02-signin.jpg" image_path="/assets/images/chrome-02-signin.jpg" caption="(you may review the sync options after setup)" %}
 
 * Click [Accept and Continue](#ready){: .btn .btn--inverse .btn--small}. You may hear the _Google Assistant_ You may hear the Google Assistant announce that it has been disabled. To silence the device audio, press the mute button (above the “0” key in the top row of your keyboard). 
-
-<a name="ready"></a> 
-{% include figure url="/assets/images/chrome-03-ready.jpg" image_path="/assets/images/chrome-03-ready.jpg"  %}
-
-* When you see the __Ready!__ display, click [Get Started](/chrome-tips){: .btn .btn--inverse .btn--small}.
 
 [Next Step &rarr;](/chrome-browser/){: .btn .btn--success .btn--large}
