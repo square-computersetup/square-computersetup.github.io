@@ -23,11 +23,11 @@ __Let's get your ChromeOS device set up!__
 
 * Enter your full email address and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
+**Duo-login2**
 
 Enter your username, click Next{: .btn .btn--inverse .btn--small} then enter your newly created password, and click Verify{: .btn .btn--inverse .btn--small}
 
-Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: {% include figure url="/assets/images/okta-setup-push.png" image_path="/assets/images/okta-setup-push.png" %}
+Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: **Okta setup push **
 
 Click Set Up when asked to set up a Security Key or Biometric Authenticator. 
 
@@ -36,12 +36,12 @@ You should have received a YubiKey with your laptop. This device provides an add
 {% include figure url="/assets/images/yubikey-5c-nfc.png" image_path="/assets/images/yubikey-5c-nfc.png" caption="(If you didn't get a Yubikey, file a go/IT ticket)" %}
 
 Click Set Up, then choose __USB Security Key__
-{% include figure url="/assets/images/security-key-setup.png" image_path="/assets/images/security-key-setup.png" 
+**USB-security-key**
 
 When prompted, insert the Yubikey, and touch the gold sensor. 
 
 Select __Allow__ when asked if the site can use your YubiKey.
-{% include figure url="/assets/images/security-key-allow.png.png" image_path="/assets/images/security-key-allow.png" 
+**security-key-allow**
 
 
 * Once logged in, you should see this message:
