@@ -27,7 +27,9 @@ __Let's get your ChromeOS device set up!__
 
 Enter your username, click Next{: .btn .btn--inverse .btn--small} then enter your newly created password, and click Verify{: .btn .btn--inverse .btn--small}
 
-Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: **Okta setup push **
+Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: 
+
+{% include figure url="/assets/images/security-key-setup.png" image_path="/assets/images/security-key-setup.png" %}
 
 Click Set Up when asked to set up a Security Key or Biometric Authenticator. 
 
@@ -41,7 +43,7 @@ Click Set Up, then choose __USB Security Key__
 When prompted, insert the Yubikey, and touch the gold sensor. 
 
 Select __Allow__ when asked if the site can use your YubiKey.
-**security-key-allow**
+{% include figure url="/assets/images/security-key-allow.png" image_path="/assets/images/security-key-allow.png" %}
 
 
 * Once logged in, you should see this message:
