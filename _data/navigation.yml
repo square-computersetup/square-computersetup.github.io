@@ -64,8 +64,6 @@ nav-chrome:
         url: /chrome-password/
       - title: "Slack"
         url: /chrome-slack/
-      - title: "Yubikey"
-        url: /chrome-yubikey/
       - title: "VPN"
         url: /chrome-vpn/
       - title: "Tips"
