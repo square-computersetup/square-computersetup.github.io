@@ -1,12 +1,3 @@
----
-title: "Mac Okta Fastpass"
-permalink: /mac-okta-fastpass/
-author_profile: true
-sidebar:
-  nav: "nav-mac"
-header:
-  overlay_color: "#333"
----
 Let's set up __Okta Fastpass__. 
 
 Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
