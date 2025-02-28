@@ -33,7 +33,7 @@ Since you have already set up Okta Verify on your mobile device, you can now use
 
 Click Set Up when asked to set up a Security Key or Biometric Authenticator. 
 
-You should have received a YubiKey with your laptop. This device provides an additional way to authenticate with Okta in case Okta FastPass is not available. Insert it into your laptop now. 
+You should have received a YubiKey with your laptop. Insert it into your laptop now. 
 
 {% include figure url="/assets/images/yubikey-5c-nfc.png" image_path="/assets/images/yubikey-5c-nfc.png" caption="(If you didn't get a Yubikey, file a go/IT ticket)" %}
 
