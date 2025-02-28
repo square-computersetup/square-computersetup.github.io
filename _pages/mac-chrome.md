@@ -28,13 +28,13 @@ __Note:__ If you don’t see the Okta Verify app on your computer, please don't 
 
 
 ## Signing into Google Chrome
-* Open Google Chrome.
-* Click the profile icon in the top right corner.
+* Open Google Chrome
+* Click the profile icon in the top right corner
 * Click “Turn on sync…”
 
 {% include figure url="/assets/images/mac-chrome-13.png" image_path="/assets/images/mac-chrome-13.png" %}
 
-* Select “Use Okta Fastpass.”
+* Select “Use Okta Fastpass”
 
 {% include figure url="/assets/images/mac-chrome-14.png" image_path="/assets/images/mac-chrome-14.png" %}
 
