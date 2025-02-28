@@ -24,62 +24,7 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 
 __Note:__ If you don’t see the Okta Verify app on your computer, please don't install it from the App store. Ensure that you have completed all updates from the [Managed Software Center &rarr;](/_pages/mac-installs.md/). If the Managed Software Center is not on your computer, please follow this [link &rarr;](/_pages/mac-mdm.md) to manually install it. It is critical for Okta Verify to be installed by the Managed Software Center.  
 
-Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
-
-Before setting up Okta Verify, ensure that Bluetooth is enabled on both your MacBook and on your mobile device. 
-
-To confirm this on your MacBook, click on the Control Center icon in the top right corner.
-
-{% include figure url="/assets/images/bluetooth-mac.png" image_path="/assets/images/bluetooth-mac.png" %}
-{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac.png2" %}
-
-Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
-
-{% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
-
-* Once you confirm that your Bluetooth is on for your computer and mobile device. Open Google Chrome.
-* Click on “Sign In.”
-
-{% include figure url="/assets/images/mac-chrome-03.png" image_path="/assets/images/mac-chrome-03.png" %}
-
-* Enter the email address you received in your Welcome Email and the password you set.
-
-{% include figure url="/assets/images/mac-chrome-22.png" image_path="/assets/images/mac-chrome-22.png" %}
-
-* For the Okta Screen, enter your username and password
-
-{% include figure url="/assets/images/mac-chrome-21.png" image_path="/assets/images/mac-chrome-21.png" %}
-
-* Click “Use Okta Fastpass.”
-
-{% include figure url="/assets/images/mac-chrome-04.png" image_path="/assets/images/mac-chrome-04.png" %}
-
-* Click "Open Okta Verify."
-
-{% include figure url="/assets/images/mac-chrome-05.png" image_path="/assets/images/mac-chrome-05.png" %}
-
-* An Okta prompt will appear. Click “Get Started.”
-
-{% include figure url="/assets/images/mac-chrome-06.png" image_path="/assets/images/mac-chrome-06.png" %}
-
-* After clicking “Get Started,” Google Chrome will prompt you to sign in to Okta.
-* Once signed in to Okta, select “Get a push notification.” A notification will be sent to your phone for authentication.
-
-{% include figure url="/assets/images/mac-chrome-07.png" image_path="/assets/images/mac-chrome-07.png" %}
-{% include figure url="/assets/images/mac-chrome-08.png" image_path="/assets/images/mac-chrome-08.png" %}
-
-* If authentication is successful, you will see a message in Google Chrome that says “Your identity is verified.”
-
-{% include figure url="/assets/images/mac-chrome-00.png" image_path="/assets/images/mac-chrome-09.png" %}
-
-* A new screen in Okta Verify will appear, asking you to enable Touch ID or password confirmation. Click “Enable.”
-
-{% include figure url="/assets/images/mac-chrome-10.png" image_path="/assets/images/mac-chrome-10.png" %}
-
-* If Touch ID is successfully added, you will land on the confirmation screen. And, a Okta Verify prompt will ask you to use your Touch ID. 
-
-{% include figure url="/assets/images/mac-chrome-11.png" image_path="/assets/images/mac-chrome-11.png" %}
-{% include figure url="/assets/images/mac-chrome-12.png" image_path="/assets/images/mac-chrome-12.png" %}
+{% include mac-okta-fastpass.md %}
 
 
 ## Signing into Google Chrome
