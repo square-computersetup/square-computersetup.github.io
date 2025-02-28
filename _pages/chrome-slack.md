@@ -10,4 +10,4 @@ header:
 
 {% include slack.md %}
 
-[Next Step &rarr;](/chrome-yubikey){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/chrome-vpn){: .btn .btn--success .btn--large}
