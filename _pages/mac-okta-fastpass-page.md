@@ -1,6 +1,6 @@
 ---
 title: "Mac Okta Fastpass"
-permalink: /mac-okta-fastpass/
+permalink: /mac-okta-fastpass-page/
 author_profile: true
 sidebar:
   nav: "nav-mac"
