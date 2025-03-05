@@ -23,7 +23,7 @@ Select __No, Sign In Instead__. A QR Code cannot be used.
 {% include figure url="/assets/images/ovm-5.png" image_path="/assets/images/ovm-5.png"  %}
 Enter __login.block.xyz__ as your organization’s Sign-in URL.
 
-Enter your Block username: Eg. jsmith@block.xyz, then enter your Okta password.
+Enter your Block username: Eg. `jsmith`, then enter your Okta password.
 {% include figure url="/assets/images/ovm-6.png" image_path="/assets/images/ovm-6.png"  %}
 {% include figure url="/assets/images/ovm-7.png" image_path="/assets/images/ovm-7.png"  %}
 
