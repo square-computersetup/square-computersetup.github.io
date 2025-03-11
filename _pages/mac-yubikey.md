@@ -10,4 +10,4 @@ header:
 
 {% include yubikey.md %}
 
-[Next Step &rarr;](/mac-yubikey/){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-druva/){: .btn .btn--success .btn--large}
