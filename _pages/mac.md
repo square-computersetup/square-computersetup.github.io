@@ -25,7 +25,7 @@ Connect your device to a wired or wireless network, as an internet connection is
 
 {% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 
-Once connected, you should see this screen, click __Enrol__
+Once connected, you should see this screen, click __Enroll__
 {% include figure url="/assets/images/mac-remote-management.png" image_path="/assets/images/mac-remote-management.png"  %}
 
 
