@@ -10,11 +10,7 @@ header:
 
 # Macbook Setup
 
-The __Remote Management__ screen should indicate it is managed by __Block Inc.__:
-
-{% include figure url="/assets/images/remote-management-block.png" image_path="/assets/images/remote-management-block.png" %}
-
-Click [Continue](){: .btn .btn--inverse .btn--small} on the Remote Management screen to receive an Okta login screen:
+After clicking [Enrol](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear:
 
 {% include duo-setup-new.md %}
 
@@ -29,12 +25,15 @@ Your __Full Name__ and __Account Name__ will be pre-filled (the latter should ma
 __NOTE:__ The Account Name __MUST__ match your Block username for proper configuration!
 {: .notice--warning}
 
-Select a strong password to unlock your MacBook. This does not need to be the same as your Okta password, but it can be if you wish. We will refer to this as your __Laptop Password__ to differentiate it from your Okta password.
+Choose a strong password to unlock your MacBook. While it is __strongly recommended__ to use the same password as your Okta account, you may choose a different one if preferred. To avoid confusion, we will refer to this as your __Mac/Laptop Password__.
 
 __NOTE:__ Make sure you remember your password and do not rely on the password hint. The password hint is not shown when you are logging in.
 {: .notice--warning}
 
 Choose to enable Location Services, or set your Time Zone manually.
+
+__NOTE:__ It is __strongly recommended__ to enable Location Services, as some Block applications require accurate time settings to function properly.
+{: .notice--warning}
 
 {% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
 
