@@ -19,10 +19,16 @@ Shortly after boot-up, you will be asked to select your Country or Region, any a
 
 {% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
-Connect your device to a wireless network (either your home WiFi or the Block-Guest network in a Block Office).
+**IMPORTANT**
+Connect your device to a wired or wireless network, as an internet connection is required for setup.
+* In the office? Connect to __Block-Guest__. You can get the password from the local IT team or a colleague with access to go/wifi.
 
 {% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
 
-Next, you may see one of two different screens. Please click the button below that matches what you see.
+Once connected, you should see this screen, click __Enroll__
+{% include figure url="/assets/images/mac-remote-management.png" image_path="/assets/images/mac-remote-management.png"  %}
 
-[Remote Management](/mac-setup){: .btn .btn--success} [Data & Privacy](/mac-setup2){: .btn .btn--success}
+
+If you did not see the screen indicating that this device is owned by __Block, Inc.__, please join the IT onboarding call or email [mission-control@squareup.com](mailto:mission-control@squareup.com) for assistance.
+
+[Next Step](/mac-setup){: .btn .btn--success} 

@@ -12,6 +12,9 @@ Welcome to Block! Let's get you set up so you can get to work right away. First,
 * You can optionally join IT Office Hours to get technical support from a member of our IT Team if you run into any questions. The Google Meet link for this onboarding session will be provided to you via onboarding communications.
 
 ## 📱 Before you start!
-Before starting you will need to set your initial Block password. You will also want to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store. We will use this app for our 2-Factor Authentication.
+Before starting you will need to set your initial Block password. You will need to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store. We will use this app for our 2-Factor Authentication.
+
+**iOS**: https://apps.apple.com/us/app/okta-verify/id490179405
+**Android**: https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_AU
 
 [👍  Let's begin!](/os){: .btn .btn--success .btn--large}
