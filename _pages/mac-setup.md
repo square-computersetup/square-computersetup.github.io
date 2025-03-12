@@ -10,7 +10,7 @@ header:
 
 # Macbook Setup
 
-After clicking [Enrol](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear:
+After clicking [Enroll](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear:
 
 {% include duo-setup-new.md %}
 
