@@ -15,8 +15,8 @@ header:
 
 {% include figure url="/assets/images/mac-druva-01.png" image_path="/assets/images/mac-druva-01.png" %}
 
-* Enter your username ending in @squareup.com and click Continue{: .btn .btn–inverse .btn–small}
-__Note:__ This will not work with an @tidal.com or @block.xyz domain. You must use @squareup.com. For example, use jsmith@squareup.com instead of jsmith@block.xyz.
+* Enter your username ending in @squareup.com and click [Continue](){: .btn .btn--inverse .btn--small}
+__Note:__ This will not work with an `@tidal.com` or `@block.xyz` domain. You must use @squareup.com. For example, use `jsmith@squareup.com` instead of `jsmith@block.xyz`.
 
 {% include figure url="/assets/images/mac-druva-03.png" image_path="/assets/images/mac-druva-03.png" %}
 
@@ -35,4 +35,3 @@ __Note:__ This will not work with an @tidal.com or @block.xyz domain. You must u
 If this is your first Block laptop, you can __close__ the Druva window and go to the next step. Otherwise, click the button to restore your backup from your old Block laptop.
 
 [Next Step &rarr;](/mac-vpn/){: .btn .btn--success .btn--large} [Restore Druva Backup &rarr;](/mac-druva-restore/){: .btn .btn--success .btn--large} 
-{% include figure url="/assets/images/druva-mac-tray.jpg" image_path="/assets/images/druva-mac-tray.jpg" %}
