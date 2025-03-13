@@ -35,18 +35,19 @@ Choose to enable Location Services, or set your Time Zone manually.
 __NOTE:__ It is __strongly recommended__ to enable Location Services, as some Block applications require accurate time settings to function properly.
 {: .notice--warning}
 
-{% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
-
 You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience each day.
 
-Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
+{% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
+
+__NOTE:__ Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
+{: .notice--warning}
+
+You may be prompted to choose between a Light or Dark desktop theme. If needed, you can change this later in System Settings.
 
 {% include figure url="/assets/images/mac-lightdark.png" image_path="/assets/images/mac-lightdark.png" %}
 
-You may also be asked if you wish to use a Light or Dark visual theme to your desktop. You can also make these changes later in System Settings.
+After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
 
 {% include figure url="/assets/images/sonoma-homescreen.png" image_path="/assets/images/sonoma-homescreen.png"  %}
-
-After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
 
 [Next Step &rarr;](/mac-installs){: .btn .btn--success .btn--large}
