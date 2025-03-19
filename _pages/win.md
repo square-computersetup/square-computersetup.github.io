@@ -29,6 +29,7 @@ Before proceeding with setting up your Windows device, you will require a Yubike
 * After connecting to your network, the computer will check for updates and reboot.
 
 * You will then see a __Let's get things set up for your work or school__ screen.
+
  __IMPORTANT:__ If you do not see the Square or Block logo, as shown in the screenshot, do not attempt to proceed. If you're new starter please email mission-control@squareup.com for assistance, otherwise raise a ticket at go/IT from a Block-Issued Device
 
 * Enter your squareup.com or block.xyz email into the Microsoft login page.(example: `johndoe@block.xyz` or `johndoe@squareup.com`)
