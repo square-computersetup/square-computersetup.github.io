@@ -21,7 +21,7 @@ Shortly after boot-up, you will be asked to select your Country or Region, any a
 
 Please select “Set up as new” and click __Continue__
 
-{% include figure url="/assets/images/set-up-new-mac.png" image_path="/assets/images/set-up-new-mac.png"  %}
+{% include figure url="/assets/images/Set-up-new-mac.png" image_path="/assets/images/Set-up-new-mac.png"  %}
 
 **IMPORTANT**
 Connect your device to a wired or wireless network, as an internet connection is required for setup.
