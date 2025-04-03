@@ -19,6 +19,10 @@ Shortly after boot-up, you will be asked to select your Country or Region, any a
 
 {% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
 
+Please select “Set up as new” and click __Continue__
+
+NEW SCREENSHOT (Set-up-new-mac.png)
+
 **IMPORTANT**
 Connect your device to a wired or wireless network, as an internet connection is required for setup.
 * In the office? Connect to __Block-Guest__. You can get the password from the local IT team or a colleague with access to go/wifi.
