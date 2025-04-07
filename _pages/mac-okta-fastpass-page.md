@@ -21,19 +21,20 @@ To confirm this on your MacBook, click on the Control Center icon in the top rig
 Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
 {% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
 
-Back on your MacBook, Click the __Launchpad__ app in the dock at the bottom of your screen.
+Back on your MacBook, Click the Okta Verify app that appears in the top right corner of your screen.
 
-{% include figure url="/assets/images/launchpad.png" image_path="/assets/images/launchpad.png" %}
+{% include figure url="/assets/images/mac-okta-icon-menu-bar.png" image_path="/assets/images/mac-okta-icon-menu-bar.png" %}
 
-Next, click on __Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
+Next, click on __Open Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/okta-verify-app.png" image_path="/assets/images/okta-verify-app.png" %}
+{% include figure url="/assets/images/mac-okta-menu-bar.png" image_path="/assets/images/mac-okta-menu-bar.png" %}
+{% include figure url="/assets/images/mac-oktafastpass-getstarted.png" image_path="/assets/images/mac-oktafastpass-getstarted.png" %}
 
 Select __Add Account__ under Add account from another device.
 
 {% include figure url="/assets/images/okta-fp-signin-new.png" image_path="/assets/images/okta-fp-signin-new.png" %}
 
-Now open the Okta Verify app on your mobile device, select your Block account (Eg. jsmith@block.xyz), then scroll down to select __Add Account to Another Device__.
+Now open the Okta Verify app on your mobile device, select your Block account (Eg. `jsmith@block.xyz` or `jsmith@squareup.com`), then scroll down to select __Add Account to Another Device__.
 
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile1.png" image_path="/assets/images/mac-okta-fastpass-add-mobile1.png" %}
 
@@ -45,7 +46,7 @@ Next, you may be asked to enter a PIN shown on your MacBook into your mobile Okt
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile3.png" image_path="/assets/images/mac-okta-fastpass-add-mobile3.png" %}
 
 
-Note: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
+__NOTE__: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
 
 
 {% include figure url="/assets/images/okta-fp-touchid-1.png" image_path="/assets/images/okta-fp-touchid-1.png" %}
