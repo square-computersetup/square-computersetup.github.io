@@ -22,18 +22,18 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 
 ## Setting up Okta Fastpass to work with Google Chrome
 
-__Note:__ If you don’t see the Okta Verify app on your computer, please don't install it from the App store. Ensure that you have completed all updates from the [Managed Software Center &rarr;](/mac-installs.md). If the Managed Software Center is not on your computer, please follow this [link &rarr;](/mac-mdm.md) to manually install it. It is critical for Okta Verify to be installed by the Managed Software Center.  
+__Note:__ If you don't see the Okta Verify app on your computer, please don't install it from the App store. Ensure that you have completed all updates from the [Managed Software Center &rarr;](/mac-installs.md). If the Managed Software Center is not on your computer, please follow this [link &rarr;](/mac-mdm.md) to manually install it. It is critical for Okta Verify to be installed by the Managed Software Center.  
 
-{% include mac-okta-fastpass-page.md %}
+[Okta Fastpass Setup](/mac-okta-fastpass-page/)
 
 ## Signing into Google Chrome
 * Open Google Chrome
 * Click the profile icon in the top right corner
-* Click “Turn on sync…”
+* Click "Turn on sync..."
 
 {% include figure url="/assets/images/mac-chrome-13.png" image_path="/assets/images/mac-chrome-13.png" %}
 
-* Select “Use Okta Fastpass”
+* Select "Use Okta Fastpass"
 
 {% include figure url="/assets/images/mac-chrome-14.png" image_path="/assets/images/mac-chrome-14.png" %}
 
@@ -41,15 +41,15 @@ __Note:__ If you don’t see the Okta Verify app on your computer, please don't 
 
 {% include figure url="/assets/images/mac-chrome-15.png" image_path="/assets/images/mac-chrome-15.png" %}
 
-* Once verified, Google Chrome will reopen. Click “Continue” on the Identity Verification screen.
+* Once verified, Google Chrome will reopen. Click "Continue" on the Identity Verification screen.
 
 {% include figure url="/assets/images/mac-chrome-16.png" image_path="/assets/images/mac-chrome-16.png" %}
 
-* Click “Continue” on the “Your organization will manage this profile” screen.
+* Click "Continue" on the "Your organization will manage this profile" screen.
 
 {% include figure url="/assets/images/mac-chrome-17.png" image_path="/assets/images/mac-chrome-17.png" %}
 
-* Click “Yes, I’m In” on the “Turn on sync” screen.
+* Click "Yes, I'm In" on the "Turn on sync" screen.
 
 {% include figure url="/assets/images/mac-chrome-18.png" image_path="/assets/images/mac-chrome-18.png" %}
 
