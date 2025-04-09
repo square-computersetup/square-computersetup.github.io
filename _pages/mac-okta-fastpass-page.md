@@ -21,13 +21,13 @@ To confirm this on your MacBook, click on the Control Center icon in the top rig
 Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
 {% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
 
-Back on your MacBook, Click the Okta Verify app that appears in the top right corner of your screen.
+Back on your MacBook, Click the __Okta Verify__ app icon that appears in the top right area of your screen.
 
 {% include figure url="/assets/images/mac-okta-icon-menu-bar.png" image_path="/assets/images/mac-okta-icon-menu-bar.png" %}
+{% include figure url="/assets/images/mac-okta-menu-bar.png" image_path="/assets/images/mac-okta-menu-bar.png" %}
 
 Next, click on __Open Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
 
-{% include figure url="/assets/images/mac-okta-menu-bar.png" image_path="/assets/images/mac-okta-menu-bar.png" %}
 {% include figure url="/assets/images/mac-oktafastpass-getstarted.png" image_path="/assets/images/mac-oktafastpass-getstarted.png" %}
 
 Select __Add Account__ under Add account from another device.
