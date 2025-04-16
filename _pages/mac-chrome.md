@@ -12,7 +12,7 @@ header:
 ## Setting Up Google Chrome as your Default Browser
 Before we move forward, it's critical to set Google Chrome as your Default Browser.
 * Open System Settings. 
-* In the search bar, type “Default web browser” and select the option that appears.
+* In the search bar, type "Default web browser" and select the option that appears.
 
 {% include figure url="/assets/images/mac-chrome-01.png" image_path="/assets/images/mac-chrome-01.png" %}
 
@@ -24,7 +24,7 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 
 __Note:__ If you don't see the Okta Verify app on your computer, please don't install it from the App store. Ensure that you have completed all updates from the [Managed Software Center &rarr;](/mac-installs.md). If the Managed Software Center is not on your computer, please follow this [link &rarr;](/mac-mdm.md) to manually install it. It is critical for Okta Verify to be installed by the Managed Software Center.  
 
-[Okta Fastpass Setup](/mac-okta-fastpass-page/)
+{% include mac-okta-fastpass-content.md %}
 
 ## Signing into Google Chrome
 * Open Google Chrome
