@@ -23,7 +23,7 @@ __Let's get your ChromeOS device set up!__
 
 * Enter your full email address and click [Next](#duo){: .btn .btn--inverse .btn--small}
 
-**Duo-login2**
+{% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
 Enter your username, click Next{: .btn .btn--inverse .btn--small} then enter your newly created password, and click Verify{: .btn .btn--inverse .btn--small}
 
