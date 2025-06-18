@@ -25,7 +25,7 @@ __Let's get your ChromeOS device set up!__
 
 {% include figure url="/assets/images/duo-login2.jpg" image_path="/assets/images/duo-login2.jpg" %}
 
-Enter your username, click Next{: .btn .btn--inverse .btn--small} then enter your newly created password, and click Verify{: .btn .btn--inverse .btn--small}
+Enter your username, click [Next]{: .btn .btn--inverse .btn--small} then enter your newly created password, and click [Verify]{: .btn .btn--inverse .btn--small}
 
 Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step: 
 
