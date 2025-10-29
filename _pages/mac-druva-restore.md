@@ -12,15 +12,11 @@ header:
 
 * Click the Druva icon in the top-right corner, then select Restore.
 
-{% include figure url="/assets/images/druva-restore-01.jpg" image_path="/assets/images/druva-restore-01.jpg" %}
-
-* On the Druva inSync page, click Restore.
-
-{% include figure url="/assets/images/druva-restore-02.jpg" image_path="/assets/images/druva-restore-02.jpg" %}
+{% include figure url="/assets/images/druva-restore-01.png" image_path="/assets/images/druva-restore-01.png" %}
 
 * A “Druva Restore” window will appear. Review the list of machines and select the one you want to restore from. Then, choose the date you want to restore from.
 
-{% include figure url="/assets/images/druva-restore-03.jpg" image_path="/assets/images/druva-restore-03.jpg" %}
+{% include figure url="/assets/images/druva-restore-03.png" image_path="/assets/images/druva-restore-03.png" %}
 
 * Open the folders, and using the checkboxes, select only the data you need to restore (recommended). Files to be restored are typically found in the folder with your username.
 * Click Restore.
