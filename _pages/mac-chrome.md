@@ -14,11 +14,9 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 * Open System Settings. 
 * In the search bar, type "Default web browser" and select the option that appears.
 
-{% include figure url="/assets/images/mac-chrome-01.png" image_path="/assets/images/mac-chrome-01.png" %}
+* Find the __Default web browser__ section and select Google Chrome to make it your default browser.
 
-* Scroll down to the Default web browser section and select Google Chrome to make it your default browser.
-
-{% include figure url="/assets/images/mac-chrome-02.png" image_path="/assets/images/mac-chrome-02.png" %}
+{% include figure url="/assets/images/default-web-browser.png" image_path="/assets/images/default-web-browser.png" %}
 
 ## Setting up Okta Fastpass to work with Google Chrome
 
