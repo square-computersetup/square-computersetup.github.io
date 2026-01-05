@@ -23,6 +23,11 @@ Please select “Set up as new” and click __Continue__
 
 {% include figure url="/assets/images/Set-up-new-mac.png" image_path="/assets/images/Set-up-new-mac.png"  %}
 
+Select your accessibility needs, or click __Not Now__. 
+
+{% include figure url="/assets/images/mac-accessibility-new.png" image_path="/assets/images/mac-accessibility-new.png"  %}
+
+
 **IMPORTANT**
 Connect your device to a wired or wireless network, as an internet connection is required for setup.
 * In the office? Connect to __Block-Guest__. You can get the password from the local IT team or a colleague with access to go/wifi.
