@@ -10,5 +10,3 @@ Since you have already set up Okta Verify on your mobile device, you can now use
 
 On your mobile device, choose the corresponding number to the one that appears on your laptop.
 {% include figure url="/assets/images/okta-login-mac3.png" image_path="/assets/images/okta-login-mac3.png" %}
-
-On the next screen, click __Set up later__ when asked to set up a Security Key.
