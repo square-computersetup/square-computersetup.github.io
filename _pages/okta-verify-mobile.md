@@ -24,8 +24,8 @@ Enter __login.block.xyz__ as your organization’s Sign-in URL.
 {% include figure url="/assets/images/ovm-5.png" image_path="/assets/images/ovm-5.png"  %}
 
 Enter your Block username: Eg. `jsmith`, then enter your Okta password.
-{% include figure url="/assets/images/ovm-6.png" image_path="/assets/images/ovm-6.png"  %}
-{% include figure url="/assets/images/ovm-7.png" image_path="/assets/images/ovm-7.png"  %}
+{% include figure url="/assets/images/okta-mobile-username.jpg" image_path="/assets/images/okta-mobile-username.jpg"  %}
+{% include figure url="/assets/images/okta-mobile-password.jpg" image_path="/assets/images/okta-mobile-password.jpg"  %}
 
 If your device has biometrics, please __enable__ it in the next step.
 {% include figure url="/assets/images/ovm-8.png" image_path="/assets/images/ovm-8.png"  %}
