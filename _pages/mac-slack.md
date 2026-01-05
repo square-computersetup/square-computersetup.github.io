@@ -18,7 +18,7 @@ First let's open the Slack app by searching using __Spotlight__ in the top right
 
 {% include figure url="/assets/images/mac-slack-downloads.png" image_path="/assets/images/mac-slack-downloads.png" %}
 
-Click [OK](){: .btn .btn--inverse .btn--small} to give Slack access to your __Downloads__ folder when prompted.
+Click [OK](){: .btn .btn--inverse .btn--small} to give Slack access to your __Downloads__ folder if prompted.
 
 {% include slackapp.md %}
 
