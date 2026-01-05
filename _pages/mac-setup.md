@@ -18,7 +18,7 @@ After authentication, wait just a few moments while Remote Management initialize
 
 Once complete, you should see this prompt to create a computer account:
 
-{% include figure url="/assets/images/mac-account.png" image_path="/assets/images/mac-account.png" %}
+{% include figure url="/assets/images/mac-account-new.png" image_path="/assets/images/mac-account-new.png" %}
 
 Your __Full Name__ and __Account Name__ will be pre-filled (the latter should match the username of your Block email address).
 
@@ -32,12 +32,14 @@ __NOTE:__ Make sure you remember your password and do not rely on the password h
 
 Choose to enable Location Services, or set your Time Zone manually.
 
+{% include figure url="/assets/images/location-services-mac.png" image_path="/assets/images/location-services-mac.png" %}
+
 __NOTE:__ It is __strongly recommended__ to enable Location Services, as some Block applications require accurate time settings to function properly.
 {: .notice--warning}
 
 You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience each day.
 
-{% include figure url="/assets/images/mac-touchid.png" image_path="/assets/images/mac-touchid.png" %}
+{% include figure url="/assets/images/mac-touchid-new.png" image_path="/assets/images/mac-touchid-new.png" %}
 
 __NOTE:__ Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 {: .notice--warning}
