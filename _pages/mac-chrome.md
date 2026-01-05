@@ -25,27 +25,29 @@ __Note:__ If you don't see the Okta Verify app on your computer, please don't in
 {% include mac-okta-fastpass-content.md %}
 
 ## Signing into Google Chrome
-* Open Google Chrome
-* Click the profile icon in the top right corner
-* Click "Turn on sync..."
 
-{% include figure url="/assets/images/mac-chrome-13.png" image_path="/assets/images/mac-chrome-13.png" %}
+* Open the Google Chrome app on your computer, and click __Sign In__.
+{% include figure url="/assets/images/chrome-signin.png" image_path="/assets/images/chrome-signin.png" %}
 
-* Select "Use Okta Fastpass"
+* Type in your full @squareup.com or @block.xyz email address.
+  
+{% include figure url="/assets/images/GWorkspace-Okta.png" image_path="/assets/images/GWorkspace-Okta.png" %}
 
-{% include figure url="/assets/images/mac-chrome-14.png" image_path="/assets/images/mac-chrome-14.png" %}
-
-* An Okta Verify screen will appear. Use your Touch ID or password to verify your identity.
+* Select Use Okta Fastpass. An Okta Verify screen will appear. Use your Touch ID or password to verify your identity.
 
 {% include figure url="/assets/images/mac-chrome-15.png" image_path="/assets/images/mac-chrome-15.png" %}
 
-* Once verified, Google Chrome will reopen. Click "Continue" on the Identity Verification screen.
+* Once verified, Google Chrome will reopen. 
 
 {% include figure url="/assets/images/mac-chrome-16.png" image_path="/assets/images/mac-chrome-16.png" %}
 
-* Click "Continue" on the "Your organization will manage this profile" screen.
+* Click continue as [your name], and continue through the next step.
 
-{% include figure url="/assets/images/mac-chrome-17.png" image_path="/assets/images/mac-chrome-17.png" %}
+{% include figure url="/assets/images/mac-chrome-continue1" image_path="/assets/images/mac-chrome-continue1" %}
+{% include figure url="/assets/images/mac-chrome-continue2" image_path="/assets/images/mac-chrome-continue2" %}
+
+* If asked to keep browsing data separate, choose No, continue to work in this profile.
+{% include figure url="/assets/images/mac-chrome-continue3" image_path="/assets/images/mac-chrome-continue3" %}
 
 * Click "Yes, I'm In" on the "Turn on sync" screen.
 
