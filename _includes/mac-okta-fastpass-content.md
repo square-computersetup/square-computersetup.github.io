@@ -2,28 +2,22 @@ Let's set up __Okta Fastpass__.
 
 Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
 
-Before setting up Okta Verify, ensure that Bluetooth is enabled on both your MacBook and on your mobile device. 
-
-To confirm this on your MacBook, click on the Control Center icon in the top right corner.
-
-{% include figure url="/assets/images/bluetooth-mac.png" image_path="/assets/images/bluetooth-mac.png" %}
-{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac.png2" %}
-
-Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
+Before setting up Okta Verify, ensure that Bluetooth is enabled on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
 {% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
 
 Back on your MacBook, Click the Okta Verify app that appears in the top right corner of your screen.
 
 {% include figure url="/assets/images/mac-okta-icon-menu-bar.png" image_path="/assets/images/mac-okta-icon-menu-bar.png" %}
 
-Next, click on __Open Okta Verify__ to open it, and click [Get Started](){: .btn .btn--inverse .btn--small}
+Next, click on __Open Okta Verify__ to open it, and click [Add account from another device](){: .btn .btn--inverse .btn--small}
 
 {% include figure url="/assets/images/mac-okta-menu-bar.png" image_path="/assets/images/mac-okta-menu-bar.png" %}
-{% include figure url="/assets/images/mac-oktafastpass-getstarted.png" image_path="/assets/images/mac-oktafastpass-getstarted.png" %}
+{% include figure url="/assets/images/mac-oktafastpass-getstarted-new.png" image_path="/assets/images/mac-oktafastpass-getstarted-new.png" %}
 
-Select __Add Account__ under Add account from another device.
+Select [Allow](){: .btn .btn--inverse .btn--small} to allow a bluetooth connection on your laptop. 
 
-{% include figure url="/assets/images/okta-fp-signin-new.png" image_path="/assets/images/okta-fp-signin-new.png" %}
+{% include figure url="/assets/images/allow-bluetooth.png" image_path="/assets/images/allow-bluetooth.png" %}
+{% include figure url="/assets/images/allow-bluetooth-popup.png" image_path="/assets/images/allow-bluetooth-popup.png" %}
 
 Now open the Okta Verify app on your mobile device, select your Block account (Eg. `jsmith@block.xyz` or `jsmith@squareup.com`), then scroll down to select __Add Account to Another Device__.
 

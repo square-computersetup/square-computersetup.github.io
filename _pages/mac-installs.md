@@ -7,6 +7,10 @@ sidebar:
 header:
   overlay_color: "#333"
 ---
+You may see a pop-up window appear indicating CloudflareWARP is unable to connect. You can ignore this for now. 
+
+{% include figure url="/assets/images/cloudflare-error.png" image_path="assets/images/cloudflare-error.png" %}
+
 
 # Managed Software Center Update
 
@@ -14,10 +18,12 @@ The Managed Software Center will open as soon as possible after you have signed 
 
 {% include figure url="/assets/images/msc.png" image_path="assets/images/msc.png" %}
 
-__Note:__ If the Managed Software Center doesn't open up, please open Launchpad, scroll to the next page, and click on the Managed Software Center to manually open it up.
-{% include figure url="/assets/images/mac-launchpad-01.png" image_path="assets/images/mac-launchpad-01.png" %}
-{% include figure url="/assets/images/mac-launchpad-02.png" image_path="assets/images/mac-launchpad-02.png" %}
-{% include figure url="/assets/images/mac-launchpad-03.png" image_path="assets/images/mac-launchpad-03.png" %}
+__Note:__ If the Managed Software Center doesn't open up, Click the Managed Software Center icon in the toolbar. If you don’t see it, please open Apps and click __Managed Software Center__ to manually open it. 
+
+{% include figure url="/assets/images/Launchpad Toolbar.png" image_path="assets/images/Launchpad Toolbar.png" %}
+{% include figure url="/assets/images/MSC Launchpad.png" image_path="assets/images/MSC Launchpad.png" %}
+
+
 
 Once Managed Software Updates have completed, it will prompt you about a __Forced logout for mandatory install__. 
 Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the installer and restart your laptop.
@@ -27,9 +33,9 @@ Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the i
 {% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" width=54
     height=auto %}
 
-You may see some updates happening after you logout. After you no longer see any visual indication that an update is happening, __Login__ again using your __Laptop Password__ (which may be different than your Okta password).
+You may see some updates happening after you log out. After you no longer see any visual indication that an update is happening, __Log in__ again using your __Laptop Password__ (which may be different than your Okta password).
 
-Once you're logged in, open the Managed Software Center, and click on __Updates__ to ensure all updates are completed. 
+Once you're logged in, open the Managed Software Center, and click on __Check again__ to ensure all updates are completed. 
 
 # Apple's MacOS Update
 Equally important to the Managed Software Center updates, __it is critical to run's Apple Software Update__ as well. If your computer is out of date, you will not be able to reach any Block internal tools.

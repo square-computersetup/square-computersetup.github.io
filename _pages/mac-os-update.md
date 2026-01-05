@@ -14,7 +14,7 @@ Let's make sure your Mac Operating System (OS) is up-to-date.
 
 From the Apple menu  in the corner of your screen, choose __System Settings__.
 
-If you chose __System Settings__, click __General__ on the left side of the window. Then click __Software Update__ on the right.
+Next, click __General__ on the left side of the window. Then click __Software Update__ on the right.
 
 {% include figure url="/assets/images/macos-update-01.png" image_path="/assets/images/macos-update-01.png" %}
 
