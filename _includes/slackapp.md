@@ -2,11 +2,17 @@
 
 Now click [Sign in with Slack](){: .btn .btn--inverse .btn--small} and a Chrome window will open up.
 
-{% include figure url="/assets/images/slack-signin-2.png" image_path="/assets/images/slack-signin-2.png" %}
+Click __Try entering a workspace URL__ at the bottom of the window. 
 
-Click __Sign in with Block SSO__ which will redirect you to Okta where you can sign in with your Block username and Password.
+{% include figure url="/assets/images/slack-workspace-url.png" image_path="/assets/images/slack-workspace-url.png" %}
 
-You will be redirected to Okta, where you can sign in with your Block username and password. If you haven’t used Slack before, please browse the [Slack quick start guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
+Where it says “your-workspace” in the url, type in “square” and Continue. 
+
+{% include figure url="/assets/images/slack-workspace-signin.png" image_path="/assets/images/slack-workspace-signin.png" %}
+
+Next, click Sign in with Block SSO. This should open an Okta window where you can authenticate. 
+
+If you haven’t used Slack before, please browse the [Slack quick start guide](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
 
 {% include figure url="/assets/images/slack-workspace-select.png" image_path="/assets/images/slack-workspace-select.png" %}
 
