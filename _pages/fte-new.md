@@ -13,8 +13,8 @@ Welcome to Block! Let's get you set up so you can get to work right away. First,
 
 ## 📱 Before you start!
 Before starting you will need to set your initial Block password. You will also want to download the ![Okta Verify](/assets/images/duo-icon.png) __Okta Verify__ app from your phone's App Store.
-[Download from the Apple App Store]([https://www.genome.gov/](https://apps.apple.com/na/app/okta-verify/id490179405)
-[Download from the Google Play Store]([https://www.genome.gov/](https://play.google.com/store/apps/details?id=com.okta.android.auth)
+[Download from the Apple App Store](https://apps.apple.com/na/app/okta-verify/id490179405)
+[Download from the Google Play Store](https://play.google.com/store/apps/details?id=com.okta.android.auth)
 Once this is installed, go ahead and __open it__.  We will use this app for our 2-Factor Authentication.
 
 [Next](/okta-verify-mobile){: .btn .btn--success .btn--large}
