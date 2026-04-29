@@ -24,7 +24,7 @@ Now open the Okta Verify app on your mobile device, select your Block account (E
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile1.png" image_path="/assets/images/mac-okta-fastpass-add-mobile1.png" %}
 
 You will now see an 8 character code below a QR code. Enter this code into Okta Verify desktop's "Enter code" field.
-{% include figure url="/assets/images/mac-okta-fastpass-add-mobile2.5.png" image_path="/assets/images/mac-okta-fastpass-add-mobile2.5.png" %}
+{% include figure url="/assets/images/mac-okta-fastpass-mobile2.5.png" image_path="/assets/images/mac-okta-fastpass-mobile2.5.png" %}
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile2.png" image_path="/assets/images/mac-okta-fastpass-add-mobile2.png" %}
 
 Next, you may be asked to enter a PIN shown on your MacBook into your mobile Okta Verify app:
