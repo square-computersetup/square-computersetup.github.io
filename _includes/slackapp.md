@@ -2,8 +2,6 @@
 
 Now click [Sign in with Block, Inc.](){: .btn .btn--inverse .btn--small} and a Chrome window will open up.
 
-{% include figure url="/assets/images/slack-workspace-signin.png" image_path="/assets/images/slack-workspace-signin.png" %}
-
 Next, click Sign in with Block SSO. This should open an Okta window where you can authenticate.
 
 {% include figure url="/assets/images/slack-sign-in-sso.png" image_path="/assets/images/slack-sign-in-sso.png" %}
