@@ -4,6 +4,12 @@ title: "Okta Verify Mobile Setup"
 header:
   overlay_color: "#333"
 ---
+
+<style>
+  .page__content figure img {
+    max-width: 85% !important;
+  }
+</style>
 # Setting up Okta Verify on Mobile:
 
 Your first login will be on your mobile device in the __Okta Verify__ app. Scroll through the following steps to add your account.
