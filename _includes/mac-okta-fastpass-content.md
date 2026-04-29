@@ -7,7 +7,7 @@ Before setting up Okta Verify, ensure that Bluetooth is enabled on your mobile d
 
 Back on your MacBook, Click the Okta Verify app that appears in the top right corner of your screen.
 
-<img src="/assets/images/mac-okta-icon-menu-bar.png" style="max-width: 192px;" />
+<img src="/assets/images/mac-okta-icon-menu-bar.png" style="width: 192px !important; max-width: 192px !important;" />
 
 Next, click on __Open Okta Verify__ to open it, and click [Add account from another device](){: .btn .btn--inverse .btn--small}
 
