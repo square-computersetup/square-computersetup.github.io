@@ -9,6 +9,9 @@ header:
   .page__content figure img {
     max-width: 85% !important;
   }
+  .page__content figure + figure {
+    margin-top: 0 !important;
+  }
 </style>
 # Setting up Okta Verify on Mobile:
 
