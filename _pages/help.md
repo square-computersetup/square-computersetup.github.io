@@ -15,7 +15,7 @@ Join your scheduled __IT Onboarding Session__ on your start date, where a member
   * Send an email to: __mission-control@squareup.com__
   * Submit a ticket at __go/IT__.
 
-When asking for help, please include the 6 digit asset number located on the sticker on your laptop.
+When asking for help, please include the 6-digit asset number located on the sticker on the underside of your laptop.
 {: .notice--danger}
 
 ### Password Portal
