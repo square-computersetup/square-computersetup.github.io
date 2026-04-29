@@ -102,7 +102,7 @@ nav-win:
 nav-go:
   - title: Workplace Tools
     children:
-      - title: "GMail"
+      - title: "Gmail"
         url: https://mail.google.com
       - title: "Calendar"
         url: https://calendar.google.com
