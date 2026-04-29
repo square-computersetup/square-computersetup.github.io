@@ -44,11 +44,11 @@ __NOTE:__ Do not install Okta Verify from the App Store. It must be installed th
 
 * Click continue as [your name], and continue through the next step.
 
-{% include figure url="/assets/images/mac-chrome-continue1" image_path="/assets/images/mac-chrome-continue1" %}
-{% include figure url="/assets/images/mac-chrome-continue2" image_path="/assets/images/mac-chrome-continue2" %}
+{% include figure url="/assets/images/mac-chrome-continue1.png" image_path="/assets/images/mac-chrome-continue1.png" %}
+{% include figure url="/assets/images/mac-chrome-continue2.png" image_path="/assets/images/mac-chrome-continue2.png" %}
 
 * If asked to keep browsing data separate, choose No, continue to work in this profile.
-{% include figure url="/assets/images/mac-chrome-continue3" image_path="/assets/images/mac-chrome-continue3" %}
+{% include figure url="/assets/images/mac-chrome-continue3.png" image_path="/assets/images/mac-chrome-continue3.png" %}
 
 * Click "Yes, I'm In" on the "Turn on sync" screen.
 
