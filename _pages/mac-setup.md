@@ -10,7 +10,7 @@ header:
 
 # Macbook Setup
 
-After clicking [Enroll](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear:
+After clicking [Enroll](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear.
 
 {% include duo-setup-new.md %}
 
@@ -39,7 +39,7 @@ __NOTE:__ It is __strongly recommended__ to enable Location Services, as some Bl
 
 You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience each day.
 
-{% include figure url="/assets/images/mac-touchid-new.png" image_path="/assets/images/mac-touchid-new.png" %}
+{% include figure url="/assets/images/mac-touch-id-new.png" image_path="/assets/images/mac-touch-id-new.png" %}
 
 __NOTE:__ Please note that you will be asked for your __Laptop Password__ periodically even if you have Touch ID setup (just like an iPhone), so don't forget it!
 {: .notice--warning}

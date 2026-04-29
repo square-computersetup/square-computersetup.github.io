@@ -1,6 +1,6 @@
 Enter your __username__,  then enter your newly created __password__, and click [Sign in](){: .btn .btn--inverse .btn--small}
 
-__NOTE:__ Do not select __Sign with FastPass__, this will not work and needs to be setup at a later stage.
+__NOTE:__ Do not select __Sign with FastPass__, this will not work and needs to be set up at a later stage.
 {: .notice--warning}
 
 {% include figure url="/assets/images/okta-login-mac1.png" image_path="/assets/images/okta-login-mac1.png" %}
