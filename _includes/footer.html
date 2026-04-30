@@ -1,4 +1,8 @@
 
-<div class="page__footer-copyright text-right">
-    <small>Updated {{ site.time | date: '%d %h %Y at %H:%M' }}</small> &copy; Block Inc.
+<div class="page__footer-copyright" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1em;">
+    <div style="display: flex; align-items: center; gap: 0.75em;">
+        <img src="/assets/images/block-logo-white.svg" alt="Block" style="height: 24px; width: 24px;">
+        <span style="font-weight: 600; color: #fff;">Block IT</span>
+    </div>
+    <small style="color: rgba(255,255,255,0.6);">Updated {{ site.time | date: '%B %Y' }} &middot; &copy; Block, Inc.</small>
 </div>

@@ -1,10 +1,10 @@
 main:
-  - title: "<img src='/assets/images/apple2.png' width='25' height='25' title='MacOS' />"
+  - title: "<img src='/assets/images/icon-apple.svg' width='25' height='25' title='MacOS' />"
     url: /mac/
-  - title: "<img src='/assets/images/chrome.png' width='25' height='25' title='ChromeOS' />"
-    url: /chrome/
-  - title: "<img src='/assets/images/windows.png' width='25' height='25' title='Windows' />"
+  - title: "<img src='/assets/images/icon-windows.svg' width='25' height='25' title='Windows' />"
     url: /win/
+  - title: "<img src='/assets/images/icon-chrome.svg' width='25' height='25' title='ChromeOS' />"
+    url: /chrome/
   - title: "Help"
     url: /help/
 
@@ -28,26 +28,30 @@ nav-mac:
     children:
       - title: "Setup"
         url: /mac/
+      - title: "Account Setup"
+        url: /mac-setup/
       - title: "Software Installation"
         url: /mac-installs/
       # - title: "Okta Fastpass"
       #  url: /mac-okta-fastpass/
       - title: "Chrome"
         url: /mac-chrome/
+      - title: "VPN"
+        url: /mac-vpn/
+      - title: "Slack"
+        url: /mac-slack/
       - title: "Go Links"
         url: /mac-go/
       # - title: "Password"
       # url: /mac-password/
-      - title: "Slack"
-        url: /mac-slack/
-      - title: "Yubikey"
-        url: /mac-yubikey/
+      # - title: "Yubikey"
+      #   url: /mac-yubikey/
       - title: "Druva"
         url: /mac-druva/
-      - title: "VPN"
-        url: /mac-vpn/
-      - title: "Tips"
-        url: /mac-tips/
+      # - title: "Tips"
+      #   url: /mac-tips/
+      - title: "macOS Update"
+        url: /mac-os-update/
       - title: "Finish"
         url: /end/
 
@@ -60,14 +64,14 @@ nav-chrome:
         url: /chrome-browser/
       - title: "Go Links"
         url: /chrome-go/
-      - title: "Password"
-        url: /chrome-password/
+      # - title: "Password"
+      #   url: /chrome-password/
       - title: "Slack"
         url: /chrome-slack/
       - title: "VPN"
         url: /chrome-vpn/
-      - title: "Tips"
-        url: /chrome-tips/
+      # - title: "Tips"
+      #   url: /chrome-tips/
       - title: "Finish"
         url: /end/
 
@@ -76,33 +80,33 @@ nav-win:
     children:
       - title: "Setup"
         url: /win/
-      - title: "Updates"
+      - title: "Windows Updates"
         url: /win-updates/
-      - title: "Okta Fastpass"
+      - title: "Okta FastPass"
         url: /win-okta-fastpass/
       - title: "Chrome"
         url: /win-chrome/
       - title: "Go Links"
         url: /win-go/
-      - title: "Password"
-        url: /win-password/
       - title: "Slack"
         url: /win-slack/
-      - title: "Yubikey"
-        url: /win-yubikey/
       - title: "Druva"
         url: /win-druva/
       - title: "VPN"
         url: /win-vpn/
-      - title: "Tips"
-        url: /win-tips/
+      # - title: "Password"
+      #   url: /win-password/
+      # - title: "Yubikey"
+      #   url: /win-yubikey/
+      # - title: "Tips"
+      #   url: /win-tips/
       - title: "Finish"
         url: /end/
 
 nav-go:
   - title: Workplace Tools
     children:
-      - title: "Gmail"
+      - title: "GMail"
         url: https://mail.google.com
       - title: "Calendar"
         url: https://calendar.google.com

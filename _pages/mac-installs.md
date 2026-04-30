@@ -1,45 +1,94 @@
 ---
 title: "Software Installation"
 permalink: /mac-installs/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "nav-mac"
 header:
-  overlay_color: "#333"
+  overlay_color: "#000"
 ---
-You may see a pop-up window appear indicating CloudflareWARP is unable to connect. You can ignore this for now. 
+
+<div class="welcome-page">
+
+  <div class="notice--info" style="display:flex; gap:1em; align-items:flex-start; margin-bottom:2em;">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width:24px; min-width:24px; height:24px; margin-top:0.1em;"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+    <div>
+      <strong>Safari opened by itself?</strong><br/>
+      During installation, Cloudflare WARP may open Safari with a connection error. This is normal — <strong>close or ignore Safari</strong> and do not follow any prompts in the browser. The setup will continue on its own.
+    </div>
+  </div>
 
 {% include figure url="/assets/images/cloudflare-error.png" image_path="assets/images/cloudflare-error.png" %}
 
+  <div class="welcome-section">
+    <h2>Managed Software Center</h2>
+    <div class="welcome-checklist">
 
-# Managed Software Center Update
-
-The Managed Software Center will open as soon as possible after you have signed into your account and completed the previous steps. 
+      <div class="checklist-item">
+        <div class="checklist-icon"><span style="font-weight:700; font-size:1rem;">1</span></div>
+        <div>
+          <strong>Wait for Managed Software Center to open</strong>
+          <p>It should launch automatically after you've signed in and completed the previous steps.</p>
+        </div>
+      </div>
 
 {% include figure url="/assets/images/msc.png" image_path="assets/images/msc.png" %}
 
-__Note:__ If the Managed Software Center doesn't open up, Click the Managed Software Center icon in the toolbar. If you don’t see it, please open Apps and click __Managed Software Center__ to manually open it. 
+      <div class="notice--warning" style="display:flex; gap:1em; align-items:flex-start;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width:24px; min-width:24px; height:24px; margin-top:0.1em;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <div>
+          <strong>Didn't open automatically?</strong><br/>
+          Look for the Managed Software Center icon in the toolbar. If you don't see it, open Launchpad and click <strong>Managed Software Center</strong> to launch it manually.
+        </div>
+      </div>
 
 {% include figure url="/assets/images/Launchpad Toolbar.png" image_path="assets/images/Launchpad Toolbar.png" %}
 {% include figure url="/assets/images/MSC Launchpad.png" image_path="assets/images/MSC Launchpad.png" %}
 
-
-
-Once Managed Software Updates have completed, it will prompt you about a __Forced logout for mandatory install__. 
-Click [Log out and Update Now](){: .btn .btn--inverse .btn--small} to exit the installer and restart your laptop.
+      <div class="checklist-item">
+        <div class="checklist-icon"><span style="font-weight:700; font-size:1rem;">2</span></div>
+        <div>
+          <strong>Log out for mandatory installs</strong>
+          <p>Once the updates finish, you'll be prompted about a <strong>Forced logout for mandatory install</strong>. Click <strong>Log out and Update Now</strong> to let the installer restart your laptop.</p>
+        </div>
+      </div>
 
 {% include figure url="/assets/images/mac-installs-forced.png" image_path="/assets/images/mac-installs-forced.png" %}
+{% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" %}
 
-{% include figure url="/assets/images/mac-installs-logout.png" image_path="/assets/images/mac-installs-logout.png" width=54
-    height=auto %}
+      <div class="checklist-item">
+        <div class="checklist-icon"><span style="font-weight:700; font-size:1rem;">3</span></div>
+        <div>
+          <strong>Log back in and verify</strong>
+          <p>Wait for any visual update activity to finish, then log in again using your <strong>Mac/Laptop Password</strong>. Open Managed Software Center and click <strong>Check again</strong> to confirm all updates are complete.</p>
+        </div>
+      </div>
 
-You may see some updates happening after you log out. After you no longer see any visual indication that an update is happening, __Log in__ again using your __Laptop Password__ (which may be different than your Okta password).
+      <div class="checklist-item" style="background: #e8f5e9; border-color: #c8e6c9;">
+        <div class="checklist-icon" style="background: #fff; border-color: #c8e6c9; color: #00a828;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div>
+        <div>
+          <strong>Software installation complete!</strong>
+          <p>Managed Software Center is up to date. Let's continue setting up your apps.</p>
+        </div>
+      </div>
 
-Once you're logged in, open the Managed Software Center, and click on __Check again__ to ensure all updates are completed. 
+    </div>
+  </div>
 
-# Apple's MacOS Update
-Equally important to the Managed Software Center updates, __it is critical to run's Apple Software Update__ as well. If your computer is out of date, you will not be able to reach any Block internal tools.
+  <div class="welcome-next">
+    <a href="/mac-chrome" class="landing-card-btn welcome-next-btn">
+      Next: Chrome Setup &rarr;
+    </a>
+  </div>
 
-Please follow our guide: [update your Mac OS](/mac-os-update).
+  <section class="landing-help" style="padding: 2em 0 0; max-width: 100%;">
+    <div class="landing-help-inner">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="landing-help-icon"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <div>
+        <strong>Need help?</strong>
+        <span>Contact <a href="mailto:mission-control@squareup.com">mission-control@squareup.com</a></span>
+      </div>
+    </div>
+  </section>
 
-[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
+</div>

@@ -16,7 +16,7 @@ Before setting up Okta Verify, ensure that Bluetooth is enabled on both your Mac
 To confirm this on your MacBook, click on the Control Center icon in the top right corner.
 
 {% include figure url="/assets/images/bluetooth-mac.png" image_path="/assets/images/bluetooth-mac.png" %}
-{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac2.png" %}
+{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac.png2" %}
 
 Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
 {% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
@@ -39,7 +39,7 @@ Now open the Okta Verify app on your mobile device, select your Block account (E
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile1.png" image_path="/assets/images/mac-okta-fastpass-add-mobile1.png" %}
 
 You will now see an 8 character code below a QR code. Enter this code into Okta Verify desktop’s “Enter code” field.
-{% include figure url="/assets/images/mac-okta-fastpass-mobile2.5.png" image_path="/assets/images/mac-okta-fastpass-mobile2.5.png" %}
+{% include figure url="/assets/images/mac-okta-fastpass-add-mobile2.5.png" image_path="/assets/images/mac-okta-fastpass-add-mobile2.5.png" %}
 {% include figure url="/assets/images/mac-okta-fastpass-add-mobile2.png" image_path="/assets/images/mac-okta-fastpass-add-mobile2.png" %}
 
 Next, you may be asked to enter a PIN shown on your MacBook into your mobile Okta Verify app:
