@@ -1,37 +1,60 @@
 ---
 permalink: /os/
-title: "Select Device"
-author_profile: true
+title: " "
+author_profile: false
+classes: wide
 layout: splash
-feature_row:
-  - url: /chrome/
-    image_path: /assets/images/chromebook.png
-    alt: "ChromeOS"
-    excerpt: "&nbsp;<br /> An Acer or HP Chromebook <br />"
-    btn_label: "ChromeOS"
-    btn_class: "btn--primary btn--large"
-  - url: /mac/
-    image_path: /assets/images/macbook.png
-    alt: "MacOS"
-    excerpt: "&nbsp;<br /> An Apple Laptop <br />"
-    btn_label: "MacOS"
-    btn_class: "btn--primary btn--large"
-  - url: /win/
-    image_path: /assets/images/windowslenovo.png
-    alt: "Windows"
-    excerpt: "&nbsp;<br /> A Lenovo/Dell Laptop <br />"
-    btn_label: "Windows"
-    btn_class: "btn--primary btn--large"
-
 header:
-  overlay_color: "#333"
+  overlay_color: "#000"
 ---
 
-It is __very important__ that you do not skip ahead as you may miss some important steps that will cause issues in the future.
-* Use the sidebar navigation or your back button to visit previous steps
-* If you need further assistance, click the [Help](/help) link in the top navigation
+<div class="landing-page">
 
-Select which type of device you would like to set up today:
+  <section class="landing-hero">
+    <img src="/assets/images/block-logo-white.svg" alt="Block" class="landing-logo" />
+    <h1>Select Your Device</h1>
+    <p class="landing-subtitle">Choose the device you'd like to set up today.</p>
+  </section>
 
+  <section class="landing-cards-section">
+    <div class="section-title" style="text-align:center; font-size:0.85rem; font-weight:600; text-transform:uppercase; letter-spacing:0.06em; color:#666; margin-bottom:1.5em; padding-top:2em;">What are you setting up?</div>
+    <div class="landing-cards" style="grid-template-columns: repeat(3, 1fr); max-width: 960px;">
 
-{% include feature_row %}
+      <a href="/mac/" class="landing-card">
+        <div class="landing-card-icon">
+          <img src="/assets/images/icon-apple.svg" alt="macOS" style="width:48px; height:auto; box-shadow:none; border:none; border-radius:0;" />
+        </div>
+        <h3>macOS</h3>
+        <span class="landing-card-btn">Set up macOS</span>
+      </a>
+
+      <a href="/win/" class="landing-card">
+        <div class="landing-card-icon">
+          <img src="/assets/images/icon-windows.svg" alt="Windows" style="width:48px; height:auto; box-shadow:none; border:none; border-radius:0;" />
+        </div>
+        <h3>Windows</h3>
+        <span class="landing-card-btn">Set up Windows</span>
+      </a>
+
+      <a href="/chrome/" class="landing-card">
+        <div class="landing-card-icon">
+          <img src="/assets/images/icon-chrome.svg" alt="ChromeOS" style="width:48px; height:auto; box-shadow:none; border:none; border-radius:0;" />
+        </div>
+        <h3>ChromeOS</h3>
+        <span class="landing-card-btn">Set up ChromeOS</span>
+      </a>
+
+    </div>
+  </section>
+
+  <section class="landing-help" style="max-width:960px;">
+    <div class="landing-help-inner">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="landing-help-icon"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <div>
+        <strong>Need help?</strong>
+        <span>Contact <a href="mailto:mission-control@squareup.com">mission-control@squareup.com</a></span>
+      </div>
+    </div>
+  </section>
+
+</div>
