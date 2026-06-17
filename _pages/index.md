@@ -17,5 +17,5 @@ To continue, please select the link below that best identifies your worker statu
 
 [Existing Employee or Contingent Worker](/os){: .btn .btn--info}
 
-[If you recieved an iPad, please click here.](https://newcomputerhire.netlify.app/)
+[If you recieved an iPad, please click here.](/ipad-setup.html)
 
