@@ -1,12 +1,14 @@
-Enter your __username__,  then enter your newly created __password__, and click [Sign in](){: .btn .btn--inverse .btn--small}
+Enter your __username__, then enter your newly created __password__, and click [Sign in](){: .btn .btn--inverse .btn--small}
 
 __NOTE:__ Do not select __Sign with FastPass__, this will not work and needs to be set up at a later stage.
 {: .notice--warning}
 
 {% include figure url="/assets/images/okta-login-mac1.png" image_path="/assets/images/okta-login-mac1.png" %}
 
-Since you have already set up Okta Verify on your mobile device, you can now use it to authenticate in the next step:
-{% include figure url="/assets/images/okta-login-mac2.png" image_path="/assets/images/okta-login-mac2.png" %}
+You will be prompted to set up a security key. Insert your __YubiKey__ into a USB port on your laptop and follow the on-screen instructions to complete enrollment.
 
-On your mobile device, choose the corresponding number to the one that appears on your laptop.
-{% include figure url="/assets/images/okta-login-mac3.png" image_path="/assets/images/okta-login-mac3.png" %}
+{% include figure url="/assets/images/security-key-setup.png" image_path="/assets/images/security-key-setup.png" %}
+
+When prompted, tap the metal contact on your YubiKey to confirm the enrollment.
+
+{% include figure url="/assets/images/security-key-allow.png" image_path="/assets/images/security-key-allow.png" %}
