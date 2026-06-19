@@ -11,17 +11,7 @@ Let's set up __Okta Fastpass__.
 
 Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing.
 
-Before setting up Okta Verify, ensure that Bluetooth is enabled on both your MacBook and on your mobile device. 
-
-To confirm this on your MacBook, click on the Control Center icon in the top right corner.
-
-{% include figure url="/assets/images/bluetooth-mac.png" image_path="/assets/images/bluetooth-mac.png" %}
-{% include figure url="/assets/images/bluetooth-mac2.png" image_path="/assets/images/bluetooth-mac2.png" %}
-
-Now make sure Bluetooth is turned __on__ on your mobile device. Use your control center or mobile Settings to toggle Bluetooth on.
-{% include figure url="/assets/images/bluetooth-mobile.png" image_path="/assets/images/bluetooth-mobile.png" %}
-
-Back on your MacBook, Click the __Okta Verify__ app icon that appears in the top right area of your screen.
+On your MacBook, click the __Okta Verify__ app icon that appears in the top right area of your screen.
 
 {% include figure url="/assets/images/mac-okta-icon-menu-bar.png" image_path="/assets/images/mac-okta-icon-menu-bar.png" %}
 {% include figure url="/assets/images/mac-okta-menu-bar.png" image_path="/assets/images/mac-okta-menu-bar.png" %}
@@ -30,21 +20,19 @@ Next, click on __Open Okta Verify__ to open it, and click [Get Started](){: .btn
 
 {% include figure url="/assets/images/mac-oktafastpass-getstarted.png" image_path="/assets/images/mac-oktafastpass-getstarted.png" %}
 
-Select __Add Account__ under Add account from another device.
+Select __Sign In__ to add your account using your Okta credentials.
 
 {% include figure url="/assets/images/okta-fp-signin-new.png" image_path="/assets/images/okta-fp-signin-new.png" %}
 
-Now open the Okta Verify app on your mobile device, select your Block account (Eg. `jsmith@block.xyz` or `jsmith@squareup.com`), then scroll down to select __Add Account to Another Device__.
+Enter __login.block.xyz__ as your organization's sign-in URL, then click [Next](){: .btn .btn--inverse .btn--small}.
 
-{% include figure url="/assets/images/mac-okta-fastpass-add-mobile1.png" image_path="/assets/images/mac-okta-fastpass-add-mobile1.png" %}
+Enter your __username__ and __password__, then click [Sign In](){: .btn .btn--inverse .btn--small}.
 
-You will now see an 8 character code below a QR code. Enter this code into Okta Verify desktop’s “Enter code” field.
-{% include figure url="/assets/images/mac-okta-fastpass-mobile2.5.png" image_path="/assets/images/mac-okta-fastpass-mobile2.5.png" %}
-{% include figure url="/assets/images/mac-okta-fastpass-add-mobile2.png" image_path="/assets/images/mac-okta-fastpass-add-mobile2.png" %}
+{% include figure url="/assets/images/okta-login-mac1.png" image_path="/assets/images/okta-login-mac1.png" %}
 
-Next, you may be asked to enter a PIN shown on your MacBook into your mobile Okta Verify app:
-{% include figure url="/assets/images/mac-okta-fastpass-add-mobile3.png" image_path="/assets/images/mac-okta-fastpass-add-mobile3.png" %}
+When prompted for additional verification, insert your __YubiKey__ and tap the metal contact to authenticate.
 
+{% include figure url="/assets/images/security-key-allow.png" image_path="/assets/images/security-key-allow.png" %}
 
 __NOTE__: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
 

@@ -1,44 +1,30 @@
 ---
 permalink: /okta-verify-mobile/
-title: "Okta Verify Mobile Setup"
+title: "Set Your Okta Password"
 header:
   overlay_color: "#333"
 ---
 
-<style>
-  .page__content figure img {
-    max-width: 85% !important;
-  }
-</style>
-# Setting up Okta Verify on Mobile:
+# Set Your Okta Password
 
-Your first login will be on your mobile device in the __Okta Verify__ app. Scroll through the following steps to add your account.
+Before setting up your new device, you need to set your initial Okta password using the link sent to your personal email.
 
-First, select the plus symbol near the top of the screen.
-{% include figure url="/assets/images/ovm-1.png" image_path="/assets/images/ovm-1.png"  %}
+## Steps:
 
-Choose the __Organization__ account type.
-{% include figure url="/assets/images/ovm-2.png" image_path="/assets/images/ovm-2.png"  %}
+1. Check your __personal email__ for the password setup link from Block IT.
+2. Open the link on your __personal device__ (phone or personal computer).
+3. Follow the prompts to create your Okta password.
 
-Skip the next step.
-{% include figure url="/assets/images/ovm-3.png" image_path="/assets/images/ovm-3.png"  %}
+__NOTE:__ Choose a strong password and remember it — you will need it during device setup.
+{: .notice--warning}
 
-Select __No, Sign In Instead__. A QR Code cannot be used.
-{% include figure url="/assets/images/ovm-4.png" image_path="/assets/images/ovm-4.png"  %}
+## What's next?
 
-Enter __login.block.xyz__ as your organization’s Sign-in URL.
-{% include figure url="/assets/images/ovm-5.png" image_path="/assets/images/ovm-5.png"  %}
+Once your password is set, you're ready to set up your new Block device. During device setup, you will enroll your __YubiKey__ (a small USB security key) as your phishing-resistant MFA method. Your YubiKey should have been included with your laptop — keep it handy!
 
-Enter your Block username: Eg. `jsmith`, then enter your Okta password.
-{% include figure url="/assets/images/okta-mobile-username.jpg" image_path="/assets/images/okta-mobile-username.jpg"  %}
-{% include figure url="/assets/images/okta-mobile-password.jpg" image_path="/assets/images/okta-mobile-password.jpg"  %}
+{% include figure url="/assets/images/yubikey-5c-nfc.png" image_path="/assets/images/yubikey-5c-nfc.png" caption="YubiKey 5C NFC — included with your laptop" %}
 
-If your device has biometrics, please __enable__ it in the next step.
-{% include figure url="/assets/images/ovm-8.png" image_path="/assets/images/ovm-8.png"  %}
+__NOTE:__ You no longer need to set up Okta Verify on your mobile device before starting device setup. YubiKey enrollment will happen during the MDM enrollment process on your new laptop.
+{: .notice--info}
 
-Done!
-{% include figure url="/assets/images/ovm-9.png" image_path="/assets/images/ovm-9.png"  %}
-
-Now you’re ready to set up your new computer!
-
-[👍  Let's begin!](/os){: .btn .btn--success .btn--large}
+[👍  Let's begin device setup!](/os){: .btn .btn--success .btn--large}
