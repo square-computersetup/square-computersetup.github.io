@@ -10,7 +10,16 @@ header:
 
 # Macbook Setup
 
-After clicking [Enroll](){: .btn .btn--inverse .btn--small} on the Remote Management screen the Okta login screen will appear.
+After clicking [Enroll](){: .btn .btn--inverse .btn--small} on the Remote Management screen, your MacBook will first check that it is running the latest version of macOS.
+
+If an update is needed, a __Software Update__ screen will appear before setup can continue. The update will begin installing automatically after a short countdown, or you can click [Continue](){: .btn .btn--inverse .btn--small} to start it right away. Your MacBook will restart automatically, and setup will resume where you left off.
+
+{% include figure url="/assets/images/mac-software-update.png" image_path="/assets/images/mac-software-update.png" caption="The version numbers shown will differ depending on your MacBook." %}
+
+__NOTE:__ This update is required and cannot be skipped. It can take 30–60 minutes depending on your internet connection, so keep your MacBook connected to power and Wi-Fi while it installs.
+{: .notice--warning}
+
+Once your MacBook is up to date, the Okta login screen will appear.
 
 {% include duo-setup-new.md %}
 
