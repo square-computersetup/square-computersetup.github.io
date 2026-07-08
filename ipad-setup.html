@@ -1006,12 +1006,151 @@
     <div class="nav-buttons">
       <button class="btn btn-prev" onclick="goToSection(1)">← Back</button>
       <span class="step-counter">Step 3 of 3</span>
-      <button class="btn btn-next" onclick="goToSection(3)">Complete Setup ✓</button>
+      <button class="btn btn-next" onclick="goToSection(3)">Next: FAQ →</button>
     </div>
   </div>
 
-  <!-- SECTION 3: Complete -->
+  <!-- SECTION 3: FAQ -->
   <div class="section-panel" data-section="3">
+    <div class="section-header">
+      <div class="section-number">FAQ</div>
+      <h1 class="section-title">Block iPad FAQ</h1>
+      <p class="section-desc">Common questions about your Block iPad setup and day-to-day use.</p>
+    </div>
+
+    <!-- Quick Start -->
+    <div style="margin-bottom:28px;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;padding-bottom:10px;border-bottom:2px solid var(--border);">
+        <div style="width:32px;height:32px;background:#ede9fe;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;">🚀</div>
+        <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#7c3aed;">Quick Start</div>
+      </div>
+      <div class="steps-list">
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">What do I need before I start setting up my Block iPad?</div>
+            <div class="step-body">You should set your initial Block password first and have Okta Verify already set up on a personal or Block-issued device.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">How do I start setting up the iPad?</div>
+            <div class="step-body">Follow the steps in this guide, or visit <a href="https://newcomputer.square.com" target="_blank" style="color:#007aff;font-weight:600;">newcomputer.square.com</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Common User Questions -->
+    <div style="margin-bottom:28px;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;padding-bottom:10px;border-bottom:2px solid var(--border);">
+        <div style="width:32px;height:32px;background:#dcfce7;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;">👤</div>
+        <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#16a34a;">Common User Questions</div>
+      </div>
+      <div class="steps-list">
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">Can I use Google Chrome on a Block-issued iPad?</div>
+            <div class="step-body">No. Chrome is not currently available on Block-issued iPads because it does not support the required device certificates on iOS. <strong>Safari is the supported browser.</strong></div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">Can I open go-links on a Block-issued iPad?</div>
+            <div class="step-body">Not in the same way as on laptops or Block-issued iPhones. On iPads, use the full URL in Safari instead.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">What can I access from a Block-issued iPad?</div>
+            <div class="step-body">You should be able to access Block email, VPN, and approved applications once setup is complete.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title" style="color:#c2410c;">My VPN app or Slack EMM is missing during setup. What should I do?</div>
+            <div class="step-body">Wait a bit first. Cloudflare One and Slack EMM may take time to install automatically during setup, and users are specifically told not to install them manually via Self-Service.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title" style="color:#c2410c;">I forgot my iPad passcode. Can IT unlock it?</div>
+            <div class="step-body">IT may be able to send a passcode wipe command, but the iPad must have internet access for that to work. If connected, email <a href="mailto:mission-control@squareup.com" style="color:#007aff;">mission-control@squareup.com</a> with the Asset Tag/Serial Number.<br><br>
+              <ul style="margin:8px 0 0 18px;line-height:2;">
+                <li>If <strong>not connected to Wi-Fi</strong> and no cellular data, put the iPad into DFU mode and reset it using Apple's steps: <a href="https://support.apple.com/en-gb/119858" target="_blank" style="color:#007aff;">support.apple.com/en-gb/119858</a></li>
+                <li>After the reset, re-enrol using <a href="https://newcomputer.square.com/" target="_blank" style="color:#007aff;">newcomputer.square.com</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title" style="color:#c2410c;">I cannot access Block apps after setup. What should I check first?</div>
+            <div class="step-body">Check that the device finished enrollment, Cloudflare One is connected, Okta Verify is configured on the iPad, and the iPadOS version is fully up to date.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Apps and Access -->
+    <div style="margin-bottom:28px;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;padding-bottom:10px;border-bottom:2px solid var(--border);">
+        <div style="width:32px;height:32px;background:#dbeafe;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;">📱</div>
+        <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#1d4ed8;">Apps and Access</div>
+      </div>
+      <div class="steps-list">
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">How do I download apps on a Block-issued iPad?</div>
+            <div class="step-body">Use the <strong>Self-Service</strong> app to download approved apps and install updates.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">What if the app I need is not in Self-Service?</div>
+            <div class="step-body">Email <a href="mailto:mission-control@squareup.com" style="color:#007aff;">mission-control@squareup.com</a> with the app request, business justification, and lead approval.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">Can I use the App Store?</div>
+            <div class="step-body">No, the App Store is blocked. Only use the <strong>Self-Service</strong> app.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">Which apps are usually needed on day one?</div>
+            <div class="step-body">The main first-day apps are <strong>Okta Verify</strong>, <strong>Cloudflare One</strong>, <strong>Gmail</strong>, and <strong>Self-Service</strong> for approved apps and updates.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">How do I access my Block email on the iPad?</div>
+            <div class="step-body">Open the <strong>Gmail</strong> app.</div>
+          </div>
+        </div>
+        <div class="step-card">
+          <div class="step-content">
+            <div class="step-title">How do I get VPN access?</div>
+            <div class="step-body">Open <strong>Cloudflare One</strong> and install the VPN profile. The app may take a little time to appear automatically — do not install it manually from Self-Service.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-banner">
+      <span>💬</span>
+      <span>Need more help? Email <a href="mailto:mission-control@squareup.com"><strong>mission-control@squareup.com</strong></a></span>
+    </div>
+
+    <div class="nav-buttons">
+      <button class="btn btn-prev" onclick="goToSection(2)">← Back</button>
+      <span class="step-counter">FAQ</span>
+      <button class="btn btn-next" onclick="goToSection(4)">Complete Setup ✓</button>
+    </div>
+  </div>
+
+  <!-- SECTION 4: Complete -->
+  <div class="section-panel" data-section="4">
     <div class="completion">
       <div class="completion-icon">🎉</div>
       <h2>You're all set!</h2>
@@ -1068,6 +1207,7 @@
     { label: '🏠 Welcome' },
     { label: '📱 Okta (Phone)' },
     { label: '📲 iPad Setup' },
+    { label: '❓ FAQ' },
   ];
 
   let current = 0;
@@ -1084,7 +1224,7 @@
 
   // Build progress
   const progEl = document.getElementById('progressWrap');
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 4; i++) {
     const bar = document.createElement('div');
     bar.className = 'progress-step' + (i === 0 ? ' active' : '');
     bar.id = 'prog-' + i;
@@ -1098,9 +1238,9 @@
 
     const panel = document.querySelector(`[data-section="${idx}"]`);
     if (panel) panel.classList.add('active');
-    if (idx < 3) document.querySelectorAll('.section-tab')[idx]?.classList.add('active');
+    if (idx < 4) document.querySelectorAll('.section-tab')[idx]?.classList.add('active');
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 4; i++) {
       const bar = document.getElementById('prog-' + i);
       if (!bar) continue;
       bar.className = 'progress-step';
