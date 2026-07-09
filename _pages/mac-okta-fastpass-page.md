@@ -36,7 +36,7 @@ When asked to verify it's you, choose __Security Key or Biometric Authenticator_
 
 When prompted for additional verification, insert your __YubiKey__ and tap the metal contact to authenticate.
 
-{% include figure url="/assets/images/security-key-allow.png" image_path="/assets/images/security-key-allow.png" %}
+{% include figure url="/assets/images/security-key-activate.png" image_path="/assets/images/security-key-activate.png" %}
 
 __NOTE__: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
 

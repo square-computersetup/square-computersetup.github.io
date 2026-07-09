@@ -22,7 +22,7 @@ Enter your __username__ and __password__, then click [Sign In](){: .btn .btn--in
 
 When prompted for additional verification, insert your __YubiKey__ and tap the metal contact to authenticate.
 
-{% include figure url="/assets/images/security-key-allow.png" image_path="/assets/images/security-key-allow.png" %}
+{% include figure url="/assets/images/security-key-activate.png" image_path="/assets/images/security-key-activate.png" %}
 
 Note: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass. 
 
