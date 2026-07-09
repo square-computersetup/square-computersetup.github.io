@@ -17,7 +17,7 @@ Press the __power__ button located at the top-right corner of the keyboard:
 
 Shortly after boot-up, you will be asked to select your Country or Region, any accessibility options you may require, and preferred language:
 
-{% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
+{% include figure url="/assets/images/mac-02-locale.png" image_path="/assets/images/mac-02-locale.png"  %}
 
 Please select “Set up as new” and click __Continue__
 
