@@ -57,8 +57,8 @@ You may be prompted to choose between a Light or Dark desktop theme. If needed, 
 
 {% include figure url="/assets/images/mac-lightdark.png" image_path="/assets/images/mac-lightdark.png" %}
 
-After clicking through the remaining customization screens, you will arrive at the macOS desktop which will look similar to the above (perhaps with different wallpaper).
+After clicking through the remaining customization screens, you will arrive at the macOS desktop, which will look similar to the following (perhaps with different wallpaper).
 
-{% include figure url="/assets/images/sonoma-homescreen.png" image_path="/assets/images/sonoma-homescreen.png"  %}
+{% include figure url="/assets/images/mac-desktop.png" image_path="/assets/images/mac-desktop.png"  %}
 
 [Next Step &rarr;](/mac-installs){: .btn .btn--success .btn--large}
