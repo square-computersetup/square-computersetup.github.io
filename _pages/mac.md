@@ -17,7 +17,7 @@ Press the __power__ button located at the top-right corner of the keyboard:
 
 Shortly after boot-up, you will be asked to select your Country or Region, any accessibility options you may require, and preferred language:
 
-{% include figure url="/assets/images/mac-02-locale-BigSur.jpg" image_path="/assets/images/mac-02-locale-BigSur.jpg"  %}
+{% include figure url="/assets/images/mac-02-locale.png" image_path="/assets/images/mac-02-locale.png"  %}
 
 Please select “Set up as new” and click __Continue__
 
@@ -32,7 +32,11 @@ Select your accessibility needs, or click __Not Now__.
 Connect your device to a wired or wireless network, as an internet connection is required for setup.
 * In the office? Connect to __Block-Guest__. You can get the password from the local IT team or a colleague with access to go/wifi.
 
-{% include figure url="/assets/images/mac-03-wifiBigSur.jpg" image_path="/assets/images/mac-03-wifiBigSur.jpg"  %}
+{% include figure url="/assets/images/mac-03-wifi.png" image_path="/assets/images/mac-03-wifi.png"  %}
+
+If prompted, enter the network's password and click [Join](){: .btn .btn--inverse .btn--small}
+
+{% include figure url="/assets/images/mac-03-wifi-password.png" image_path="/assets/images/mac-03-wifi-password.png"  %}
 
 Once connected, you should see this screen, click __Enroll__
 {% include figure url="/assets/images/mac-remote-management.png" image_path="/assets/images/mac-remote-management.png"  %}

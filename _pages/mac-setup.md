@@ -39,11 +39,11 @@ Choose a strong password to unlock your MacBook. While it is __strongly recommen
 __NOTE:__ Make sure you remember your password and do not rely on the password hint. The password hint is not shown when you are logging in.
 {: .notice--warning}
 
-Choose to enable Location Services, or set your Time Zone manually.
+Enable __Location Services__ when prompted. This keeps your date, time, and time zone accurate automatically.
 
 {% include figure url="/assets/images/location-services-mac.png" image_path="/assets/images/location-services-mac.png" %}
 
-__NOTE:__ It is __strongly recommended__ to enable Location Services, as some Block applications require accurate time settings to function properly.
+__NOTE:__ Please enable Location Services rather than setting your time zone manually — Block applications are time-dependent and may not work properly if your clock or time zone is wrong.
 {: .notice--warning}
 
 You will then be prompted to set up __Touch ID__. While this is optional, it will provide a seamless and easy login experience each day.
