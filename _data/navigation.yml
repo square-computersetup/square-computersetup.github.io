@@ -28,6 +28,8 @@ nav-mac:
     children:
       - title: "Setup"
         url: /mac/
+      - title: "Account Setup"
+        url: /mac-setup/
       - title: "Software Installation"
         url: /mac-installs/
       # - title: "Okta Fastpass"
