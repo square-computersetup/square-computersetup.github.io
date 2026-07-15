@@ -17,14 +17,6 @@ Before we move forward, it's critical to set Google Chrome as your Default Brows
 
 {% include figure url="/assets/images/default-web-browser.png" image_path="/assets/images/default-web-browser.png" %}
 
-## Setting up Okta Fastpass to work with Google Chrome
-
-__NOTE:__ Do not install Okta Verify from the App Store. It must be installed through the Managed Software Center.
-* If you don't see Okta Verify on your computer, ensure you've completed all updates from the [Managed Software Center](/mac-installs.md).
-* If the Managed Software Center is not on your computer, please [contact IT](/help/) for further help.
-
-{% include mac-okta-fastpass-content.md %}
-
 ## Signing into Google Chrome
 
 * Open the Google Chrome app on your computer, and click __Sign In__.
