@@ -42,4 +42,4 @@ Equally important to the Managed Software Center updates, __it is critical to ru
 
 Please follow our guide: [update your Mac OS](/mac-os-update).
 
-[Next Step &rarr;](/mac-chrome){: .btn .btn--success .btn--large}
+[Next Step &rarr;](/mac-okta-fastpass-page/){: .btn .btn--success .btn--large}
