@@ -11,6 +11,18 @@ header:
 
 Okta FastPass provides a quick, easy and secure way to sign in and helps protect you from phishing. Let's set it up before we configure Google Chrome.
 
+## Set Google Chrome as your default browser
+
+Signing in to Okta FastPass will open your web browser, so first make sure Google Chrome is set as your default browser.
+
+* Open System Settings.
+* In the search bar, type "Default web browser" and select the option that appears.
+* Find the __Default web browser__ section and select Google Chrome to make it your default browser.
+
+{% include figure url="/assets/images/default-web-browser.png" image_path="/assets/images/default-web-browser.png" %}
+
+## Set up Okta Verify
+
 __NOTE:__ Do not install Okta Verify from the App Store. It must be installed through the Managed Software Center. If you don't see Okta Verify on your computer, ensure you've completed all updates from the [Managed Software Center](/mac-installs/). If the Managed Software Center is not on your computer, please [contact IT](/help/) for further help.
 {: .notice--warning}
 

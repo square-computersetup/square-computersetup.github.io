@@ -9,14 +9,6 @@ header:
 ---
 # Google Chrome
 
-## Setting Up Google Chrome as your Default Browser
-Before we move forward, it's critical to set Google Chrome as your Default Browser.
-* Open System Settings. 
-* In the search bar, type "Default web browser" and select the option that appears.
-* Find the __Default web browser__ section and select Google Chrome to make it your default browser.
-
-{% include figure url="/assets/images/default-web-browser.png" image_path="/assets/images/default-web-browser.png" %}
-
 ## Signing into Google Chrome
 
 * Open the Google Chrome app on your computer, and click __Sign In__.
