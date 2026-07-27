@@ -78,7 +78,7 @@ __NOTE:__ Never enter a PIN given to you by anyone else.
 <details markdown="1" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 0.75em 1em; margin: 1em 0;">
 <summary style="cursor: pointer; font-size: 1.1em;"><strong>💻 I have Okta Verify on my old laptop</strong></summary>
 
-If you already use Okta Verify on another Mac, you can import your account to your new MacBook over Bluetooth. Make sure Bluetooth is enabled on both devices.
+If you already use Okta Verify on another Mac or Windows device, you can import your account to your new MacBook over Bluetooth. Make sure Bluetooth is enabled on both devices.
 
 1. On your __old MacBook__, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
 
