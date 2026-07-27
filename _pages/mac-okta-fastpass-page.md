@@ -75,6 +75,24 @@ __NOTE:__ Never enter a PIN given to you by anyone else.
 
 </details>
 
+<details markdown="1" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 0.75em 1em; margin: 1em 0;">
+<summary style="cursor: pointer; font-size: 1.1em;"><strong>💻 I have Okta Verify on my old laptop</strong></summary>
+
+If you already use Okta Verify on another Mac, you can import your account to your new MacBook over Bluetooth. Make sure Bluetooth is enabled on both devices.
+
+1. On your __old MacBook__, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
+2. Click __Export account__ and follow the instructions, then click __Allow__ to approve the Bluetooth export. A QR code and an alphanumeric code will appear.
+3. On your __new MacBook__, click __Import account__ on the Okta Verify welcome screen, then follow the prompts.
+4. Click __Continue__ to allow Bluetooth import. If asked to enable Bluetooth, click __OK__, then __Got it__.
+5. Set up the account using the __alphanumeric code__ shown on your old MacBook. When it succeeds, a __6-digit PIN__ appears on your new MacBook.
+6. Enter that 6-digit PIN into Okta Verify on your __old MacBook__ to confirm the pairing.
+7. You'll see a confirmation message on your new MacBook once your account has been added.
+
+__NOTE:__ Never enter a PIN given to you by anyone else.
+{: .notice--warning}
+
+</details>
+
 __NOTE__: Biometrics (Touch ID) are preferred when using Okta FastPass. If you do not enable/use biometrics on your Block-issued device you will be prompted for another factor (password) when using Okta FastPass.
 {: .notice--warning}
 
