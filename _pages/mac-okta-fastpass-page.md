@@ -80,7 +80,7 @@ __NOTE:__ Never enter a PIN given to you by anyone else.
 
 If you already use Okta Verify on another Mac or Windows device, you can import your account to your new MacBook over Bluetooth. Make sure Bluetooth is enabled on both devices.
 
-1. On your __old MacBook__, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
+1. On your __old device, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
 
    {% include figure url="/assets/images/okta-export-menu-bar.png" image_path="/assets/images/okta-export-menu-bar.png" %}
 
