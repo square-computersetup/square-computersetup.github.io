@@ -13,7 +13,7 @@ Let's get your MacBook set up!
 
 Press the __power__ button located at the top-right corner of the keyboard:
 
-{% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" caption="(if you have a Mac Mini, the power button is in the rear)" %}
+{% include figure url="/assets/images/mac-01-power.jpg" image_path="/assets/images/mac-01-power.jpg" %}
 
 Shortly after boot-up, you will be asked to select your Country or Region, any accessibility options you may require, and preferred language:
 
