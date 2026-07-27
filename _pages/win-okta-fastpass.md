@@ -16,9 +16,9 @@ Open the __Okta Verify__ app on your Windows device by clicking the Start menu a
 
 {% include figure url="/assets/images/ofp-win3.png" image_path="/assets/images/ofp-win3.png" %}
 
-{% include figure url="/assets/images/ofp-win4.png" image_path="/assets/images/ofp-win4.png" caption="(Note that Okta Verify Desktop can be run in Light or Dark mode)" %}
+{% include figure url="/assets/images/okta-export-account-button.png" image_path="/assets/images/okta-export-account-button.png" caption="(Okta Verify looks and works the same whether you're on Mac or Windows)" %}
 
-From the welcome screen, add your account using the option that matches how you verify your identity &mdash; expand the one that applies to you:
+Add your account using the option that matches how you verify your identity &mdash; expand the one that applies to you:
 
 <details markdown="1" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 0.75em 1em; margin: 1em 0;">
 <summary style="cursor: pointer; font-size: 1.1em;"><strong>🔑 I have a YubiKey</strong></summary>
