@@ -80,13 +80,13 @@ __NOTE:__ Never enter a PIN given to you by anyone else.
 
 If you already use Okta Verify on another Mac or Windows device, you can import your account to your new MacBook over Bluetooth. Make sure Bluetooth is enabled on both devices.
 
-1. On your __old device, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
+1. On your __old device__, click the Okta Verify icon in the menu bar (Mac) or system tray (Windows), then click __Open Okta Verify__, and select your account.
 
    {% include figure url="/assets/images/okta-export-menu-bar.png" image_path="/assets/images/okta-export-menu-bar.png" %}
 
    {% include figure url="/assets/images/okta-export-account-select.png" image_path="/assets/images/okta-export-account-select.png" %}
 
-2. Click __Export account__, then authenticate with __Touch ID__ or your password when prompted.
+2. Click __Export account__, then authenticate with __Touch ID__, __Windows Hello__, or your password when prompted.
 
    {% include figure url="/assets/images/okta-export-account-button.png" image_path="/assets/images/okta-export-account-button.png" %}
 
@@ -98,8 +98,8 @@ If you already use Okta Verify on another Mac or Windows device, you can import 
 
 4. On your __new MacBook__, click __Import account__ on the Okta Verify welcome screen, then follow the prompts.
 5. Click __Continue__ to allow Bluetooth import. If asked to enable Bluetooth, click __OK__, then __Got it__.
-6. Set up the account using the __alphanumeric code__ shown on your old MacBook. When it succeeds, a __6-digit PIN__ appears on your new MacBook.
-7. Enter that 6-digit PIN into Okta Verify on your __old MacBook__ to confirm the pairing.
+6. Set up the account using the __alphanumeric code__ shown on your old device. When it succeeds, a __6-digit PIN__ appears on your new MacBook.
+7. Enter that 6-digit PIN into Okta Verify on your __old device__ to confirm the pairing.
 8. You'll see a confirmation message on your new MacBook once your account has been added.
 
 __NOTE:__ Never enter a PIN given to you by anyone else.
