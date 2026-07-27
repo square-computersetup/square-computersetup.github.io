@@ -82,19 +82,19 @@ If you already use Okta Verify on another Mac, you can import your account to yo
 
 1. On your __old MacBook__, click the Okta Verify icon in the menu bar, then click __Open Okta Verify__, and select your account.
 
-{% include figure url="/assets/images/okta-export-menu-bar.png" image_path="/assets/images/okta-export-menu-bar.png" %}
+   {% include figure url="/assets/images/okta-export-menu-bar.png" image_path="/assets/images/okta-export-menu-bar.png" %}
 
-{% include figure url="/assets/images/okta-export-account-select.png" image_path="/assets/images/okta-export-account-select.png" %}
+   {% include figure url="/assets/images/okta-export-account-select.png" image_path="/assets/images/okta-export-account-select.png" %}
 
 2. Click __Export account__, then authenticate with __Touch ID__ or your password when prompted.
 
-{% include figure url="/assets/images/okta-export-account-button.png" image_path="/assets/images/okta-export-account-button.png" %}
+   {% include figure url="/assets/images/okta-export-account-button.png" image_path="/assets/images/okta-export-account-button.png" %}
 
-{% include figure url="/assets/images/okta-export-authenticate.png" image_path="/assets/images/okta-export-authenticate.png" %}
+   {% include figure url="/assets/images/okta-export-authenticate.png" image_path="/assets/images/okta-export-authenticate.png" %}
 
 3. Click __Allow__ to approve the Bluetooth export. A QR code and an alphanumeric code will appear.
 
-{% include figure url="/assets/images/okta-export-qr-code.png" image_path="/assets/images/okta-export-qr-code.png" %}
+   {% include figure url="/assets/images/okta-export-qr-code.png" image_path="/assets/images/okta-export-qr-code.png" %}
 
 4. On your __new MacBook__, click __Import account__ on the Okta Verify welcome screen, then follow the prompts.
 5. Click __Continue__ to allow Bluetooth import. If asked to enable Bluetooth, click __OK__, then __Got it__.
